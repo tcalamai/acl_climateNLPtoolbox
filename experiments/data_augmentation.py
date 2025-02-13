@@ -79,7 +79,5 @@ pipe_gibberish = pipeline("text-classification", model="madhurjindal/autonlp-Gib
                           truncation=True, device="cuda")
 
 # Process each dataset
-# for dataset_name in all_datasets:
-# for dataset_name in ["logicClimate", "gw_stance_detection"]:
-for dataset_name in ["logicClimate"]:
+for dataset_name in all_datasets:
     process_dataset(ds_builder, dataset_name, save_path)
