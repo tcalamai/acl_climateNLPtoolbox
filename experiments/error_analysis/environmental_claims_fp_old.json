@@ -1,0 +1,72 @@
+[
+    {
+        "label": "No",
+        "text": "In RY2017, the Kubota Group reduced the amount of VOCs it handles through efforts such as improving the coating method to improve the coating efficiency of paint, promoting replacement with VOC-free materials, and collecting and recycling used thinner.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence describes actions taken by the Kubota Group to reduce VOCs, which indicates a positive impact on the environment by improving coating methods and promoting the use of VOC-free materials.\n```",
+        "comment": "implicit-describe:VOCs can have an impact on the environment. Reducing VOCs primary motivation is for worker health concerns but it can also be a environmental consideration"
+    },
+    {
+        "label": "No",
+        "text": "In late 2018, the division plans to start series production of a city bus with a fully electric drive system on the basis of the Mercedes-Benz Citaro.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence discusses the production of a city bus with a fully electric drive system, which suggests a positive impact on the environment by promoting electric transportation over traditional fossil fuel-powered vehicles.\n```",
+        "comment": "implicit-describe:the citaro is a bus, mercedes turned all those bus as electric bus, marketing them as full-electric, zero emissions"
+    },
+    {
+        "label": "No",
+        "text": "Obviously, it's without a doubt, the environment continues to improve, and that's all good.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence suggests that the environment is improving, which implies a positive impact on the environment.\n```",
+        "comment": "out-of-context:we don't know the context, which makes it difficult to analyse this sentence"
+    },
+    {
+        "label": "No",
+        "text": "Provisions for Environmental Rehabilitations (\"PERs\") We have an obligation to reclaim our mining properties after the minerals have been mined from the site, and have estimated the costs necessary to comply with existing reclamation standards.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence discusses the obligation to reclaim mining properties, which is directly related to environmental rehabilitation and suggests a positive impact on the environment by complying with reclamation standards.\n```",
+        "comment": "error:this is related to the environmental impact of their product, but they do not try to make it as their own initiatives. It could be given some definitions of claims an environmental claim, but with the definition from the paper this is not a env claim."
+    },
+    {
+        "label": "No",
+        "text": "The particularity of this deal is that it included an adjustment mechanism linking the interest rate to the company's CO2 emissions.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence discusses a deal that connects interest rates to CO2 emissions, implying a consideration of environmental impact and suggesting a relationship between financial terms and environmental performance.\n```",
+        "comment": "implicit:They choose to highlight that the contract include the link to emissions, they definitly sugguest that the contract include an environmental dimension therefore the product/investment and therefore the company has environmentally conscious considerations."
+    },
+    {
+        "label": "No",
+        "text": "This reduces KLP's climate risk and makes it clear that our work has an effect on the climate.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence discusses reducing climate risk and indicates that the work has an effect on the climate, suggesting a positive impact on the environment.\n```",
+        "comment": "implicit,ambiguous,out-of-context:this statement is out of context, but it shows that reduce climate risk implies that the work has an effect on climate which is a fallacy, the reduce climate risk can be caused by other things. It is definitly a climate-claim"
+    },
+    {
+        "label": "No",
+        "text": "The recycled fibre is bleached in a Process Chlorine Free (PCF) process and the virgin fibre is Elemental Chlorine Free (ECF) bleached.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence describes the bleaching processes of recycled and virgin fibres, highlighting that they are processed in a way that is less harmful to the environment, which constitutes an environmental claim.\n```",
+        "comment": "describe,out-of-context:this statement describe a process that could be part of a larger discussion on the environmental impact, this is hard to tell"
+    },
+    {
+        "label": "No",
+        "text": "Biomass power generation is the Power Plant is the first biomass power plant where ENEOS process of burning or gasifying biomass to generate is the main operator.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence discusses biomass power generation, which is related to renewable energy and suggests a method of generating power that can be considered environmentally friendly compared to fossil fuels.\n```",
+        "comment": "gibberish:the full sentence highlight the opening of a biomass power plant, which is environmentall friendlier than a coal power plant, but with the missing words, it is hard to say. furthermore it would need more context."
+    },
+    {
+        "label": "No",
+        "text": "Through a plan where everything is handled: solar energy is sourced and located and the business can point to a nearby solar facility and say, 'that's where our solar comes from.'",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence discusses the sourcing of solar energy for a business, suggesting that the business is utilizing renewable energy, which implies a positive impact on the environment.\n```",
+        "comment": "gibberish:They provide transparency on the provenance of the energy, this is related to their communication about the environment but indeed not explciitly a green claim. Also missing a bit of context. Also in cases of doubt (due to gibberish or out of context text) the model should output no"
+    },
+    {
+        "label": "No",
+        "text": "Hydrocarbon spills with an environmental impact: spills with a volume greater than 1 barrel (159 liters) are counted.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence discusses hydrocarbon spills and their environmental impact, indicating a concern for the environment and suggesting that the volume of spills is significant in assessing their effects.\n```",
+        "comment": "table,implicit:this is part of a table or kpi, this is not exactly a claim. However, they indeed show that they count the number of spill, suggesting that they are concerned about it, and are trying to reduce them. Which can be considered a env claim. "
+    }
+]

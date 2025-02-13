@@ -1,0 +1,72 @@
+[
+    {
+        "label": "no",
+        "text": "* Customers' changing preference for environmental friendly product * Shareholders' inclination to invest in companies with sustainable commitment * Reallocation of capitals to cleaner and greener investments by financial institutions. * Significant investment into technologies and infrastructure to address climate change and to look beyond own operations * Increase in operational costs to meet regulatory requirements for GHG emissions and climate change",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph discusses various business activities and trends related to climate change, including investments in technologies and infrastructure to address climate issues, as well as the impact of regulatory requirements on operational costs. It indicates a commitment to sustainability and future-oriented actions in response to changing market preferences.\n```",
+        "comment": "error:this seems to be a table of content or a list of elements that might influence the company. It is indeed not actions or commitment."
+    },
+    {
+        "label": "no",
+        "text": "The impact of climate change has far-reaching implications for economies and societies around the world. If left unchecked, it will have significant detrimental global impacts. The insurance industry is not immune and for general insurers there are specific risks and opportunities at play, compared to those for life insurers. We want to contribute to a long-term sustainable future and know that through our actions as a business we can contribute to climate risk mitigation.",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph discusses the insurance industry's awareness of climate change risks and opportunities, indicating a commitment to contribute to climate risk mitigation, which suggests both past actions and future-oriented targets.\n```",
+        "comment": "debatable,company-philosophy:they do not specify actions in this text but it is a commitment, even if it is not a really explicit/specific one"
+    },
+    {
+        "label": "no",
+        "text": "Our corporate management is responsible for setting our strategic goals, including targets for reducing our CO2 emissions, and for monitoring our progress toward them. The Product Steering Board (PSB) monitors the development of the car fleet's CO2 emissions in markets where such emissions are regulated. It is also responsible for providing forecasts. In its evaluations, the PSB takes into account the increasing degree of vehicle electrification and the changes that have been made to legal requirements, for example those related to the introduction of the new WLTP test procedure. The Board of Ma- nagement then decides which measures need to be implemented. On the market side of the equation, price and volume control mea- sures can also affect our ability to achieve our targets in the short term. For this reason, these measures are also discussed with the Board of Management within the framework of the regular reporting on the current state of CO2 fleet compliance.",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph discusses the company's strategic goals related to reducing CO2 emissions, including monitoring progress and setting targets. It also mentions the role of the Product Steering Board in evaluating emissions and implementing measures, indicating both past actions and future-oriented targets.\n```",
+        "comment": "error,governance:This explain the process of the company and not really actions. However, in this case, one might consider the company process for taking a decision as a decision/action."
+    },
+    {
+        "label": "no",
+        "text": "Ecoefficiency Eco-efficiency management provides a reduction in the consumption of natural resources, such as water and energy, thus minimizing the environmental impact, in addition to the expenses with the acquisition of said inputs. With the same goal, GHG emissions and consumption of materials were rationalized, such as: paper, toner and fuel, reducing the generation of solid waste.",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph discusses eco-efficiency management practices that the firm has undertaken to reduce resource consumption and minimize environmental impact, indicating past actions aimed at improving sustainability.\n```",
+        "comment": "wrong:this is definitly the description of an action which is implementation of Ecoefficiency"
+    },
+    {
+        "label": "no",
+        "text": "While we seek to partner with organizations that mitigate their business risks associated with climate change, we recognize that there are inherent risks wherever business is conducted. Access to clean water and reliable energy in the communities where we conduct our business, whether for our offices or for our vendors, is a priority. Our major sites in California, Utah and India are vulnerable to prolonged droughts due to climate change. In the event of a natural disaster that disrupts business due to limited access to these resources, we have the potential to experience losses to our business, and added costs to resume operations. To accurately assess and take potential proactive action as appropriate, Adobe is aligned with the guidelines of the Financial Stability Board's (\"FSB\") Task Force on Climate-related Financial Disclosures (\"TCFD\") recommendations.",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph discusses Adobe's recognition of climate-related risks to their business operations and their alignment with the TCFD recommendations, indicating both past actions and future-oriented strategies to mitigate these risks.\n```",
+        "comment": "error,governance:seeking to partner is an action, also this an edge case, saying that they can't do something could be relevant for an action analysis. However, given the label definition this is out of scope. Sayng that they are aligne could also be considered an action. But in this case, i would say the original label is correct."
+    },
+    {
+        "label": "no",
+        "text": "1. A Climate Change Working Group (CCWG) was established in 2018, with the responsibility of ensuring that Newton effectively manages climate- related risk and opportunities across the business, by integrating climate-change considerations into investment and business decision-making. The CCWG is chaired by the chief investment officer. Where relevant, these discussions are also fed up to the Board Risk Committee, which is chaired by BNY Mellon Investment Management's Global Head of Governance, Greg Brisk, which is then fed into the board.",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph discusses the establishment of a Climate Change Working Group (CCWG) in 2018, which indicates past actions taken by the firm to manage climate-related risks and opportunities. It also implies ongoing activities related to integrating climate-change considerations into business decision-making, suggesting a commitment to future climate-related actions.\n```",
+        "comment": "wrong,governance:establish a climate group is definitly an action"
+    },
+    {
+        "label": "no",
+        "text": "Climate risk has emerged as one of the top environmental risks for the Bank. This includes physical risks related to the chronic and acute physical impacts of climate change (e.g., shifts in climate norms, and extreme weather events such as hurricanes, wildfires and floods), and transition risks associated with the global transition to a low-carbon economy (e.g., climate-related policy actions and litigation claims, technological innovations, and shifts in supply and demand for certain commodities, products and services). Both physical and transition risks could result in strategic, credit, operational, legal, and reputational risks for the Bank and its clients in climate sensitive sectors. TD supports Canada's objectives to meet the goals of the Paris Agreement and recognizes the Bank's responsibility to contribute by integrating climate considerations across its business. The Bank continues to monitor industry and regulatory developments and assess the potential impacts of climate change and related risks on its operations, lending portfolios, investments, and businesses.",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph discusses the Bank's recognition of climate risks and its responsibility to integrate climate considerations into its business operations. It also mentions the Bank's support for Canada's objectives related to the Paris Agreement, indicating both past actions and future-oriented commitments regarding climate activities.\n```",
+        "comment": "wrong,company-philosophy:integrate climate consideration across its business same thing as :''"
+    },
+    {
+        "label": "no",
+        "text": "The adoption of our climate strategy set in motion actions to help us achieve our climate-protection targets for 2030, 2040, and 2050 In monitoring progress toward them, it is important to remember that year-on- year comparisons can be affected by temporary fluctuations caused by weather patterns and other factors A period of several years is necessary to determine whether the action we take is effective and where we stand with regard to our targets We therefore assess our progress in greater depth every three years as part of a trend analysis Our first assessment was at year-end 2019 (relative to our former 2016 baseline after the Uniper spinoff) The trend (in absolute terms and with regard to our carbon intensity target) indicated that the reduction rate is in line with our forecasts",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph discusses the company's climate strategy and outlines specific climate-protection targets for the years 2030, 2040, and 2050. It also mentions the assessment of progress towards these targets, indicating both past actions and future-oriented goals.\n```",
+        "comment": "wrong,governance: action is assess every 3 year"
+    },
+    {
+        "label": "no",
+        "text": "1 Recycling: To meet the environmental policies of major countries, we operate a recycling process utilizing non-reusable dead batteries and scraps generated during battery production. We have a strategic cooperation relationship with major partners for realizing a closed-loop. Through this system, we extract raw materials of batteries such as nickel, cobalt, and lithium by crushing and dissolving battery waste or scraps.",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph describes the company's recycling process and its strategic cooperation with partners to meet environmental policies, indicating both past actions and ongoing efforts related to climate activities.\n```",
+        "comment": "wrong:action is operate a recycling process. Guidelines seems to indicate that it not only climate related or sustainability related."
+    },
+    {
+        "label": "no",
+        "text": "Governance structure A robust governance structure ensures timely and direct execution of programs that drive the achieve- ment of our set goals for 2020 as well as of our new set of targets for 2025. The head of Sustainability is responsible for the development, coordination and execution of our sustainability strategy and reports to the member of the Executive Board responsible for Global Operations. He or she also leads the sustain- ability Sponsor Board, which is composed of senior representatives from Global Brands, Global Operations, Digital, Sales, Finance, Corporate Communication, and other relevant functions across the company. The Sponsor Board ensures cross-functional alignment, transparent end-to-end management and execution of agreed-upon sustainability goals within their functions. This includes rewiewing and signing-off on policies as required. We also maintain a separate compliance function which is operated as the Social & Environmental Affairs Team (SEA) to evaluate supplier-facing social and environmental com- pliance performance and human rights impacts, reporting, through the General Counsel, to the CEO. !",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph discusses the governance structure in place to achieve sustainability goals set for 2020 and new targets for 2025, indicating both past actions and future-oriented targets related to climate activities.\n```",
+        "comment": "debatable,governance: is describing a governance structure that help achieve goals an action?"
+    }
+]

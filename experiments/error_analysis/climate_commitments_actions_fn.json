@@ -1,0 +1,72 @@
+[
+    {
+        "label": "yes",
+        "text": "D+ This client does not (yet) meet Rabobank's sustainability policy on one or more points or has not responded adequately to key questions. Specific agreements are made about a possible solution and timelines are established. Once the customer meets the sustainability policy of Rabobank, it is classified in category A, B or C.",
+        "gpt-4o-mini_label": "no",
+        "gpt-4o-mini_explanation": "The paragraph discusses the client's current status regarding Rabobank's sustainability policy but does not provide specific information about any business or climate activities or targets set by the firm.\n```",
+        "comment": "wrong,description:this text describe the notation of clients, which is not an action. They describe a process. Comparable to other negatives"
+    }, 
+    {
+        "label": "yes",
+        "text": "All our major investment proposals (more than EUR5 million) require a sustainability evaluation alongside the financial case. This includes assessments at different stages in the project development. At the point of application for capital, the requirements include an eco-efficiency assessment, as well as a full review of health and safety, natural resource/ raw material requirements and environmental impacts. The proposals are reviewed by subject matter experts, who give input to the Executive Committee, to provide a strong basis for the investment decision.",
+        "gpt-4o-mini_label": "no",
+        "gpt-4o-mini_explanation": "The paragraph discusses the process of evaluating investment proposals with a focus on sustainability, but it does not mention any specific business or climate activities or targets set by the firm, nor does it indicate any future-oriented actions or achievements.\n```",
+        "comment": "error:Well once again this describe a process, but in this case, the assessment is used to make an investement, which means that they act on the assessment. An action is to review all major investments proposal."
+    },
+    {
+        "label": "yes",
+        "text": "Sustainable strategy 'red lines' For our sustainable strategy range, we incorporate a series of proprietary 'red lines' in order to ensure the poorest- performing companies from an ESG perspective are not eligible for investment.",
+        "gpt-4o-mini_label": "no",
+        "gpt-4o-mini_explanation": "The paragraph discusses a sustainable strategy related to investment criteria but does not provide any specific information about business activities, climate actions, or targets set by a firm.\n```",
+        "comment": "error: same a before, they describe a process, but it part of an action: to exclude the poor performer they include red lines."
+    },
+    {
+        "label": "yes",
+        "text": "In addition, the Queensland Government has established an $8.4 million CarbonPlus Fund administered by the department. The fund will enable greater participation by Aboriginal landholders in carbon markets, offset carbon emissions from the Queensland Government's car fleet for two years, and incentivise carbon farming projects in Queensland by valuing environmental, social and cultural co-benefits.",
+        "gpt-4o-mini_label": "no",
+        "gpt-4o-mini_explanation": "The paragraph discusses a government fund and its intended purposes but does not provide information about specific actions or targets set by a firm. It focuses on government initiatives rather than business activities or targets.\n```",
+        "comment": "error: This talk about an action creating a fund is an action."
+    },
+    {
+        "label": "yes",
+        "text": "In our view, true sustainable investing cannot be achieved by simply voting a proxy, adding a director of sustainability or even divesting from an asset class. Because traditional models of finance and investing often fail to appropriately integrate sustainability issues, we've had to build it into our thinking from the ground up. It requires integration across our products, across our product teams and across our entire organization.",
+        "gpt-4o-mini_label": "no",
+        "gpt-4o-mini_explanation": "The paragraph discusses the philosophy of sustainable investing and the need for integration of sustainability into financial practices, but it does not mention any specific business activities, climate targets, or actions taken by the firm.\n```",
+        "comment": "error,company-philosophy:they say that they integrated the sustainable aspect into their product, the action is not explicit but it is."
+    },
+    {
+        "label": "yes",
+        "text": "Our sustainability efforts are underpinned by strong corporate governance, which we continue to reinforce in line with recommendations of the Malaysian Code on Corporate Governance 2017 (MCCG 2017). This saw us set up a new Board Risk Committee to further enhance our risk oversight, adding to the existing Board Audit Committee and Nomination and Remuneration Committee. The Board as a whole comprises four Independent Non-Executive Directors (INEDs), who make up 50% of its composition, two of whom are foreign Directors. On a related note, I represented the Group in signing an Integrity Pact with the Malaysian Anti-Corruption Commission (MACC), underlining our commitment to observing integrity in all our dealings with stakeholders.",
+        "gpt-4o-mini_label": "no",
+        "gpt-4o-mini_explanation": "The paragraph discusses corporate governance and integrity initiatives but does not provide any specific information about business or climate activities or targets set by the firm.\n```",
+        "comment": "error,governance:Not climate related, setting a Committee is an action, NAAC is about corruption not env. The qestion here is does the action are broad or climate related only."
+    },
+    {
+        "label": "yes",
+        "text": "In 2019, the Company closed a series of transactions related to the sale of its Canadian fossil fuel-based electricity generation business. A transaction with Heartland Generation Ltd., an affiliate of Energy Capital Partners, included the sale of 10 partly or fully owned natural gas-fired and coal-fired electricity generation assets located in Alberta and British Columbia. In two other separate transactions, the Company sold its 50 per cent ownership interest in the Cory Cogeneration Station to SaskPower International and its 50 per cent ownership interest in Brighton Beach Power to Ontario Power Generation.",
+        "gpt-4o-mini_label": "no",
+        "gpt-4o-mini_explanation": "The paragraph describes past business transactions related to the sale of fossil fuel-based electricity generation assets but does not mention any climate activities or future targets set by the firm.\n```",
+        "comment": "error,energy:energy is climate-related, still the same error as on other task. Anyway, the task is not necessarly climate-related"
+    },
+    {
+        "label": "yes",
+        "text": "Training The board is receiving ongoing training to ensure their skills and knowledge are enhanced with respect to climate change. In 2020 a total of 559 employees were trained on 'What the Covid-19 pandemic can teach us about climate change' and 'How climate risk affects Nedbank?' through the Nedbank Risk Business School. Various informal training sessions were also conducted. Fit-for purpose training will continue across the enterprise to ensure climate change is integrated into the various functions. This includes e-learnings for all Nedbank employees.",
+        "gpt-4o-mini_label": "no",
+        "gpt-4o-mini_explanation": "The paragraph discusses training initiatives related to climate change but does not mention any specific business activities, targets, or achievements set by the firm. It focuses on employee training rather than actionable goals or outcomes.\n```",
+        "comment": "error,governance:action is training the board"
+    },
+    {
+        "label": "yes",
+        "text": "On December 31, 2019, the Company sold its 100 per cent investment in ASHCOR Technologies Ltd. (ASHCOR), an Alberta-based company engaged in marketing coal ash and other combustion products, to ATCO Ltd. for aggregate consideration of $35 million ($20 million, net of cash disposed). The transaction resulted in no significant impact on the consolidated earnings. ASHCOR was previously reported in the Utilities, Electricity segment.",
+        "gpt-4o-mini_label": "no",
+        "gpt-4o-mini_explanation": "The paragraph discusses a business transaction involving the sale of an investment but does not provide any information on climate activities or targets set by the firm.\n```",
+        "comment": "error,energy:same as before, energy is indirectly linked to climate-change."
+    },
+    {
+        "label": "yes",
+        "text": "Moreover, we continue to enhance the durability, safety, quality and performance of its products to ensure that consumers can comfortably enjoy them over an extended period, as well as design and develop various accessories, and pursue cost-cutting and energy conservation initiatives.",
+        "gpt-4o-mini_label": "no",
+        "gpt-4o-mini_explanation": "The paragraph discusses product durability, safety, quality, and performance, as well as cost-cutting and energy conservation initiatives, but it does not specify any concrete business or climate activities or targets set by the firm.\n```",
+        "comment": "error:business action anyway, but indirectly affect climate anyway. However the action is not specific."
+    }
+]

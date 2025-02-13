@@ -1,0 +1,72 @@
+[
+    {
+        "label": "non-specific",
+        "text": "The Company continues to carefully manage physical risks, including preparing for, and responding to, extreme weather events through activities such as proactive route selection, asset hardening, regular maintenance, and insurance. The Company follows regulated engineering codes, continues to evaluate ways to create greater system reliability and resiliency and, where appropriate, submits regulatory applications for capital expenditures aimed at creating greater system reliability and resiliency within the code.",
+        "gpt-4o-mini_label": "specific",
+        "gpt-4o-mini_explanation": "The paragraph outlines specific actions the Company is taking to manage physical risks related to extreme weather events, including proactive route selection and asset hardening. It also mentions regulatory applications for capital expenditures aimed at enhancing system reliability and resiliency, providing clear and detailed information about the Company's strategies and objectives.\n```",
+        "comment": "debatable:- Provide clear and specific details of action to achieve a tangible and clearly defined objective."
+    },
+    {
+        "label": "non-specific",
+        "text": "Sustainable strategy 'red lines' For our sustainable strategy range, we incorporate a series of proprietary 'red lines' in order to ensure the poorest- performing companies from an ESG perspective are not eligible for investment.",
+        "gpt-4o-mini_label": "specific",
+        "gpt-4o-mini_explanation": "The paragraph outlines a specific aspect of the company's sustainable strategy by mentioning proprietary 'red lines' that determine eligibility for investment based on ESG performance, indicating a clear criterion for decision-making.\n```",
+        "comment": "debatable,granularity: the red lines are not specific, but the strategy to exclude poorest performing companies is specific: red lines."
+    },
+    {
+        "label": "non-specific",
+        "text": "The Group intends to strengthen how it systematically considers climate-related issues from a risk and opportunity perspective across business areas, strategic decision making and financial planning in order to be better able to describe impacts.",
+        "gpt-4o-mini_label": "specific",
+        "gpt-4o-mini_explanation": "The paragraph outlines a clear intention of the Group to systematically consider climate-related issues in specific areas such as risk assessment, strategic decision making, and financial planning, indicating a tangible approach to addressing climate impacts.\n```",
+        "comment": "error:could apply to the industry"
+    },
+    {
+        "label": "non-specific",
+        "text": "KEY PRIORITIES FOR 2021 * Attain top market share in our Canadian franchise. * Grow our U.S. dollar business in sectors where we are competitively positioned, adding new clients and deepening our relationship value by maturing our product and advice offerings. * Leverage our North American franchise and global capabilities to grow our Europe and Asia-Pacific businesses. * Increase wallet share with sponsor, institutional, prime services and government clients globally. * Continue to develop ESG expertise and become a leader in the space as we support clients on their transition to a low-carbon economy. * Drive innovation and build data and analytical capabilities to improve end-to-end process efficiency and enhance client value. * Continue to lower our cost structure to reflect reduced margins and volumes in parts of our business and create capacity for additional investments. * Maintain our focus on managing risk, capital, balance sheet, and liquidity. * Continue to be an extraordinary place to work with a focus on inclusion and diversity.",
+        "gpt-4o-mini_label": "specific",
+        "gpt-4o-mini_explanation": "The paragraph outlines clear and specific priorities for the company in 2021, detailing measurable goals and strategies for growth, client relationships, ESG expertise, innovation, cost management, and workplace culture.\n```",
+        "comment": "error,granularity:it is indeed clear and specific priorities, even if it is not a clear and specific action. - Definition of some intangible, non-verifiable goals, and no elaboration on the ways to achieve them."
+    },
+    {
+        "label": "non-specific",
+        "text": "(3) In addition to confirmation of compliance, we confirm the status of continuous improvements and corrections being made towards the achievement of the environmental targets. When necessary, we require audited sites to review plans.",
+        "gpt-4o-mini_label": "specific",
+        "gpt-4o-mini_explanation": "The paragraph outlines specific actions being taken towards achieving environmental targets, including the confirmation of compliance and the requirement for audited sites to review plans, indicating a clear strategy for continuous improvement.\n```",
+        "comment": "error:not specific improvments/corrections"
+    },
+    {
+        "label": "non-specific",
+        "text": "Australian and foreign laws regulate environmental obligations and waste discharge quotas. Government agency audits and site inspections monitor CSL environmental performance. The EHS2 function continues to refine standards, processes, and data collection systems so CSL is ready to meet the new regulatory requirements.",
+        "gpt-4o-mini_label": "specific",
+        "gpt-4o-mini_explanation": "The paragraph outlines specific actions taken by CSL to comply with environmental regulations, including audits, inspections, and the refinement of standards and processes to meet new regulatory requirements.\n```",
+        "comment": "debatable:EHS2 is a platfrom to report incident. They are specific on how to atteign the goal, they use a tool to collect data."
+    },
+    {
+        "label": "non-specific",
+        "text": "Governance Links: The CEO and Chairman of the Board sits on the SLC and can bring relevant climate-related items to the Company's Board of Directors and its Governance & Public Responsibility Committee, which has oversight of many of the Company's Corporate Citizenship efforts, including climate.",
+        "gpt-4o-mini_label": "specific",
+        "gpt-4o-mini_explanation": "The paragraph details the governance structure related to climate issues within the company, specifying the roles of the CEO and the Board in overseeing climate-related items, which indicates a clear and specific approach to addressing climate governance.\n```",
+        "comment": "error,governance:this is a governance issue, and it is specific: the CEO has access to SLC and can bring climate-related items. It does not say that they do but,it is specific. "
+    },
+    {
+        "label": "non-specific",
+        "text": "In addition, climate-related risks and opportunities are integrated into the Group-wide risk management process at Daimler. Via the segments, information for reporting to the Board of Management and Supervisory Board is passed on to Group Risk Management.",
+        "gpt-4o-mini_label": "specific",
+        "gpt-4o-mini_explanation": "The paragraph details how Daimler integrates climate-related risks and opportunities into its risk management process, specifying the flow of information to the Board of Management and Supervisory Board, which indicates a clear operational strategy.\n```",
+        "comment": "error,governance:alol governance issue are fundamentally vague and wide. Not specific. So yes this is not specific, but it would need to be clearer in the label definition."
+    },
+    {
+        "label": "non-specific",
+        "text": "Extreme weather events represent a potential risk. Loss or impairment of key manufacturing sites, inability to procure sufficient raw materials, disruption to transportation of raw materials or finished goods, etc. could disrupt our operations if they are not effectively managed and remedied. We have over 100 sites globally and a broad supplier network. This provides some level of flexibility to adjust production and sourcing. In addition, each site has a business continuity plan, which is regularly reviewed and updated. These plans include considerations for disruptions caused by extreme weather events.",
+        "gpt-4o-mini_label": "specific",
+        "gpt-4o-mini_explanation": "The paragraph outlines specific risks related to extreme weather events and details the company's operational strategies, including the existence of business continuity plans that are regularly reviewed and updated to address these risks.\n```",
+        "comment": "debatable:they are specific as they state that 1) there is flexibility with the different sites, 2) the sites have continuity plans which refers to a specific action: provided plan."
+    },
+    {
+        "label": "non-specific",
+        "text": "In January 2020, a new estimation method to report Unaccounted for Gas (UAFG) emissions resulting from natural gas distribution activities was introduced in Australia. This approach enables site/network specific UAFG values to be used, allowing us to translate network maintenance and replacement activities into reportable reductions in UAFG emissions.",
+        "gpt-4o-mini_label": "specific",
+        "gpt-4o-mini_explanation": "The paragraph details a specific estimation method introduced in January 2020 for reporting UAFG emissions, including how it allows for site/network specific values and connects maintenance activities to measurable reductions in emissions.\n```",
+        "comment": "error: this is not specific to the company but is more industry wide."
+    }
+]

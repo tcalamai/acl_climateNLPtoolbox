@@ -1,0 +1,72 @@
+[
+    {
+        "label": "No",
+        "text": "This reduces KLP's climate risk and makes it clear that our work has an effect on the climate.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence suggests that KLP's actions have a positive impact on the climate by reducing climate risk, which qualifies as an environmental claim.\n```",
+        "comment": "implicit,out-of-context:this statement is out of context, but it shows that reduce climate risk implies that the work has an effect on climate which is a fallacy, the reduce climate risk can be caused by other things. It is definitly a climate-claim"
+    },
+    {
+        "label": "No",
+        "text": "Provisions for Environmental Rehabilitations (\"PERs\") We have an obligation to reclaim our mining properties after the minerals have been mined from the site, and have estimated the costs necessary to comply with existing reclamation standards.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence discusses the obligation to reclaim mining properties, which directly relates to environmental rehabilitation and suggests a commitment to minimizing environmental damage.\n```",
+        "comment": "error:this is related to the environmental impact of their product, but they do not try to make it as their own initiatives. It could be given some definitions of claims an environmental claim, but with the definition from the paper this is not a env claim."
+    },
+    {
+        "label": "No",
+        "text": "But it's certainly a hefty investment that needs to be made in our state for renewable energy in order to meet that portfolio of standard.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence discusses the need for investment in renewable energy, which suggests a positive impact on the environment and aligns with the concept of environmental claims.\n```",
+        "comment": "error,assumption:they are probably not talking about themselves. Hard to tell without more context"
+    },
+    {
+        "label": "No",
+        "text": "Renewable energy is purely domestic sourced and environment-friendly, and can be used continuously without being depleted.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence asserts that renewable energy is sourced domestically and is environmentally friendly, indicating a positive impact on the environment.\n```",
+        "comment": "error,assumption:if the company talk about it's own energy supplier, this would suggest an environmental claim, but would need assumptions."
+    },
+    {
+        "label": "No",
+        "text": "Through a plan where everything is handled: solar energy is sourced and located and the business can point to a nearby solar facility and say, 'that's where our solar comes from.'",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence discusses a business sourcing solar energy from a nearby facility, suggesting a positive environmental impact by utilizing renewable energy.\n```",
+        "comment": "error,assumption,out-of-context:this rely on the appeal to renewable energy, but as we don't know who is saying that and in what context, this is hard to tell"
+    },
+    {
+        "label": "No",
+        "text": "In terms of initiatives regarding energy issues, the AGC Group works to reduce the energy involved in its production activities.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence indicates that the AGC Group is taking initiatives to reduce energy consumption in its production activities, suggesting a positive impact on the environment.\n```",
+        "comment": "wrong:they explicitly tell that they want to reduce their energy consumption which is an environmental claim as it would be better for the environment."
+    },
+    {
+        "label": "No",
+        "text": "Pursuant to the service concession arrangements, the Group was granted rights to construct, operate and maintain environmental energy projects, greentech projects and environmental water projects in the PRC for a period of 7 to 50 years.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence discusses the construction and maintenance of environmental energy projects and greentech projects, which directly relates to positive environmental impacts.\n```",
+        "comment": "debatable,implicit-describe:they describe the rights that they have acquired but also shows that they are now focusing on environmental project, which can suggest the good env perf of the company."
+    },
+    {
+        "label": "No",
+        "text": "Eiffage Energie Systemes designs, builds, maintains and operates every kind of power station, including photovoltaic solar, thermal solar, wind-powered, hydroelectric and biomass.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence describes various types of power stations, including renewable energy sources like photovoltaic solar, wind-powered, and hydroelectric, which suggests a positive impact on the environment.\n```",
+        "comment": "debatable,implicit-describe:They specifically mention that they also work in renewable, which makes it a green claim."
+    },
+    {
+        "label": "No",
+        "text": "Obviously, it's without a doubt, the environment continues to improve, and that's all good.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence suggests that the environment is improving, which implies a positive impact on the environment.\n```",
+        "comment": "error,assumption,implicit:while this might be a claim, we can't say because there is not context"
+    },
+    {
+        "label": "No",
+        "text": "So it's nice to see that people are recognizing the impact that our business has, in a positive way, on jobs in the region, and we still remain sensitive and committed to our Water First approach at Conga.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence highlights a commitment to a \"Water First approach,\" which suggests a focus on environmental sustainability and responsible water management, indicating a positive impact on the environment.\n```",
+        "comment": "error,out-of-context:in this case, the water first, means that they construct water reservoir in dry region so population have water. Does this relate to the environment. Is adapting to environmental condition about the environment"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "label": "Yes",
+        "text": "According to WindEurope, the European wind industry association, in about for electricity generation, the ocean is simply too deep for conventional foundation designs.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The text discusses the challenges of using conventional foundation designs for electricity generation in deep ocean environments, but it does not address any specific environmental topics such as energy use, pollution, or sustainability.\n```",
+        "comment": "error,energy:related to E as they talk about energy."
+    },
+    {
+        "label": "Yes",
+        "text": "e Natural gas liquids for Russia are included in crude oil.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The text mentions natural gas liquids and crude oil in the context of Russia, but it does not address any specific environmental topics such as energy use, pollution, or sustainability.\n```",
+        "comment": "error,energy:related to E as they talk about energy."
+    },
+    {
+        "label": "Yes",
+        "text": "In June solar inverters business which was sold in February 2020 (See Note 4 for details).",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The text does not provide any information related to environmental topics such as energy use, waste management, or climate change; it merely mentions a business transaction without context on environmental impact.\n```",
+        "comment": "error,truncated:"
+    },
+    {
+        "label": "Yes",
+        "text": "In April 2010, the Board of Directors of the Company determined to join the FTSE4Good Index Series.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The text mentions the company's decision to join the FTSE4Good Index Series, but it does not provide any specific information related to environmental topics such as energy use, waste management, or climate change.\n```",
+        "comment": "error:need to know what FTSE4Good means, could guess (but its a ESG index so include E)"
+    },
+    {
+        "label": "Yes",
+        "text": "In recent years, we have forged a range of partnerships with businesses and research institutes seeking to work closely with us to develop a comprehensive hydrogen infrastructure.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The text focuses on partnerships for developing hydrogen infrastructure, which does not explicitly address environmental topics such as energy use, waste management, or pollution. It lacks direct references to climate change or sustainability issues.\n```",
+        "comment": "error,out-of-context:without knowing the company, this does not relate to climate, but if it is about a car company maybe it can be relevant. If it is about air liquide, i think it is not relevant."
+    },
+    {
+        "label": "Yes",
+        "text": "The pandemic may also have long-term effects on the nature of the office environment and remote working, which may result in increased costs and present operational and workplace culture challenges that may also adversely affect our business.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The text focuses on the impacts of the pandemic on office environments and workplace culture, which do not relate to environmental topics such as energy use, pollution, or climate change.\n```",
+        "comment": "wrong:culture but not E"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "label": 0,
+        "text": "* a change in the demand or production of our products caused by severe weather conditions;.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence refers to changes in demand or production due to severe weather conditions, which implies a connection to climate change as it suggests that these weather conditions are influenced by climate-related factors.\nLabel: 1\n```",
+        "comment": "implicit,out-of-context,debatable:The statement is out of context, but it might be related to climate change. Maybe like Monsoons can affect shipping ?"
+    }
+]

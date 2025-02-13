@@ -1,0 +1,132 @@
+{
+  "climatext":{
+    "labels": {
+      "1": "Yes",
+      "0": "No"
+    }
+  },
+  "esgbert_category_water": {
+    "labels": {
+      "1": "Water",
+      "0": "No Water"
+    }
+  },
+  "esgbert_category_forest":{
+    "labels": {
+      "1": "Forest",
+      "0": "No Forest"
+    }
+  },
+  "esgbert_category_biodiversity": {
+    "labels": {
+      "1": "Biodiversity",
+      "0": "No Biodiversity"
+    }
+  },
+  "esgbert_category_nature":{
+    "labels": {
+      "1": "Nature",
+      "0": "No Nature"
+    }
+  },
+  "climaQA": {
+    "labels": {
+      "1": "Yes",
+      "0": "No"
+    }
+  },
+  "ClimaINS_ours":{
+    "labels": {
+      "0": "EMISSIONS",
+      "1": "RISK PLAN",
+      "2": "ASSESS",
+      "3": "RISKS",
+      "4": "INVEST",
+      "5": "MITIGATE",
+      "6": "ENGAGE",
+      "7": "MANAGE"
+    }
+  },
+  "environmental_claims": {
+    "labels": {
+      "1": "Yes",
+      "0": "No"
+    }
+  },
+  "lobbymap_pages": {
+    "labels": {
+      "1": "The page contains one or more evidence about the stance of the company regarding any of the policy mentioned above.",
+      "0": "The page does not contain evidence about the stance of the company regarding any of the policy."
+    }
+  },
+
+  "esgbert_e": {
+    "labels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "esgbert_s":{
+    "labels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "esgbert_g": {
+    "labels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "esgbert_action500":{
+    "labels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+
+  "contrarian_claims": {
+    "description": "The goals of this task to identify if the text contains a claims against climate-change (a contrarian claim). While identifying the contrarian claims, you must also classify them into types of contrarian claims.",
+    "labels": {
+      "0_0": "No claim, No claim",
+
+      "1_1":"Global warming is not happening, Ice/permafrost/snow cover isn’t melting",
+      "1_2":"Global warming is not happening, We’re heading into an ice age/global cooling",
+      "1_3":"Global warming is not happening, Weather is cold/snowing",
+      "1_4":"Global warming is not happening, Climate hasn’t warmed/changed over the last (few) decade(s)",
+      "1_6":"Global warming is not happening, Sea level rise is exaggerated/not accelerating",
+      "1_7":"Global warming is not happening, Extreme weather isn’t increasing/has happened before/isn’t linked to climate change",
+
+      "2_1":"Human greenhouse gases are not causing climate change, It’s natural cycles/variation",
+      "2_3":"Human greenhouse gases are not causing climate change, There’s no evidence for greenhouse effect/carbon dioxide driving climate change",
+
+      "3_1":"Climate impacts/global warming is beneficial/not bad, Climate sensitivity is low/negative feedbacks reduce warming",
+      "3_2":"Climate impacts/global warming is beneficial/not bad, Species/plants/reefs aren’t showing climate impacts/are benefiting from climate change",
+      "3_3":"Climate impacts/global warming is beneficial/not bad, CO2 is beneficial/not a pollutant",
+
+      "4_1":"Climate solutions won’t work, Climate policies (mitigation or adaptation) are harmful",
+      "4_2":"Climate solutions won’t work, Climate policies are ineffective/flawed",
+      "4_4":"Climate solutions won’t work, Clean energy technology/biofuels won’t work",
+      "4_5":"Climate solutions won’t work, People need energy (e.g. from fossil fuels/nuclear)",
+
+      "5_1":"Climate movement/science is unreliable, Climate-related science is unreliable/uncertain/unsound (data, methods & models)",
+      "5_2":"Climate movement/science is unreliable, Climate movement is unreliable/alarmist/corrupt"
+    }
+  },
+  "climateEng":{
+    "labels": {
+      "0": "General",
+      "1": "Politics",
+      "2": "Ocean/Water",
+      "3": "Agriculture/Forestry",
+      "4": "Disaster"
+    }
+  },
+  "climateStance": {
+    "labels": {
+      "0": "Ambiguous",
+      "1": "Favor",
+      "2": "Against"
+    }
+  }
+}

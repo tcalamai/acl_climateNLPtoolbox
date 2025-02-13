@@ -1,0 +1,72 @@
+[
+    {
+        "label": "Favor",
+        "text": "@JoeBlac76575191 @vanbadham My point t is China uses it devolving status to get an easy ride - while Australia who is making reductions - continues down a silly track of higher energy prices for no real change in outcomes for this so called climate emergency",
+        "gpt-4o-mini_label": "Against",
+        "gpt-4o-mini_explanation": "The tweet criticizes Australia's efforts to reduce emissions while suggesting that China's status allows it to avoid similar responsibilities. It implies skepticism about the effectiveness of climate change policies and suggests that the actions taken are misguided, indicating a stance against climate change prevention efforts.\nLabel: Against\n```",
+        "comment": "wrong,policy:definitly agree with gpt, this tweet is about not applying policies that could limit climate change, therefore beeing. While it expresss concerns, the main idea is on opposing climate-friendly policy as they would detrimental to australia - opposition of climate change policies or actions taken by the governing bodies."
+    },
+    {
+        "label": "Favor",
+        "text": "\ud83d\udce2Joint Seminar IDL-cE3c: next Wednesday (18th December). Joana Portugal Pereira will present her contribution to the recent #IPCC special reports on Climate Change and Land and Global Warning of 1.5oC. More inf\ud83d\udc47 <URL>\n#climatechange #globalwarning <URL>",
+        "gpt-4o-mini_label": "Ambiguous",
+        "gpt-4o-mini_explanation": "The tweet promotes a seminar discussing the IPCC special reports on climate change, indicating an engagement with the topic and suggesting a focus on climate change issues. However, it does not explicitly express a stance for or against climate change prevention.\nLabel: Ambiguous\n```",
+        "comment": "error,implicit:indeed this tweet does not contains a stance, but promoting a conf from IPCC authors is clearly talking about climate-related content (could be more precise in the prompt)"
+    },
+    {
+        "label": "Favor",
+        "text": "@HRH_RHBorisIWS @dieserzimb3l @JeremyClarkson @GretaThunberg Let's not get into labour, let's keep it to agreeing on the climate change subject trust me its better for everything I was using the uni fees as an example.",
+        "gpt-4o-mini_label": "Ambiguous",
+        "gpt-4o-mini_explanation": "The tweet suggests a preference for focusing on climate change discussions rather than political disagreements, indicating a supportive stance towards addressing climate change issues. However, it does not explicitly express a strong opinion or action in favor of climate change prevention.\nLabel: Ambiguous\n```",
+        "comment": "debatable,out-of-context,policy: Hum that's not clear, i don't think this is about climate-change. The climate-change topic here is used as red herring to avoid talking about labour. But without the context we can't say if it was really talking about labour. Maybe this is a climate-policy contrarian stance"
+    },
+    {
+        "label": "Ambiguous",
+        "text": "She has not done a single thing for climate change besides reading from a script that someone gave her. Time is a sensationalist joke now <URL>",
+        "gpt-4o-mini_label": "Against",
+        "gpt-4o-mini_explanation": "The tweet criticizes an individual's lack of genuine action towards climate change, implying a negative view of their efforts and suggesting that current discussions around climate change are exaggerated or insincere. This indicates a stance against climate change prevention efforts.\nLabel: Against\n```",
+        "comment": "debatable,out-of-context:this is a fallacy - tu quoque. Definitly the goal is to discredit the argument. In this case, while the tweet lack context, this is probably about GretaThunberg. Definitly denying, but it is implicit. I believe that most poeple arguing against greta are climate-denier or have stance against taking action. But without more context, it is hard to say."
+    },
+    {
+        "label": "Favor",
+        "text": "Yarra Council has plans to spend $3 mill of your money to combat climate change ..reducing car parks , cutting speed limits and hiring \"eco warriors\" to preach to locals . They say residents want this ..do they? 10am \"Sunday Morning\" @3AW693",
+        "gpt-4o-mini_label": "Against",
+        "gpt-4o-mini_explanation": "The tweet expresses skepticism towards the actions taken by the Yarra Council to combat climate change, suggesting that the spending and measures may not align with the residents' desires. This indicates a stance against climate change prevention efforts.\nLabel: Against\n```",
+        "comment": "wrong,policy:definitly this statement is against policies toward minimazing climate change. They acknowledge cc however."
+    },
+    {
+        "label": "Favor",
+        "text": "living through climate change, I know what it's like to be a townsperson in an RPG who goes, \"there sure are a lot more wandering monsters than there used to be!\"",
+        "gpt-4o-mini_label": "Ambiguous",
+        "gpt-4o-mini_explanation": "The tweet uses a metaphor comparing climate change to an RPG scenario, which suggests a level of awareness about the changes occurring due to climate change. However, it does not clearly express a stance in favor of prevention or against it, making it ambiguous in nature.\nLabel: Ambiguous\n```",
+        "comment": "error,implicit:Here the stance is not explicit, but we understand through the metaphore that the person is expressing concerns about CC. Nothing makes me believe they would deny actions. However, this is more a joke than a stance. Ambiguous could also fit, but it is more Favor imo."
+    },
+    {
+        "label": "Ambiguous",
+        "text": "Then they finish off with a bunch of quotes from people of known liberal groups!\nThe second one you sent me from politifact says that the petition is real and the signatures are real they just said it didn't use the words that climate change is a hoax!!...",
+        "gpt-4o-mini_label": "Against",
+        "gpt-4o-mini_explanation": "The tweet appears to express skepticism towards the framing of climate change discussions, suggesting a dismissive attitude towards the seriousness of climate change and possibly opposing the narrative that emphasizes its urgency. \nLabel: Against\n```",
+        "comment": "error,out-of-context:this statement is out-of-context, it is difficult to say a definit stance. But ambiguous would fit better here."
+    },
+    {
+        "label": "Favor",
+        "text": "Picture reposted from @NASA\n#Home #NASA #regrann #earth #carlsagan #perspective #climatechange #climate #world #human #life #onelife #planet #science #savetheplanet #perception <URL>",
+        "gpt-4o-mini_label": "Ambiguous",
+        "gpt-4o-mini_explanation": "The tweet does not express a clear stance towards climate change prevention; it primarily consists of hashtags and a repost without any explicit opinion or action regarding climate change.\nLabel: Ambiguous\n```",
+        "comment": "debatable,out-of-context,implicit:well in this tweet we lack a lot of context, we could guess that it is a picture from nasa that is implicitly favor, but it is hard to tell here. Ambiguous seems as correct as favor."
+    },
+    {
+        "label": "Favor",
+        "text": "But are solutions towards zero emissions as promising as they seem? This well-documented story by @johncarlosbaez contains some sobering numbers: <URL> via @NautilusMag #ClimateChange #ClimateCrisis 2/2",
+        "gpt-4o-mini_label": "Ambiguous",
+        "gpt-4o-mini_explanation": "The tweet questions the effectiveness of solutions aimed at achieving zero emissions, suggesting skepticism about their promise. This indicates a lack of clear support for climate change prevention efforts, leaning towards an ambiguous stance.\nLabel: Ambiguous\n```",
+        "comment": "debatable:this is a tricky position: for example beeing against proposed solutions a stance against climate change ?"
+    },
+    {
+        "label": "Against",
+        "text": "\u2139\ufe0f Sindicatos & Campaign against climate change\n#COP25 #COP25Madrid #CumbreDelClima\n\ud83d\udd34 #DVGroup \ud83c\udfa5 <URL>",
+        "gpt-4o-mini_label": "Favor",
+        "gpt-4o-mini_explanation": "The tweet mentions a campaign against climate change and includes relevant hashtags associated with climate action, indicating support for climate change prevention efforts.\nLabel: Favor\n```",
+        "comment": "wrong:mis-understanding by the annotators, against climate change is the favor label."
+    }
+]

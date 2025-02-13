@@ -1,0 +1,44 @@
+[
+    {
+        "label": "yes",
+        "text": "On January 5, 2021, Centrica plc. closed a transaction to sell its entire ownership interest in Direct Energy to NRG Energy Inc. (NRG). Effective January 5, 2021, NRG provided a $300 million guarantee, supported by a $300 million letter of credit for Direct Energy's obligations to ATCO Gas and ATCO Electric under the transaction agreements.",
+        "gpt-4o-mini_label": "no",
+        "gpt-4o-mini_explanation": "The paragraph discusses a corporate transaction involving Centrica plc and NRG Energy Inc. without any mention of climate policy, climate change, or environmental topics.\n```",
+        "comment": "wrong:here we have the word energy, but it is only in the name of the company"
+    },
+    {
+        "label": "yes",
+        "text": "NGTL and Natural Gas Transmission agreed that, consistent with the geographic areas defined in their Integration Agreement, Natural Gas Transmission would transfer to NGTL the 30-km segment of the Pioneer Pipeline located in the NGTL footprint for approximately $63 million. Natural Gas Transmission will retain ownership and continue to operate the portion of the Pioneer Pipeline located in the Natural Gas Transmission footprint. Upon completion of this transfer, and some additional investment to connect the pipeline to the existing system, the Pioneer Pipeline acquisition will add a net $200 million to the Natural Gas Transmission asset base.",
+        "gpt-4o-mini_label": "no",
+        "gpt-4o-mini_explanation": "The paragraph discusses a financial transaction and operational details related to the transfer of pipeline ownership, without any mention of climate policy, climate change, or environmental topics.\n```",
+        "comment": "wrong: again, natural gas is the name of the company. it would be wrong to classify all sentences talking about this company as about the climate"
+    },
+    {
+        "label": "yes",
+        "text": "In December 2020, the AUC approved the Electricity Distribution and Natural Gas Distribution requests to defer the compulsory distribution rate increases which would normally come into effect on January 1, 2021 for both businesses. The rate relief was requested to defer significant distribution rate increases which would be passed onto end use customers due to the formulaic approach of rate calculations under the AUC PBR mechanism. Electricity Distribution and Natural Gas Distribution cited the current economic situation in Alberta, including the hardships faced by some end use customers due to the COVID-19 pandemic, as rationale to proceed with these interim rates. Electricity Distribution and Natural Gas Distribution are to file an application by March 1, 2021, outlining the duration of the rate freeze and collection timelines, expected deferral values including carrying costs and anticipated impacts to customers.",
+        "gpt-4o-mini_label": "no",
+        "gpt-4o-mini_explanation": "The paragraph discusses regulatory decisions regarding electricity and natural gas distribution rates, focusing on economic impacts and customer hardships, without any mention of climate policy, climate change, or environmental topics.\n```",
+        "comment": "wrong: name of company"
+    },
+    {
+        "label": "yes",
+        "text": "Rendering of accounts to Board of Officers and Board of Directors (CA) on progress of these actions and on our socioenvironmental performance occurs on a half-annual basis. The CA is responsible for approving Corporate Strategy, which consolidates decisions about the Company's performance in the following five years. Upon receiving the matters for deliberation, the CA discusses them and makes decisions. After approval, topics are forwarded to areas responsible for their compliance. In some cases, upon making decisions, the Board determines that periodic reports on deliberated matters must be presented to it so that it is kept informed about progress.",
+        "gpt-4o-mini_label": "no",
+        "gpt-4o-mini_explanation": "The paragraph focuses on corporate governance and the processes of reporting and decision-making within the company, without any mention of climate policy, climate change, or environmental topics.\n```",
+        "comment": "debatable: we have socioenviromental mentioned, but it is not the main focus"
+    },
+    {
+        "label": "yes",
+        "text": "The diagnosis of organizational culture represents the internal scenario and it is one of the elements considered/ analyzed in the definition of the drivers. Since 2017, after reviewing the research strategy by our organizational behavior area, only the Organizational Climate and Engagement Survey was applied annually, as presented in the table below.",
+        "gpt-4o-mini_label": "no",
+        "gpt-4o-mini_explanation": "The paragraph discusses organizational culture and internal assessments without any mention of climate policy, climate change, or environmental topics.\n```",
+        "comment": "error: I think this can be considered as climate related"
+    },
+    {
+        "label": "yes",
+        "text": "Earnings attributable to equity owners of the Company includes timing adjustments related to rate-regulated activities and unrealized gains or losses on mark-to-market forward and swap commodity contracts. They also include one-time gains and losses, significant impairments, restructuring charges and other items that are not in the normal course of business or a result of day-to-day operations recorded at various times over the past eight quarters. These items are excluded from adjusted earnings and are highlighted below: * In the second, third and fourth quarters of 2019, Canadian Utilities closed a series of transactions related to the sale of its Canadian fossil fuel-based electricity generation business and Alberta PowerLine resulting in a gain on sale of operations of $125 million after-tax. As these transactions are one-time in nature, they are excluded from adjusted earnings. * In the second quarter of 2020, impairment and other costs not in the normal course of business of $30 million after-tax were recorded. These costs mainly relate to certain assets that no longer represent strategic value to the Company. As these costs are one-time in nature, they are excluded from adjusted earnings. * In the fourth quarter of 2020 the Company signed a Master Services Agreement with IBM Canada Ltd. (IBM) to provide managed information technology services. These services are currently provided by Wipro under a ten-year MSA maturing in December 2024. The Company has recognized costs of $55 million after-tax, which represents management's best estimate of the costs to exit the Wipro MSA. The actual costs are expected to be finalized later in 2021. As these costs are one-time in nature, they are excluded from adjusted earnings.",
+        "gpt-4o-mini_label": "no",
+        "gpt-4o-mini_explanation": "The paragraph primarily discusses financial adjustments, transactions, and corporate governance without any mention of climate policy, climate change, or environmental topics.\n```",
+        "comment": "error:it mentions fossil fuel, this is in the task definition"
+    }
+]

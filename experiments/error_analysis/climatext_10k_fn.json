@@ -1,0 +1,58 @@
+[
+    {
+        "label": 1,
+        "text": "The current economic climate, especiallyin Europe, may have an adverse effect in the markets in which we operate.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses the economic climate in Europe and its potential effects on markets, but it does not mention climate change or its mechanisms, causes, or effects. It focuses on economic conditions rather than environmental issues.\nLabel: 0\n```",
+        "comment": "wrong:climate but not at all about climate"
+    },
+    {
+        "label": 1,
+        "text": "These regulations are designed to reduce volatile organic compound (\"VOC\") emissions from hydraulically fractured wells and other equipment.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence refers to regulations aimed at reducing emissions, which can be related to climate change as VOCs contribute to air pollution and can affect climate patterns. However, it does not explicitly connect these regulations to climate change mechanisms or effects.\nLabel: 0\n```",
+        "comment": "debatable,indirect:VOC can affect the climate indeed, but as mentioned Discussing a general scientific fact or describing an aspect of the climate is only relevant if it is a mechanism / cause / effect of (climate) change. "
+    },
+    {
+        "label": 1,
+        "text": "These laws and regulations are complex and change frequently, at times due to differing economic conditions and changes in political climate, with new laws and regulations proposed frequently and existing laws and regulations subject to different and conflicting interpretations.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses laws and regulations that change due to economic conditions and political climate, but it does not specifically address climate change or its mechanisms, causes, or effects. It lacks a direct connection to climate change topics.\nLabel: 0\n```",
+        "comment": "wrong:not at all about climate."
+    },
+    {
+        "label": 1,
+        "text": "As an example, until December 31, 2014, owners and operators of hydraulically fractured gas wells could either flare their emissions or use emissions reduction technology called \"green completions\" technologies already deployed at wells.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses regulations and technologies related to emissions from gas wells, but it does not explicitly connect these practices to climate change or its impacts. It lacks context that ties it directly to climate change mechanisms or effects.\nLabel: 0\n```",
+        "comment": "error:well this does not mention the effect on climate change, but that's quite explicitly about emissions."
+    },
+    {
+        "label": 1,
+        "text": "As of January 1, 2020, the International Maritime Organization regulation referred to as IMO 2020 will require all vessels to burn fuel with a sulfur content of no more than 0.5% unless fitted with an exhaust gas emissions cleaner (scrubber) capable of reducing sulfur emissions to 0.5% or less.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence describes a regulation aimed at reducing sulfur emissions from vessels, which is related to efforts to mitigate air pollution and its impact on climate change. However, it does not explicitly discuss climate change mechanisms, causes, or effects, nor does it connect directly to climate change over a meaningful time period.\nLabel: 0\n```",
+        "comment": "debatable:well that's a bit tricky, because this is really linked to cc, however, here they do not explicitly talk about it."
+    },
+    {
+        "label": 1,
+        "text": "If you are a U.S. person who might be a U.S. 10% shareholder, we encourage you to consult your own tax advisor concerning the CFC rules.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence does not discuss climate change or any related topics. It focuses on tax advice for U.S. shareholders, which is unrelated to climate issues.\nLabel: 0\n```",
+        "comment": "wrong:not at all about climate."
+    },
+    {
+        "label": 1,
+        "text": "* changes in the global, national, regional, and/or local economic and geopolitical climates.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence refers to changes in various climates, but it does not specifically address climate change or its mechanisms, causes, or effects. The term \"climates\" here is used in a broader economic and geopolitical context rather than in relation to environmental or climate change issues.\nLabel: 0\n```",
+        "comment": "wrong:not at all about climate."
+    },
+    {
+        "label": 1,
+        "text": "In addition, we cannot control the actions of our third party manufacturers or the public's perceptions of them, nor can we assure that these manufacturers will conduct their businesses using climate change proactive or sustainable practices.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence mentions \"climate change proactive or sustainable practices,\" indicating a connection to climate change and its implications for business practices. However, it does not directly discuss the mechanisms, causes, or effects of climate change itself.\nLabel: 0\n```",
+        "comment": "error:they definitly talk about climate. "
+    }
+]

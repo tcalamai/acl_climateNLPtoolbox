@@ -1,0 +1,72 @@
+[
+    {
+        "label": "climate",
+        "text": "More than 190 banks are currently adhering to these Principles.",
+        "gpt-4o-mini_label": "non-climate",
+        "gpt-4o-mini_explanation": "The statement refers to banks adhering to principles but does not mention climate change or environmental sustainability issues.\n```",
+        "comment": "out-of-context,implies:in this case the sentence implies that the topic is about climate but it might definitly be used in another context"
+    },
+    {
+        "label": "climate",
+        "text": "tecting the assets, reputation and sustainability of the organ-isation.",
+        "gpt-4o-mini_label": "non-climate",
+        "gpt-4o-mini_explanation": "The statement refers to protecting assets and reputation but does not specifically mention climate change or environmental sustainability issues.\n```",
+        "comment": "out-of-context,ambiguous:sutainability as in viability or as in ecofriendly"
+    },
+    {
+        "label": "climate",
+        "text": "SCOPE 2---Electricity consumed (market-based method)---Electricity consumed (location-based method)3, 8 67.",
+        "gpt-4o-mini_label": "non-climate",
+        "gpt-4o-mini_explanation": "The statement refers to electricity consumption metrics and methods, which do not directly address climate change or environmental sustainability issues.\n```",
+        "comment": "wrong,table:this statement is definitly taken from a table (should be labeled as non-climate), however the justification by chatgpt is not correct"
+    },
+    {
+        "label": "climate",
+        "text": "As we are clearly entering the decade of action as determined by the UN Secretary General, our group remains committed to its role in the unstoppable movement pushing for the required transformation.",
+        "gpt-4o-mini_label": "non-climate",
+        "gpt-4o-mini_explanation": "The statement discusses a commitment to transformation and action but does not specifically mention climate change or environmental sustainability issues.\n```",
+        "comment": "debatable,general:UN most likely talks about SDGs therefore linked to climate-change"
+    },
+    {
+        "label": "climate",
+        "text": "This also gives us the opportunity to exchange knowledge and experiences with repre-sentatives from different spheres of society and to implement the principles and reach our targets .",
+        "gpt-4o-mini_label": "non-climate",
+        "gpt-4o-mini_explanation": "The statement focuses on knowledge exchange and collaboration among various societal representatives, which does not specifically address climate change or environmental sustainability issues.\n```",
+        "comment": "debatable,implies:knowing the context of this dataset it might talk about sustainability targets or reduction targets, but really implicit."
+    },
+    {
+        "label": "climate",
+        "text": "After all, theyare the source of jobs, innovation, sustainability, and prosperity.",
+        "gpt-4o-mini_label": "non-climate",
+        "gpt-4o-mini_explanation": "The statement mentions sustainability in a general context but does not specifically address climate change or environmental sustainability issues.\n```",
+        "comment": "error,debatable,general,general:this is a broad statement, they do not explicitly talk about env"
+    },
+    {
+        "label": "climate",
+        "text": "It is the Italian representative of the EuroSIF (European Sustainable Investment Forum).",
+        "gpt-4o-mini_label": "non-climate",
+        "gpt-4o-mini_explanation": "The statement refers to an organization related to sustainable investment but does not directly address climate change or environmental sustainability issues.\n```",
+        "comment": "error:directly talking about someone in the field."
+    },
+    {
+        "label":"climate",
+        "text":"Swedbank applies the precautionary principle and follows the UN Global Compact's 10 principles.",
+        "gpt-4o-mini_label":"non-climate",
+        "gpt-4o-mini_explanation":"The statement mentions the UN Global Compact, which includes principles related to environmental sustainability, but it does not explicitly address climate change or environmental sustainability issues. It is more about corporate governance and ethical principles.\nLabel: non-climate\n```",
+        "comment": "debatable,general:explanation get's it"
+    },
+    {
+        "label":"climate",
+        "text":"Sustainability bonds issuance 2.1.3.",
+        "gpt-4o-mini_label":"non-climate",
+        "gpt-4o-mini_explanation":"The statement refers to \"Sustainability bonds,\" which implies a connection to environmental sustainability, but it does not provide specific information or context about climate change or sustainability issues. It appears to be a section heading or title rather than a substantive statement.\nLabel: non-climate\n```",
+        "comment": "wrong,table:this seems to be part of headings/table of content"
+    },
+    {
+        "label":"climate",
+        "text":"S3 Sustainable finance: The information on corporate loans is obtained from the bank's financial reporting.",
+        "gpt-4o-mini_label":"non-climate",
+        "gpt-4o-mini_explanation":"The statement mentions \"sustainable finance,\" which implies a connection to environmental sustainability, but it does not provide specific information about climate change or sustainability issues. It primarily discusses corporate loans in the context of financial reporting.\nLabel: non-climate\n```",
+        "comment": "debatable,table:it appears to be a precision of the sources maybe part of a table/figure"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "label": "specific",
+        "text": "[7] Until 2009 as Gruppo Autostrade per l'Italia. [8] Data on the diesel consumed by the gensets in Chile in 2018 not available. [9] Location-based emissions. [10] The figure refers to the perimeter of Autostrade per l'Italia only. [11] The 2018 figure has been recalculated following an update to the method of evaluating CO2 emissions. [12] The 2018 figure has been recalculated following an update to emission factors. [13] Value available from this year, for the calculation of which it was necessary to update the information collected. [14] \"Other activities\" include the operations of Pavimental, Spea and ETC.",
+        "gpt-4o-mini_label": "non-specific",
+        "gpt-4o-mini_explanation": "The paragraph contains general statements and data points about emissions and operations without providing specific details about actions taken or plans implemented by the company. It lacks clear, tangible goals or elaboration on how to achieve them.\n```",
+        "comment": "error,description:this seems to be a table of content or description of a table. One can say this is specific but this could also be irrelevant."
+    },
+    {
+        "label": "specific",
+        "text": "CANADIAN UTILITIES LIMITED 2020 MANAGEMENT'S DISCUSSION & ANALYSIS 56 fossil fuel-based electricity generation business in the third quarter of 2019, these contracts were accounted for as normal purchase agreements as they were with an affiliate company and the own use exemption was applied.",
+        "gpt-4o-mini_label": "non-specific",
+        "gpt-4o-mini_explanation": "The paragraph discusses general accounting practices related to contracts but does not provide specific details about the company's operations, strategies, or future developments.\n```",
+        "comment": "error:this statement is specific, with a number."
+    },
+    {
+        "label": "specific",
+        "text": "The world is transitioning step by step, but the fact is that the economy (and a number of countries in particular) can't yet do without fossil fuels, which ING also finances. There is still too little renewable energy, and experts haven't yet been able to develop an efficient and affordable means of storing sustainable energy.",
+        "gpt-4o-mini_label": "non-specific",
+        "gpt-4o-mini_explanation": "The paragraph discusses general challenges related to the transition from fossil fuels to renewable energy without providing specific details about any company's actions, strategies, or measurable goals.\n```",
+        "comment": "wrong:- General statements that apply to all situations and/or entire sector/ firms in general."
+    },
+    {
+        "label": "specific",
+        "text": "[1] Data calculated on the same reporting perimeter as 2018, excluding Abertis Group. [2] Data on the diesel consumed by the gensets in Chile in 2018 are not available. [3] Figure updated following a consolidation subsequent to the close of the Integrated Report 2018 on ETC data. [4] Data updated following a restatement of the income statement 2018. [5] Location-based emissions.",
+        "gpt-4o-mini_label": "non-specific",
+        "gpt-4o-mini_explanation": "The paragraph contains general statements about data reporting and updates without providing specific details about actions taken or future plans related to the firm's operations or strategy.\n```",
+        "comment": "error,description:this seems to be a table of content or description of a table. One can say this is specific but this could also be irrelevant."
+    },
+    {
+        "label": "specific",
+        "text": "Rising public concern related to climate change has led and could lead to the adoption of worldwide laws and regulations which could result in a decrease of demand for hydrocarbons and increased compliance costs for the Company. Eni is also exposed to risks of technological breakthrough in the energy field and risks of extreme meteorological events linked to the climate change. All these developments may adversely affect the Group's profitability, businesses outlook and reputation Growing worldwide public concern over greenhouse gas (GHG) emissions and climate change, as well as increasingly regulations in this area, could adversely affect the Group's businesses and reputation, increase its operating costs and reduce its profitability and shareholders returns. Those risks may emerge in the short and medium-term, as well as over the long-term.",
+        "gpt-4o-mini_label": "non-specific",
+        "gpt-4o-mini_explanation": "The paragraph discusses general concerns and potential impacts of climate change on the company without providing specific details about the company's actions, strategies, or measurable goals related to these issues.\n```",
+        "comment": "wrong:- General statements that apply to all situations and/or entire sector/ firms in general."
+    },
+    {
+        "label": "specific",
+        "text": "A similar approach could be used for allocating emissions in the fossil fuel electricity supply chain between coal miners, transporters and generators. We don't invest in fossil fuel companies, but those investors who do should account properly for their role in the production of dangerous emissions from burning fossil fuels.",
+        "gpt-4o-mini_label": "non-specific",
+        "gpt-4o-mini_explanation": "The paragraph discusses a general approach to emissions allocation in the fossil fuel supply chain and mentions the stance on investing in fossil fuel companies, but it does not provide specific details about any company's actions or strategies related to emissions or investments.\n```",
+        "comment": "debatable,out-of-context:we beleive this could be specific if associated with other statement, but alone, this is hard to tell."
+    }
+]

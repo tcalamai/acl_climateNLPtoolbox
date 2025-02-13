@@ -1,0 +1,23 @@
+[
+    {
+        "label": "not_green",
+        "text": "Because we love good ingredients, we infused our high-pigment #UltraHD Vinyl Lip Polish with vitamin E, shea butter, and aloe-leaf extract. Which shade is your fave? \ud83d\udcf7: @Deefordiane1 <URL>",
+        "gpt-4o-mini_label": "green_claim",
+        "gpt-4o-mini_explanation": "The tweet highlights the use of natural ingredients such as shea butter and aloe-leaf extract in the product, which associates ecological and nature-friendly benefits with the company's offerings.\n```",
+        "comment": "wrong,implicit,technical:the claim is not explicit, but they include nature evoking elements."
+    },
+    {
+        "label": "not_green",
+        "text": "Yes to these natural lashes! @allanaramaa wearing #MonsieurBig Mascara. <URL> <URL>",
+        "gpt-4o-mini_label": "green_claim",
+        "gpt-4o-mini_explanation": "The tweet promotes the use of \"natural lashes\" in conjunction with a mascara product, which implies a connection to eco-friendly or nature-inspired beauty products, thus associating ecological benefits with the product.\n```",
+        "comment": "error:the natural lashes means it is a natural look, to related to nature."
+    },
+    {
+        "label": "not_green",
+        "text": "He needs protection from harsh weather too. Sea buckthorn extracts fortify + invigorate for smooth, energized skin: <URL> <URL>",
+        "gpt-4o-mini_label": "green_claim",
+        "gpt-4o-mini_explanation": "The tweet references sea buckthorn extracts, which are natural ingredients, and implies ecological benefits by promoting skin protection and vitality, thus associating the product with nature-friendly features.\n```",
+        "comment": "wrong,implicit,technical:not explicit, but indeed Sea buckthorn is a plant, therefore a nature-invoking element, it is likely not the active ingredient."
+    }
+]

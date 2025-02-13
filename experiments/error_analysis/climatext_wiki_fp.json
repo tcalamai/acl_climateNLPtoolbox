@@ -1,0 +1,30 @@
+[
+    {
+        "label": 0,
+        "text": "Five million years from now, the Amazon rainforest may long since have dried and transformed itself into savannah, killing itself in the process (changes such as this may happen even if all human deforestation activity ceases overnight).",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence discusses the long-term transformation of the Amazon rainforest into savannah due to climate changes, indicating a significant effect of climate change over a meaningful time period.\nLabel: 1\n```",
+        "comment": "wrong,indirect:well this probably is part of a discussion about climate change as it talks about deforestation and the amazon forest but not directly indeed. I think chatGPT was anchored."
+    },
+    {
+        "label": 0,
+        "text": "Biologists have estimated that large numbers of species are being driven to extinction (possibly more than 50,000 a year; at that rate, says E. O. Wilson of Harvard University, a quarter or more of all species on Earth could be exterminated within 50 years) due to the removal of habitat with destruction of the rainforests.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence discusses the extinction of species as a consequence of habitat destruction, which is a significant issue related to climate change and environmental degradation. The mention of rainforests and the long-term impact on biodiversity connects it to climate change discussions.\nLabel: 1\n```",
+        "comment": "indirect,debatable:this is definitly inderectly linked to climate change as it has an impact on habitat. It's at least an honest mistake."
+    },
+    {
+        "label": 0,
+        "text": "Indirect effects include the fact that aerosols can act as cloud condensation nuclei, stimulating cloud formation.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence discusses aerosols and their role in cloud formation, which is related to climate change mechanisms. It implies a connection to climate processes, as cloud formation can influence climate patterns and weather systems.\nLabel: 1\n```",
+        "comment": "indirect,debatable:not explicitly mentioning climate change but can be linked with more context: Discussing a general scientific fact or describing an aspect of the climate is only relevant if it isa mechanism / cause / effect of (climate) change."
+    },
+    {
+        "label": 0,
+        "text": "Think-tanks such as the World Pensions Council (WPC) argued that the keys to success lay in convincing officials in the U.S. and China, by far the two largest national emitters:",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The sentence refers to the need for cooperation between the U.S. and China, the largest emitters of greenhouse gases, which is directly related to climate change discussions and efforts to address emissions.\nLabel: 1\n```",
+        "comment": "wrong:definitly talking about climate-change as they talk about largest emitters"
+    }
+]

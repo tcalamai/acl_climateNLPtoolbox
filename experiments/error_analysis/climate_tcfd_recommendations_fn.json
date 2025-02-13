@@ -1,0 +1,72 @@
+[
+    {
+        "label": "strategy",
+        "text": "By their very nature, these forward-looking statements require the Bank to make assumptions and are subject to inherent risks and uncertainties, general and specific. Especially in light of the uncertainty related to the physical, financial, economic, political, and regulatory environments, such risks and uncertainties - many of which are beyond the Bank's control and the effects of which can be difficult to predict - may cause actual results to differ materially from the expectations expressed in the forward-looking statements. Risk factors that could cause, individually or in the aggregate, such differences include: strategic, credit, market (including equity, commodity, foreign exchange, interest rate, and credit spreads), operational (including technology, cyber security, and infrastructure), model, insurance, liquidity, capital adequacy, legal, regulatory compliance and conduct, reputational, environmental and social, and other risks. Examples of such risk factors include the economic, financial, and other impacts of the COVID-19 pandemic; general business and economic conditions in the regions in which the Bank operates; geopolitical risk; the ability of the Bank to execute on long-term strategies and shorter-term key strategic priorities, including the successful completion of acquisitions and dispositions, business retention plans, and strategic plans; technology and cyber security risk (including cyber-attacks or data security breaches) on the Bank's information technology, internet, network access or other voice or data communications systems or services; model risk; fraud to which the Bank is exposed; the failure of third parties to comply with their obligations to the Bank or its affiliates, including relating to the care and control of information, and other risks arising from the Bank's use of third-party service providers; the impact of new and changes to, or application of, current laws and regulations, including without limitation tax laws, capital guidelines and liquidity regulatory guidance and the Bank recapitalization \"bail-in\" regime; regulatory oversight and compliance risk; increased competition from incumbents and new entrants (including Fintechs and big technology competitors); shifts in consumer attitudes and disruptive technology; environmental and social risk; exposure related to significant litigation and regulatory matters; ability of the Bank to attract, develop, and retain key talent; changes to the Bank's credit ratings; changes in currency and interest rates (including the possibility of negative interest rates); increased funding costs and market volatility due to market illiquidity and competition for funding; Interbank Offered Rate (IBOR) transition risk; critical accounting estimates and changes to accounting standards, policies, and methods used by the Bank; existing and potential international debt crises; environmental and social risk; and the occurrence of natural and unnatural catastrophic events and claims resulting from such events. The Bank cautions that the preceding list is not exhaustive of all possible risk factors and other factors could also adversely affect the Bank's results. For more detailed information, please refer to the \"Risk Factors and Management\" section of the 2020 MD&A, as may be updated in subsequently filed quarterly reports to shareholders and news releases (as applicable) related to any events or transactions discussed under the headings \"Significant Events\" in the relevant MD&A, which applicable releases may be found on <URL>. All such factors should be considered carefully, as well as other uncertainties and potential events, and the inherent uncertainty of forward-looking statements, when making decisions with respect to the Bank and the Bank cautions readers not to place undue reliance on the Bank's forward-looking statements.",
+        "gpt-4o-mini_label": "risk",
+        "gpt-4o-mini_explanation": "The sentence discusses various risk factors that could impact the Bank, including environmental and social risks, and outlines the inherent uncertainties associated with forward-looking statements. This aligns with the risk management label, as it focuses on identifying and assessing climate-related risks among other types of risks.\n```",
+        "comment": "error,multi:they mention many risks but propose strategy to mitigate"
+    },
+    {
+        "label": "risk",
+        "text": "Financial planning We acknowledge that there are risks posed by climate change that could potentially have impacts on revenue and costs, and we intend to integrate further climate- related considerations into our financial planning processes from 2021 onwards. As an underwriter, we actively measure climate-related risk through climate risk modelling due to the nature of the Group's products (see page 25). We recognise our prices, products and operations will evolve as climate change influences manifest themselves through changing loss patterns.",
+        "gpt-4o-mini_label": "strategy",
+        "gpt-4o-mini_explanation": "The sentence outlines the organization's intention to integrate climate-related considerations into its financial planning processes and acknowledges the potential impacts of climate change on revenue and costs, which aligns with the strategy label.\n```",
+        "comment": "error,multi:both risk and how to handle the risk, but not really strategy"
+    },
+    {
+        "label": "strategy",
+        "text": "The DNP Group conducts environmental education programs according to level, working group and function concerning the DNP Group's environmental conservation efforts, environmental knowledge, environmental laws and domestic and overseas trends concerning environmental issues. Our goal is for employees to gain the knowledge and management know-how necessary to improving employee environmental conservation consciousness and achieving our environmental goals.",
+        "gpt-4o-mini_label": "none",
+        "gpt-4o-mini_explanation": "The sentence describes the DNP Group's environmental education programs and goals related to employee awareness and knowledge about environmental conservation, but it does not specifically address any of the TCFD recommendations regarding governance, strategy, risk management, or metrics and targets.\n```",
+        "comment": "error,part: (not broad and general)"
+    },
+    {
+        "label": "strategy",
+        "text": "Moreover, we continue to enhance the durability, safety, quality and performance of its products to ensure that consumers can comfortably enjoy them over an extended period, as well as design and develop various accessories, and pursue cost-cutting and energy conservation initiatives.",
+        "gpt-4o-mini_label": "none",
+        "gpt-4o-mini_explanation": "The sentence focuses on product durability, safety, quality, and cost-cutting initiatives without specifically addressing climate-related risks, governance, strategy, risk management, or metrics related to TCFD recommendations.\n```",
+        "comment": "error,part: (not broad and general)"
+    },
+    {
+        "label": "risk",
+        "text": "4 Based on external perception and the importance attributed to each theme by top management, the economic, social, environmental and material governance issues likely to have significant impact on the Group's operations were identified.",
+        "gpt-4o-mini_label": "governance",
+        "gpt-4o-mini_explanation": "The sentence describes how top management assesses governance issues related to economic, social, and environmental factors, indicating oversight of climate-related risks and opportunities, which aligns with the governance label.\n```",
+        "comment": "error,multi:confusion between risk and governance. Assessing a risk and providing solution to organise the company"
+    },
+    {
+        "label": "strategy",
+        "text": "Energy is the single largest cost item in the production and distribution of industrial gases. Most of Linde's energy requirements are in the form of electricity, natural gas and diesel fuel for distribution. Linde attempts to minimize the financial impact of variability in these costs through the management of customer contracts and reducing demand through operational productivity and energy efficiency. Large customer contracts typically have escalation and pass-through clauses to recover energy and feedstock costs. Such attempts may not successfully mitigate cost variability, which could negatively impact Linde's financial condition or results of operations. The supply of energy has not been a significant issue in the geographic areas where Linde conducts business. However, regional energy conditions are unpredictable and may pose future risk.",
+        "gpt-4o-mini_label": "risk",
+        "gpt-4o-mini_explanation": "The sentence discusses how Linde identifies and manages the financial impact of energy cost variability, which relates to the organization's processes for assessing and managing climate-related risks, particularly in the context of unpredictable regional energy conditions.\n```",
+        "comment": "error,multi:management of customer contract (strategy) but also assessing risks"
+    },
+    {
+        "label": "governance",
+        "text": "Report 2019 (SR 2019), as requested by the shareholders. The hardcopies will be delivered once they are made available to the Company. * Nevertheless, we hope you would consider the environment before you decide to print the above reports or request for the printed copy of the IR 2019, GFR 2019 and SR 2019. The environmental concerns like global warming, deforestation, climate change and many more affect every human, animal and nation on this planet.",
+        "gpt-4o-mini_label": "none",
+        "gpt-4o-mini_explanation": "The sentence primarily discusses the delivery of reports and encourages consideration of environmental concerns, but it does not specifically address any of the TCFD recommendations related to governance, strategy, risk management, or metrics and targets.\n```",
+        "comment": "debatable:the TCFD concern the company not really how to use the documents they are providing to the general public"
+    },
+    {
+        "label": "strategy",
+        "text": "In addition to the specific risks insured, the Group is exposed to losses that could arise from natural and man-made catastrophes. The main concentrations of risks arising from such potential catastrophes are regularly reported to executive management. The most important peril regions and natural catastrophes are U.S. and Caribbean tropical cyclone, Europe windstorm and California earthquake.",
+        "gpt-4o-mini_label": "risk",
+        "gpt-4o-mini_explanation": "The sentence describes how the organization identifies and reports on the concentrations of risks related to natural and man-made catastrophes, which aligns with the risk management label.\n```",
+        "comment": "wrong:they talk only about risk"
+    },
+    {
+        "label": "strategy",
+        "text": "All six capitals are important to our smooth operations and in creating a healthy balance between our economic, social and environmental scorecards. They are also interrelated, and may change in compositions according to actions taken as we focus on different areas that are strategic to our sustainable growth.",
+        "gpt-4o-mini_label": "none",
+        "gpt-4o-mini_explanation": "The sentence discusses the importance of various capitals in operations and sustainable growth but does not specifically address any TCFD recommendations related to governance, strategy, risk management, or metrics and targets.\n```",
+        "comment": "error: the model is looking for direct mention of the TCFD categories, this definitly is part of the answer."
+    },
+    {
+        "text":"All these risks can generate a series of impacts for our Company, such as financial losses in Distribution and network maintenance services, payment of fines for interruption of power supply, reduction of hydroelectric power generation - and consequent deficits in Generation Scaling Factor - GSF and higher free market price volatility.",
+        "label":"strategy",
+        "gpt-4o-mini_label_cot":"risk",
+        "gpt-4o-mini_explanation_cot":"The sentence outlines various risks that could lead to financial losses and operational impacts for the company, indicating an assessment of climate-related risks and their potential effects on the business. This aligns with the risk management label.\nLabel: risk\n```",
+        "comment": "wrong:talk only about risks and consequences."
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "label":0,
+        "text":"The Association for the Conservation of Energy was formed in 1981 and Andrew Warren has been the Director since its formation.",
+        "gpt-4o-mini_label":"1",
+        "gpt-4o-mini_explanation":"The Association for the Conservation of Energy is an organization that focuses on energy conservation, which is closely related to climate change issues, particularly in the context of reducing carbon emissions and promoting sustainable energy practices.\nLabel: [Yes]\n```",
+        "comment":"page-selection: as describe by gpt4o-mini page related to climate change, page- Association for the Conservation of Energy"
+    },
+    {
+        "label":0,
+        "text":"Satellite pictures at the time showed a well-defined center of circulation at the lower levels of the atmosphere and distinct curved banding features.",
+        "gpt-4o-mini_label":"1",
+        "gpt-4o-mini_explanation":"The sentence describes atmospheric phenomena, which can be related to climate change discussions, particularly in the context of weather patterns and their implications for climate. Such topics are often covered in Wikipedia pages related to climate science and meteorology.\nLabel: [Yes]\n```",
+        "comment":"page-selection: the page is about typhoon, which is linked"
+    },
+    {
+        "label":0,
+        "text":"The United States Environmental Protection Agency reports:",
+        "gpt-4o-mini_label":"1",
+        "gpt-4o-mini_explanation":"The sentence references the United States Environmental Protection Agency (EPA), which is an organization involved in environmental regulation and policies that often intersect with climate change issues, such as air quality and greenhouse gas emissions.\nLabel: [Yes]\n```",
+        "comment":"out-of-context: the page might not be related to climate change but EPA is directly linked to climate."
+    },
+    {
+        "label":0,
+        "text":"The storm stranded tourists and left more than 100 dead in the city.",
+        "gpt-4o-mini_label":"1",
+        "gpt-4o-mini_explanation":"The sentence describes a storm, which is a weather event that can be influenced by climate change. Extreme weather events, such as storms, are often discussed in the context of climate change and its impacts, making this sentence relevant to the topic.\nLabel: [Yes]\n```",
+        "comment":"out-of-context:"
+    },
+    {
+        "label":0,
+        "text":"With spray from waves and by other means, salt gets into the air as an aerosol, and eventually as a dust-like particle.",
+        "gpt-4o-mini_label":"1",
+        "gpt-4o-mini_explanation":"The sentence discusses the process of salt aerosol formation, which can be relevant to climate change as aerosols can influence climate systems and weather patterns. This topic is often covered in discussions about atmospheric science and its relation to climate change.\nLabel: [Yes]\n```",
+        "comment":"error:well seems far from the topic."
+    },
+    {
+        "label":0,
+        "text":"The continued use of gasoline engines was undesirable due mainly to its high fuel consumption, poor low-end torque and fuel flammability.",
+        "gpt-4o-mini_label":"1",
+        "gpt-4o-mini_explanation":"The sentence discusses gasoline engines and their fuel consumption, which relates to topics such as carbon emissions and energy efficiency, both of which are significant in the context of climate change and environmental impact.\nLabel: [Yes]\n```",
+        "comment":"out-of-context: seems offly related to climat change. Could not find the wiki page"
+    },
+    {
+        "label":0,
+        "text":"Multiple buildings near the site have also documented higher levels of toxic soil vapors.",
+        "gpt-4o-mini_label":"1",
+        "gpt-4o-mini_explanation":"The sentence discusses toxic soil vapors, which can be related to environmental issues and pollution. While it does not explicitly mention climate change, it could be connected to broader discussions about environmental health and its implications for climate change, particularly in the context of land use and urban development.\nLabel: [Yes]\n```",
+        "comment":"page-selection: the page is about an environmental pollution so linked to EPA whihc could therefore be linked to climate. But the page selection process kept it out"
+    },
+    {
+        "label":0,
+        "text":"In 1910 a researcher concluded that the volcano had been active in postglacial time, given that pumice formations found around the volcano would not have survived glaciation.",
+        "gpt-4o-mini_label":"1",
+        "gpt-4o-mini_explanation":"The sentence discusses volcanic activity and geological formations, which can be relevant to climate change discussions, particularly in the context of how volcanic eruptions can influence climate patterns and the Earth's climate history. This connects to broader topics often covered in climate change-related Wikipedia pages.\nLabel: [Yes]\n```",
+        "comment":"page-selection:Monte Burney is a volcano, was not selected in the page selection process"
+    },
+    {
+        "label":0,
+        "text":"In some trees, like jackfruit, some citrus, and avocado, the seeds can be found already germinated while the fruit goes overripe; strictly speaking this condition cannot be described as vivipary, but the moist and humid conditions provided by the fruit mimic a wet soil that encourages germination.",
+        "gpt-4o-mini_label":"1",
+        "gpt-4o-mini_explanation":"The sentence discusses the germination of seeds in certain trees, which relates to plant biology and ecology. While it does not explicitly mention climate change, the ecological aspects of plant growth and the conditions that affect it can be linked to climate change discussions, particularly in the context of how changing climates affect plant life and ecosystems.\nLabel: [Yes]\n```",
+        "comment":"page-selection:vivipary page, nature related but the page selection did not include this one. This is not completely unrelated"
+    },
+    {
+        "label":0,
+        "text":"He was Minister of Urban Development, Environment and Prohibition during 2007-12.",
+        "gpt-4o-mini_label":"1",
+        "gpt-4o-mini_explanation":"The sentence mentions the role of a Minister of Environment, which suggests a connection to environmental policies and issues that often intersect with climate change topics. This implies a relevance to climate change discussions, even if not explicitly stated.\nLabel: [Yes]\n```",
+        "comment":"error:well this could be debatable, but here the page is about a politician, this is the only sentence about the environment (and only loosely)"
+    },
+    {
+        "label":0,
+        "text":"In the Eastern Hemisphere, this climate regime is found within interior Eurasia, east-central Asia, and parts of India.",
+        "gpt-4o-mini_label":"1",
+        "gpt-4o-mini_explanation":"The sentence discusses a climate regime, which is directly related to the study of climate and its variations. This topic is often connected to climate change discussions, particularly in the context of how different regions are affected by climate patterns.\nLabel: [Yes]\n```",
+        "comment":"page-selection: Humid_continental_climate page from wikipedia i would argue related to climate change but debatable"
+    },
+    {
+        "label":0,
+        "text":"IISD Experimental Lakes Area (IISD-ELA) is a natural laboratory consisting of 58 small lakes and their watersheds set aside for scientific research.",
+        "gpt-4o-mini_label":"1",
+        "gpt-4o-mini_explanation":"The IISD Experimental Lakes Area is a significant site for scientific research related to freshwater ecosystems, which can be impacted by climate change. Research conducted in such areas often contributes to understanding the effects of climate change on aquatic environments and ecosystems.\nLabel: [Yes]\n```",
+        "comment":"page-selection: research on water and lakes is related to climate change"
+    },
+    {
+        "label":0,
+        "text":"This species was introduced to Chile in 1998.",
+        "gpt-4o-mini_label":"1",
+        "gpt-4o-mini_explanation":"The sentence discusses the introduction of a species to Chile, which could relate to ecological changes and biodiversity, topics that are often connected to climate change discussions, particularly in the context of how species adapt or respond to changing climates.\nLabel: [Yes]\n```",
+        "comment":"out-of-context:this is hard to tell without more context."
+    }
+]

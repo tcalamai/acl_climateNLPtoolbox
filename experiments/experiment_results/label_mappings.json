@@ -1,0 +1,165 @@
+{
+    "netzero_reduction": {
+        "none": 0,
+        "reduction": 1,
+        "net-zero": 2
+    },
+    "climate_specificity": {
+        "specific": 0,
+        "non-specific": 1
+    },
+    "climate_sentiment": {
+        "risk": 0,
+        "neutral": 1,
+        "opportunity": 2
+    },
+    "climate_commitments_actions": {
+        "no": 0,
+        "yes": 1
+    },
+    "climate_detection": {
+        "no": 0,
+        "yes": 1
+    },
+    "climate_tcfd_recommendations": {
+        "risk": 0,
+        "strategy": 1,
+        "metrics": 2,
+        "governance": 3,
+        "none": 4
+    },
+    "climateFEVER_claim": {
+        "NOT_ENOUGH_INFO": 0,
+        "REFUTES": 1,
+        "SUPPORTS": 2,
+        "DISPUTED": 3
+    },
+    "esgbert_g": {
+        "0": 0,
+        "1": 1
+    },
+    "esgbert_action500": {
+        "0": 0,
+        "1": 1
+    },
+    "green_claims": {
+        "green_claim": 0,
+        "not_green": 1
+    },
+    "sustainable_signals_review": {
+        "Not relevant": 0,
+        "Relevant": 1
+    },
+    "esgbert_s": {
+        "0": 0,
+        "1": 1
+    },
+    "esgbert_e": {
+        "0": 0,
+        "1": 1
+    },
+    "esgbert_category_water": {
+        "0": 0,
+        "1": 1
+    },
+    "esgbert_category_biodiversity": {
+        "0": 0,
+        "1": 1
+    },
+    "esgbert_category_nature": {
+        "0": 0,
+        "1": 1
+    },
+    "esgbert_category_forest": {
+        "0": 0,
+        "1": 1
+    },
+    "environmental_claims": {
+        "0": 0,
+        "1": 1
+    },
+    "sciDCC": {
+        "Extinction": 0,
+        "New Species": 1,
+        "Hurricanes Cyclones": 2,
+        "Animals": 3,
+        "Biology": 4,
+        "Zoology": 5,
+        "Genetically Modified": 6,
+        "Ozone Holes": 7,
+        "Global Warming": 8,
+        "Biotechnology": 9,
+        "Geology": 10,
+        "Earthquakes": 11,
+        "Pollution": 12,
+        "Endangered Animals": 13,
+        "Environment": 14,
+        "Weather": 15,
+        "Geography": 16,
+        "Climate": 17,
+        "Agriculture & Food": 18,
+        "Microbes": 19
+    },
+    "lobbymap_stance": {
+        "not_supporting": 0,
+        "supporting": 1,
+        "no_position_or_mixed_position": 2,
+        "strongly_supporting": 3,
+        "opposing": 4
+    },
+    "contrarian_claims": {
+        "4_5": 0,
+        "3_1": 1,
+        "1_1": 2,
+        "2_3": 3,
+        "2_1": 4,
+        "0_0": 5,
+        "3_2": 6,
+        "1_3": 7,
+        "5_1": 8,
+        "3_3": 9,
+        "5_2": 10,
+        "1_4": 11,
+        "4_2": 12,
+        "1_6": 13,
+        "4_1": 14,
+        "4_4": 15,
+        "1_2": 16,
+        "1_7": 17
+    },
+    "ClimaBenchCDPDataset": {
+        "Water": 0,
+        "Buildings": 1,
+        "Emissions": 2,
+        "Strategy": 3,
+        "Opportunities": 4,
+        "Waste": 5,
+        "Food": 6,
+        "Governance and Data Management": 7,
+        "Climate Hazards": 8,
+        "Energy": 9,
+        "Adaptation": 10,
+        "Transport": 11
+    },
+    "lobbymap_pages": {
+        "0": 0,
+        "1": 1
+    },
+    "climatext": {
+        "0": 0,
+        "1": 1
+    },
+    "lobbymap_query": {
+        "false": 0,
+        "true": 1
+    },
+    "climateFEVER_evidence": {
+        "NOT_ENOUGH_INFO": 0,
+        "REFUTES": 1,
+        "SUPPORTS": 2
+    },
+    "climaQA": {
+        "0": 0,
+        "1": 1
+    }
+}

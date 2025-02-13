@@ -1,0 +1,72 @@
+[
+    {
+        "text":"And for the media it ' s ideology , money , and headlines .",
+        "label":"['ad hominem']",
+        "gpt-4o-mini_label":"fallacy of relevance",
+        "gpt-4o-mini_explanation":"The statement seems to divert attention from a specific argument by attributing motivations (ideology, money, and headlines) to the media without addressing the actual argument or evidence at hand. This serves as a distraction rather than a relevant counterpoint.\n```",
+        "comment":"out-of-context:the claim is missing, we don't really know what they are arguing for. But it could be a adhominem as it's a direct attack to the media"
+    },
+    {
+        "text":"Minute-by-minute , huge skyscraper-sized shards of ice cliffs would crumble into the sea , as tall as the Statue of Liberty and as deep underwater as the height of the Empire State Building . The result : a global catastrophe the likes of which we ' ve never seen .",
+        "label":"['appeal to emotion']",
+        "gpt-4o-mini_label":"false causality",
+        "gpt-4o-mini_explanation":"The argument implies a direct causal relationship between the crumbling ice cliffs and a global catastrophe without providing supporting evidence for this claim. It suggests that the mere occurrence of ice cliffs collapsing will inevitably lead to unprecedented global disaster, which is an example of jumping to conclusions about causality.\n```",
+        "comment":"error,multi:appeal to emotion is always difficult to attribute. Indeed there are not evidence about causality, because the main argument is about appealing to size of the ice melting to convince people. Hard to tell here."
+    },
+    {
+        "text":"If you buy overpriced insurance against\nevery potential danger , you soon run out of money .",
+        "label":"['fallacy of logic']",
+        "gpt-4o-mini_label":"faulty generalization",
+        "gpt-4o-mini_explanation":"The argument draws a broad conclusion about the consequences of buying insurance based on the extreme case of purchasing overpriced insurance against every potential danger, which is not representative of typical insurance purchasing behavior.\n```",
+        "comment":"debatable,missing,strawman:it's not fallacy of logic, because the logic is true, but the thing is that nobody by insurance on everything. IMO this is a strawman or appeal to ridicule. But it is not part of the list"
+    },
+    {
+        "text":"Global sea level rose permanently by 1.5 millimeters as a result .",
+        "label":"['faulty generalization']",
+        "gpt-4o-mini_label":"false causality",
+        "gpt-4o-mini_explanation":"The statement implies a causal relationship between global sea level rise and an unspecified event without providing supporting evidence for this connection, suggesting that the rise is a direct result of that event.\n```",
+        "comment":"out-of-context,not-arg,debatable:this is not an argument but a simple statement. No fallacies here."
+    },
+    {
+        "text":"The study found climate deniers are able to downplay the threat of climate change by discrediting the threat facing polar bears .",
+        "label":"['appeal to emotion']",
+        "gpt-4o-mini_label":"fallacy of relevance",
+        "gpt-4o-mini_explanation":"The argument diverts attention from the actual issue of climate change by focusing on the discrediting of polar bears, which is not directly relevant to the validity of climate change itself.\n```",
+        "comment":"out-of-context,not-arg:this is not an argument, but describe the content of a study."
+    },
+    {
+        "text":"At one point , Smith showed a slide of two charts that he said demonstrated how the rate of sea-level rise does not equal the sharp spike in the consumption of fossil fuels .",
+        "label":"['intentional']",
+        "gpt-4o-mini_label":"false causality",
+        "gpt-4o-mini_explanation":"The argument implies a causal relationship between the consumption of fossil fuels and the rate of sea-level rise without providing sufficient evidence to support this claim, suggesting that one directly affects the other.\n```",
+        "comment":"not-arg,multi:false causality is showing that there is a causility due to correlation, but here it's the opposite. I think gpt is closer to the truth but the category is missing."
+    },
+    {
+        "text":"Concentrations of this gas are slightly less than 420 parts-per-million ( ppm ) , or one-sixth the average historic levels of 2,600 ppm for the last 600 million years .",
+        "label":"['faulty generalization', 'fallacy of credibility']",
+        "gpt-4o-mini_label":"faulty generalization",
+        "gpt-4o-mini_explanation":"The statement draws a conclusion about current gas concentrations based on historical averages without sufficient evidence to support the claim that this comparison is valid or relevant to current conditions.\n```",
+        "comment":"wrong:so the faulty gen is ok, but the fallacy of credibility (which is appeal to authority). This is not an appeal to authority"
+    },
+    {
+        "text":"Despite hundreds of billions of dollars of expenditure during the past few decades , it still has not been shown that human emissions of carbon dioxide drive global warming .",
+        "label":"['intentional']",
+        "gpt-4o-mini_label":"false causality",
+        "gpt-4o-mini_explanation":"The argument implies a causal relationship between the expenditure on combating climate change and the lack of evidence showing that human emissions drive global warming, without providing supporting evidence for this causal link.\n```",
+        "comment":"error:this is intentional, because there it rely on a false evidence, this is an intentional fallacy."
+    },
+    {
+        "text":"What we do now will determine how quickly Pine Island and Thwaites collapse .",
+        "label":"['false dilemma']",
+        "gpt-4o-mini_label":"false causality",
+        "gpt-4o-mini_explanation":"The statement implies a direct causal relationship between current actions and the speed of the collapse of Pine Island and Thwaites without providing evidence to support this claim. It suggests that the current actions will definitively determine the outcome, which is an oversimplification of a complex issue.\n```",
+        "comment":"ambiguous,out-of-context:this hard to tell, indeed this is a false dilemma but it could also be a false causality or an actual argument."
+    },
+    {
+        "text":"These subsidies , paid by the long-suffering consumer and employer , add to emissions because coal-fired electricity needs to be on standby for when there is no wind or sunshine .",
+        "label":"['appeal to emotion', 'intentional', 'fallacy of logic']",
+        "gpt-4o-mini_label":"false causality",
+        "gpt-4o-mini_explanation":"The argument implies a causal relationship between subsidies for renewable energy and increased emissions due to coal-fired electricity being on standby, without providing sufficient evidence to support this claim. It jumps to a conclusion about the impact of subsidies on emissions without establishing a direct link.\n```",
+        "comment":"error:indeed there are multiple possible fallacies, emotion with long suffering, chatgpt justification is describing intentional fallacy, fallacy of logic i don't see why ?"
+    }
+]

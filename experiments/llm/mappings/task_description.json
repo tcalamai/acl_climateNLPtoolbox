@@ -1,0 +1,362 @@
+{
+  "climate_specificity": {
+    "description": "ESG disclosure metrics are certainly useful, but omit many qualitative dimensions. To mitigate this shortcoming, we further introduce a label that considers the specificity of a certain paragraph.",
+    "labels": {
+      "non-specific": "1) If the paragraph only provides general facts and explanations; greetings; approval or criticism of policies or regulations. 2) General statements that apply to all situations and/or entire sector/ firms in general. Definition of some intangible, non-verifiable goals, and no elaboration on the ways to achieve them. 3) Discussion of general policies, regulations, etc., but not specific to what the company has implemented or plans to implement",
+      "specific": "1) If paragraph entails at least one clear and specific information on current, past and/or future specific events/developments that could impact specifically identified parts of the firms’ operations and/or strategy and/or overall business activities. 2) Definition tangible, verifiable goals, and elaboration on the ways to track/achieve them. 3) Provide clear and specific details of action to achieve a tangible and clearly defined objective. 4) Provide firm-specific detailed explanations to enable readers to better understand the overall information reported."
+    }
+  },
+  "climate_sentiment":{
+    "description": "For the sentiment analysis, annotators had to provide labels as to whether a (climate-change related) paragraph talks about a Risk or threat that negatively impacts an entity of interest, i.e. a company (negative sentiment), or whether an entity is referring to some Opportunity arising due to climate change (positive sentiment). The paragraph can also make just a Neutral statement",
+    "labels": {
+      "risk": "if the paragraph mainly talks about 1) business downside risks, potential losses and adverse developments detrimental to the entity 2) and/or about negative impact of an entity’s activities on the society/environment 3) and/or associates specific negative adjectives to the anticipated, past or present developments and topics covered.",
+      "opportunity": "if the paragraph mainly talks about 1) business opportunities arising from mitigating climate change, from adapting to climate change etc. which might be beneficial for a specific entity 2) and/or about positive impact of an entity’s activities on the society/environment 3) and/or associates specific positive adjectives to the anticipated, past or present developments and topics covered.",
+      "neutral": " if it mainly states facts and developments 1) without putting them into positive or negative perspective for a specific entity and/or the society and/or the environment, 2) and/or does not associate specific positive or negative adjectives to the anticipated, past or present facts stated and topics covered."
+    }
+  },
+  "climate_commitments_actions": {
+    "description": "Commitments include both targets for the future and actions already taken in the past. Hence, commitment is both forward-looking and backward-looking. It entails activities that are explicitly being done and activities that are explicitly not being done (e.g., stop investing in fossil fuels). ",
+    "labels": {
+      "yes": "if the paragraph contains at least some information on: a) business or climate or any other activities undertaken and/or targets that the firm has set, wants to set and/or has already achieved. b) and/or future business or climate targets or any other activities that have not been undertaken, yet, by the firm, but where the firm reports that such activities and targets are likely to be implemented in the future.",
+      "no": "if the paragraph does not contain information on actions and/or targets."
+    }
+  },
+  "climate_detection":{
+    "description": "The task is to label climate-relevant paragraphs. As a general rule, we determined that just discussing nature/environment can be sufficient, and mentioning clean energy, emissions, fossil fuels, etc., can also be sufficient.",
+    "labels": {
+      "yes": " It is a Yes, if the paragraph includes some wording on a climate-change or environment related topic (including transition and litigation risks, i.e., emission mitigation measures, energy consumption and energy sources etc.; and physical risks, i.e., increase in risk of floods, coastal area exposure, storms etc.)",
+      "no": "It is a No, if the paragraph is not related to climate policy, climate change or an environmental topic at all."
+    }
+  },
+  "climate_tcfd_recommendations": {
+    "description": "The task is to label the sentence as related to any of the TCFD recommendations: Governance, Strategy, Risk Management, Metrics and Targets or general",
+    "labels": {
+      "governance": "Governance - Disclose the organization’s governance around climate-related risks and opportunities: 1) Describe the board’s oversight of climate-related risks and opportunities. 2) Describe management’s role in assessing and managing climate-related risks and opportunities.",
+      "strategy": "Strategy - Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning where such information is material.  1) Describe the climate-related risks and opportunities the organization has identified over the short, medium, and long term. 2) Describe the impact of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning. 3) Describe the resilience of the organization’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.",
+      "risk": "Risk Management - Disclose how the organization identifies, assesses, and manages climate-related risks. 1) Describe the organization’s processes for identifying and assessing climate-related risks. 2) Describe the organization’s processes for managing climate-related risks. 3) Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organization’s overall risk management.",
+      "metrics": "Metrics and Targets - Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities where such information is material. 1) Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process. 2) Disclose Scope 1, Scope 2 and, if appropriate, Scope 3 greenhouse gas (GHG) emissions and the related risks. 3) Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets.",
+      "none": "General statements, not related to the TCFD recommendations."
+    }
+  },
+  "climatext":{
+    "description": "The task is to label sentences as talking about climate change or not.",
+    "labels": {
+      "1": "Yes - 1). The sentence labeled as positive must talk about climate change.\n(a) Just discussing nature / environment is not sufficient.\n(b) Discussing a general scientific fact or describing an aspect of the climate is only relevant if it is a mechanism / cause / effect of (climate) change.\ni. No: “Methane is CH4”\nii. No: “Monsoons can affect shipping”\niii. Yes: “Methane increases temperature”\niv. Yes: “The Monsoon season could be more volatile than the last century”\n(c) “Change” must be an aggregate change over longer periods of time\n(d) Just mentioning clean energy, emissions, fossil fuels, etc. is not sufficient\ni. rather it must be connected to an environmental (CO2)\nii. or societal aspect (divestment, Kyoto treaty) of climate change.\n(e) Acid rain / pollution / etc. are environmental issues but are not related to climate change.\n(f) Acronyms or names of entities, potentially well connected to climate change, must be mentioned along with some mechanism/cause/effect of climate change\ni. No: “EPA has adopted new regulations”\nii. Yes: “EPA has adopted regulations in response to findings on increased emissions of carbon dioxide”\n2. The sentence can talk about climate change during any period of Earth’s history.\n(a) Yes: Massive eruptions all over the Earth’s surface caused lower temperatures for the next few centuries.\n3. There may be ambiguity because we only consider individual sentences.\n(a) If you cannot resolve an ambiguous reference (is EPA European Pressphoto Agency or Environmental Protection Agency), then use your best judgement about how to resolve the reference.\n(b) If you don’t know what a person, event, or idea is, you can expand your knowledge with a quick web search.\n(c) If after a quick quick search you still do not understand or in all other cases, label it as not relevant.",
+      "0": "No - In case of doubt and in all the other cases, the sentence must be labeled as negative"
+    }
+  },
+  "esgbert_category_water": {
+    "description": "The task is to label sentences as related to the Water.",
+    "labels": {
+      "1": "Water - The topic of water centers around water management, consumption, and pollution. It also concerns climate change effects on water, energy production with it, or projects integrating water issues. Also, sentences displaying direct impacts on water issues are considered like droughts.",
+      "0": "No Water - No effect on water issues. Simple generic environmental issues are not enough."
+    }
+  },
+  "esgbert_category_forest":{
+    "description": "The task is to label sentences as related to the Forest.",
+    "labels": {
+      "1": "Forest - The forest topic comprises direct effects on timberland, trees, wood consumption, and related ecosystems. Also, the indirect effects of monocropping, and overharvesting leading to deforestation are considered. Additionally, working conditions, corruption, and bribery around the topic of forests are important.",
+      "0": "No Forest - No Forest is just generic talk about nature without a direct or indirect link to forests. The sole address of environmental issues is not enough."
+    }
+  },
+  "esgbert_category_biodiversity": {
+    "description": "The task is to label sentences as related to the Biodiversity.",
+    "labels": {
+      "1": "Biodiversity - Biodiversity topics address the variety of living species on Earth, including plants, animals, bacteria, and fungi. A special focus lies on animal life in natural habitats and ecosystems. Categories of human interventions could be nature pollution, destruction, or restoration. Furthermore, special attention lies on hotspot areas of biodiversity loss. Hot spots may be coral reefs, rainforests, or other tropical areas.",
+      "0": "No Biodiversity - No effect on biodiversity issues. Simple generic environmental issues are not enough."
+    }
+  },
+  "esgbert_category_nature":{
+    "description": "The task is to label sentences as related to the Nature: which means either Biodiversity, Water or Forest.",
+    "labels": {
+      "1": "Nature - If the sentence is related to: Water, Forest or Biodiversity.\nWater: The topic of water centers around water management, consumption, and pollution. It also concerns climate change effects on water, energy production with it, or projects integrating water issues. Also, sentences displaying direct impacts on water issues are considered like droughts.\nForest: The forest topic comprises direct effects on timberland, trees, wood consumption, and related ecosystems. Also, the indirect effects of monocropping, and overharvesting leading to deforestation are considered. Additionally, working conditions, corruption, and bribery around the topic of forests are important.\nBiodiversity: Biodiversity topics address the variety of living species on Earth, including plants, animals, bacteria, and fungi. A special focus lies on animal life in natural habitats and ecosystems. Categories of human interventions could be nature pollution, destruction, or restoration. Furthermore, special attention lies on hotspot areas of biodiversity loss. Hot spots may be coral reefs, rainforests, or other tropical areas.",
+      "0": "No Nature - Not related to nature (meaning water, forest or biodiversity), simple generic environmental issues are not enough."
+    }
+  },
+  "sciDCC": {
+    "description": "The task is to classify articles into one of the categories from the Science Daily website.",
+    "labels": {
+      "Agriculture & Food": "",
+      "Animals":"",
+      "Biology": "",
+      "Biotechnology":"",
+      "Climate": "",
+      "Earthquakes":"",
+      "Endangered Animals": "",
+      "Environment":"",
+      "Extinction": "",
+      "Genetically Modified":"",
+      "Geography": "",
+      "Geology":"",
+      "Hurricanes Cyclones": "",
+      "Microbes":"",
+      "New Species": "",
+      "Ozone Holes":"",
+      "Pollution": "",
+      "Weather":"",
+      "Zoology": "",
+      "Global Warming": ""
+    }
+  },
+  "ClimaTOPIC":{
+    "description": "The CDP questionnaire contains a hierarchy of questions organized by topics such as energy, food, waste. We utilize these topics as labels for a classification task. We formulate a topic classification task where the goal is to predict the topic given the text of the answer.",
+    "labels": {
+      "Adaptation":  "Hazards: Adaptation, Adaptation",
+      "Buildings":  "Buildings",
+      "Climate Hazards":  "Climate Hazards, Hazards: Climate Hazards, Hazards: Social Risks, Climate Hazards and Vulnerability",
+      "Emissions":  "City-wide Emissions, Emissions Reduction, GHG Emissions Data, Local Government Emissions, Emissions Reduction: City-wide, City Wide Emissions, Emissions Reduction: Local Government, Local Government Operations GHG Emissions Data",
+      "Energy":  "Energy Data, Energy",
+      "Food":  "Food",
+      "Governance and Data Management":  "Governance and Data Management",
+      "Opportunities":  "Opportunities",
+      "Strategy":  "Strategy, Urban Planning",
+      "Transport":  "Transport",
+      "Waste":  "Waste",
+      "Water":  "Water, Water Security"
+    }
+  },
+  "climaQA": {
+    "description": "Carbon Disclosure Project (CDP) is an international organisation that runs a global disclosure questionnaire for various stakeholders to report their environmental information. The task is, given a pair question/answer, to identify if the answer correspond the question.",
+    "labels": {
+      "1": "Yes - If the text is the answer to the question.",
+      "0": "No - If the text is not the answer to the question."
+    }
+  },
+  "ClimaINS_ours":{
+    "description": "The annual NAIC Climate Risk Disclosure Survey is a U.S. insurance regulation tool where insurers file non-confidential disclosures of their assessments and management of climate-related risks.",
+    "labels": {
+      "0": "EMISSIONS Does the company have a plan to assess, reduce or mitigate its emissions in its operations or organizations? If yes, please summarize.",
+      "1": "RISK PLAN Does the company have a climate change policy with respect to risk management and investment management? If yes, please summarize. If no, how do you account for climate change in your risk management?",
+      "2": "ASSESS Describe your company’s process for identifying climate change-related risks and assessing the degree that they could affect your business, including financial implications.",
+      "3": "RISKS Summarize the current or anticipated risks that climate changeposes to your company. Explain the ways that these risks could affectyour business. Include identification of the geographical areas affectedby these risks.",
+      "4": "INVEST Part A: Has the company considered the impact of climate changeon its investment portfolio? Part B: Has it altered its investment strategyin response to these considerations? If so, please summarize steps youhave taken.",
+      "5": "MITIGATE Summarize steps the company has taken to encouragepolicyholders to reduce the losses caused by climate change-influencedevents.",
+      "6": "ENGAGE Discuss steps, if any, the company has taken to engage keyconstituencies on the topic of climate change.",
+      "7": "MANAGE Describe actions the company is taking to manage the risksclimate change poses to your business including, in general terms, the use of computer modeling. If Yes – Please summarize what actionsthe company is taking and in general terms the use if any of computermodeling in response text box"
+    },
+    "__comment__": "Might be in a different order"
+  },
+  "environmental_claims": {
+    "description": "The task is to label sentences. The information we need is whether they are environmental claims (yes or no). A broad definition for such a claim is given by the European Commission: Environmental claims refer to the practice of suggesting or otherwise creating the impression [...] that a product or a service is environmentally friendly (i.e., it has a positive impact on the environment) or is less damaging to the environment than competing goods or services",
+    "labels": {
+      "1": "Yes - Claims relate to products, services OR specific corporate environmental performance",
+      "0": "No - In case a sentence is too technical/complicated and thus not easily understandable, it usually does not suggest to the average consumer that a product or a service is environmentally friendly and thus can be rejected. Likewise, if a sentence is not specific about\nhaving an environmental impact for a product or service, it can be rejected. You have to guess the label."
+    }
+  },
+  "climateFEVER_claim":{
+    "description": "The task is to identify if the claim is supported or refuted by evidences. A retriever system retrieved evidences attacking or supporting the claim, the evidences have been aggregated into 4 labels.",
+    "labels": {
+      "NOT_ENOUGH_INFO": "By default the label is set to NOT_ENOUGH_INFO unless there is supporting (SUPPORTS) or refuting (REFUTES) evidence",
+      "SUPPORTS": "The evidences support the claim.",
+      "REFUTES": "The evidences refute the claim",
+      "DISPUTED": "If there is both supporting and refuting evidence the claim-label is DISPUTED"
+    }
+  },
+  "climateFEVER_evidence": {
+    "description": "The task is given a pair of evidence-claim predict is the evidence SUPPORTS or REFUTES the claim. The evidence might be unrelated or not precise enough in which case the label is NOT_ENOUGH_INFO.",
+    "labels": {
+      "SUPPORTS": "The evidence supports the claim.",
+      "REFUTES": "The evidence refutes the claim.",
+      "NOT_ENOUGH_INFO": "The evidence is unrelated to the claim, or there is not enough information to give a final verdict."
+    }
+  },
+  "climateBUG_data":{
+    "description": "The task is to identify if a statement is about climate change and sustainability or not in the context of financial reports from Banks. This include only statement in the core of the reports, therefore excluding Tables, Figures, Headings, ...",
+    "labels": {
+      "climate": "Climate change, Green, Non-financial risks (if related to environment/climate change), Green bond, Carbon, Global warming, Paris Agreement, Scope 1, 2, or 3 emissions  Section headings or titles, Sustainable finance Statements that are part of a table of contents, ESG (environmental, social, governance), Fossil fuels (if related to environment), Energy industry (if related to environment), Sustainable development goals (if related to environment), Energy efficiency (in operations of bank or related to lending), Operational recycling efforts by bank, Reference to disclosures (if related to environment/climate change), Non-financial risks (if related to sustainability related to environment), Equator Principles, Task Force on Climate Disclosures (TCFD), RE100, UN Global Compact, UN Environmental Programme (UNEP), UNEP Finance Initiative, Principles for Responsible Banking (PRB), Principles for Responsible Investing (PRI), Carbon Disclosure Project (CDP), 2 Degrees Investing Initiative, EU Green New Deal, EU Taxonomy, EU 2019/2088, EU 2019/2089, EU 202/852,",
+      "non-climate": "Gibberish, Languages not in English, Sustainability not related to the environment (i.e. sustainable profits), Circular economy, Recycling not related to banks own operations, Nature conservation efforts, Prompts from disclosure standards (i.e. GRI or TCFD), Section headings or titles, Statements that are part of a table of contents, Table figures."
+    }
+  },
+  "lobbymap_pages": {
+    "description": "This dataset is designed for the task of evidence-based assessment of corporate climate policy engagement. The task takes the text extracted from a PDF file, such as a corporate sustainability report, as input and outputs a set of (query, stance, evidence page indices) triplets.\n The task is to identify if in the page there are evidence about the stance of the company on one of the following policy:\n\"Alignment with IPCC on climate action\": \"Is the organization supporting the science-based response to climate change as set out by the IPCC?\",\n\"Carbon tax\": \"Is the organization supporting policy and legislative measures to address climate change: carbon tax?\",\n\"Communication of climate science\": \"Is the organization transparent and clear about its position on climate change science?\",\n\"Disclosure on relationships\": \"Is the organization transparent about its involvement with industry associations that are influencing climate policy, including the extent to which it is aligned with these groups on climate?\",\n\"Emissions trading\": \"Is the organization supporting policy and legislative measures to address climate change: emissions trading?\",\n\"Energy and resource efficiency\": \"Is the organization supporting policy and legislative measures to address climate change: energy efficiency policy, standards, and targets?\",\n\"Energy transition & zero carbon technologies\": \"Is the organization supporting an IPCC-aligned transition of the economy away from carbon-emitting technologies, including supporting relevant policy and legislative measures to enable this transition?\",\n\"GHG emission regulation\": \"Is the organization supporting policy and legislative measures to address climate change: GHG emission standards and targets? Is the organization supporting policy and legislative measures to address climate change: Standards, targets, and other regulatory measures directly targeting Greenhouse Gas emissions?\",\n\"Land use\": \"Is the organization supporting policy and legislative measures to enhance and protect ecosystems and land where carbon is being stored?\",\n\"Renewable energy\": \"Is the organization supporting policy and legislative measures to address climate change: Renewable energy legislation, targets, subsidies, and other policy?\",\n\"Support of UN climate process\": \"Is the organization supporting the UN FCCC process on climate change?\",\n\"Supporting the need for regulations\": \"To what extent does the organization express the need for regulatory intervention to resolve the climate crisis?\",\n\"Transparency on legislation\": \"Is the organization transparent about its positions on climate change legislation/policy and its activities to influence it?\"\n",
+    "labels": {
+      "1": "The page contains one or more evidence about the stance of the company regarding any of the policy mentioned above.",
+      "0": "The page does not contain evidence about the stance of the company regarding any of the policy."
+    }
+  },
+  "lobbymap_query":{
+    "description": "This dataset is designed for the task of evidence-based assessment of corporate climate policy engagement. The task takes the text extracted from a PDF file, such as a corporate sustainability report, as input and outputs a set of (query, stance, evidence page indices) triplets.\n The page contains one or more evidence, about the stance of the company on one or more policy. Give the list of all policy.",
+    "labels": {
+      "Alignment with IPCC on climate action": "Is the organization supporting the science-based response to climate change as set out by the IPCC?",
+      "Carbon tax": "Is the organization supporting policy and legislative measures to address climate change: carbon tax?",
+      "Communication of climate science": "Is the organization transparent and clear about its position on climate change science?",
+      "Disclosure on relationships": "Is the organization transparent about its involvement with industry associations that are influencing climate policy, including the extent to which it is aligned with these groups on climate?",
+      "Emissions trading": "Is the organization supporting policy and legislative measures to address climate change: emissions trading?",
+      "Energy and resource efficiency": "Is the organization supporting policy and legislative measures to address climate change: energy efficiency policy, standards, and targets?",
+      "Energy transition & zero carbon technologies": "Is the organization supporting an IPCC-aligned transition of the economy away from carbon-emitting technologies, including supporting relevant policy and legislative measures to enable this transition?",
+      "GHG emission regulation": "Is the organization supporting policy and legislative measures to address climate change: GHG emission standards and targets? Is the organization supporting policy and legislative measures to address climate change: Standards, targets, and other regulatory measures directly targeting Greenhouse Gas emissions?",
+      "Land use": "Is the organization supporting policy and legislative measures to enhance and protect ecosystems and land where carbon is being stored?",
+      "Renewable energy": "Is the organization supporting policy and legislative measures to address climate change: Renewable energy legislation, targets, subsidies, and other policy?",
+      "Support of UN climate process": "Is the organization supporting the UN FCCC process on climate change?",
+      "Supporting the need for regulations": "To what extent does the organization express the need for regulatory intervention to resolve the climate crisis?",
+      "Transparency on legislation": "Is the organization transparent about its positions on climate change legislation/policy and its activities to influence it?"
+    }
+  },
+  "lobbymap_stance": {
+    "description": "This dataset is designed for the task of evidence-based assessment of corporate climate policy engagement. The task takes the text extracted from a PDF file, such as a corporate sustainability report, as input and outputs a set of (query, stance, evidence page indices) triplets.\n The task is, given a policy (query) and the text of a page that contains evidence about the policy, give the stance of the company toward that policy",
+    "labels": {
+      "opposing": "",
+      "not_supporting":"",
+      "no_position_or_mixed_position": "",
+      "supporting":"",
+      "strongly_supporting":""
+    }
+  },
+  "sustainable_signals_review":{
+    "description": "You will be provided a product review. Determine if the review contains terms relevant to sustainability",
+    "labels": {
+      "Relevant": "",
+      "Not relevant": ""
+    }
+  },
+  "esgbert_e": {
+    "description": "The overall goal is to identify texts related to ESG topics. In this particular task the goal is to identify the text related to Environment topics: Label E. Environmental criteria comprise a company’s energy use, waste management (contaminated land or disposal of hazardous/toxic emissions), pollution, natural resource conservation, and treatment of the biosphere, as well as compliance with governmental regulations. Special areas of interest are climate change and environmental sustainability (e.g., handling diminishing raw materials).",
+    "labels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "esgbert_s":{
+    "description": "The overall goal is to identify texts related to ESG topics. In this particular task the goal is to identify the text related to Social topics: Label S. Social criteria look at the company’s business relationships. Topics of interest are the support of diversity and human rights, consumer protection, coherence of company values and those of the suppliers, donations or voluntary work in local communities, issues of employee safety and health, and interests of other stakeholders.",
+    "labels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "esgbert_g": {
+    "description": "The overall goal is to identify texts related to ESG topics. In this particular task the goal is to identify the text related to Governance topics: Label G. Governance criteria is all about accountability and transparency of structures and processes. They include transparent accounting methods and stockholders’ right to ote/interact on important issues. Additionally, avoidance of conflicts in the board, business ethics (e.g., political contributions to obtain unduly favorable treatments) and (il-)legal or anti-competitive practices can be taken into account.",
+    "labels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "esgbert_action500":{
+    "description": "The task is to identify if the text contains actions.",
+    "labels": {
+      "0": "No",
+      "1": "Yes"
+    },
+    "__comment__": "the dataset is not official and might need to be updated later. Therefore there are no official descriptions"
+  },
+  "green_claims": {
+    "description": "The goal of this task is to annotate statements and advertisements made by companies on Twitter. For each tweet you can choose one of the following labels according to the definitions:",
+    "labels": {
+      "green_claim": "GREEN CLAIM - The tweet associates ecological, environmental sustainability, or nature-friendly benefits and features to specific products or manufacturing processes or to the whole company. Or the tweet uses nature-evoking elements or other green references which affect the consumer's impression about the company or its products.",
+      "not_green": "The tweet does not contain any green claims (might contain a claim)."
+    }
+  },
+  "green_claims_3":{
+
+    "description": "The goal of this task is to annotate statements and advertisements made by companies on Twitter. For each tweet you can choose one of the following labels according to the definitions:",
+    "labels": {
+      "explicit_claim":"EXPLICIT GREEN CLAIM - The tweet associates ecological, environmental sustainability, or nature-friendly benefits and features to specific products or manufacturing processes or to the whole company.",
+      "implicit_claim": "IMPLICIT GREEN CLAIM - The tweet uses nature-evoking elements or other green references which affect the consumer's impression about the company or its products.",
+      "not_green": "NOT GREEN - The tweet does not contain any explicit or implicit green claims (might contain a claim)."
+    },
+    "__comment__": "This task is also a multilabel task. Then we should that it can be one or more label. The task is well detailed in the guidelines from the original paper if needed."
+  },
+  "contrarian_claims": {
+    "description": "The goals of this task to identify if the text contains a claims against climate-change (a contrarian claim). While identifying the contrarian claims, you must also classify them into types of contrarian claims.",
+    "labels": {
+      "0_0": "No claim, No claim",
+
+      "1_1":"Global warming is not happening, Ice/permafrost/snow cover isn’t melting",
+      "1_2":"Global warming is not happening, We’re heading into an ice age/global cooling",
+      "1_3":"Global warming is not happening, Weather is cold/snowing",
+      "1_4":"Global warming is not happening, Climate hasn’t warmed/changed over the last (few) decade(s)",
+      "1_6":"Global warming is not happening, Sea level rise is exaggerated/not accelerating",
+      "1_7":"Global warming is not happening, Extreme weather isn’t increasing/has happened before/isn’t linked to climate change",
+
+      "2_1":"Human greenhouse gases are not causing climate change, It’s natural cycles/variation",
+      "2_3":"Human greenhouse gases are not causing climate change, There’s no evidence for greenhouse effect/carbon dioxide driving climate change",
+
+      "3_1":"Climate impacts/global warming is beneficial/not bad, Climate sensitivity is low/negative feedbacks reduce warming",
+      "3_2":"Climate impacts/global warming is beneficial/not bad, Species/plants/reefs aren’t showing climate impacts/are benefiting from climate change",
+      "3_3":"Climate impacts/global warming is beneficial/not bad, CO2 is beneficial/not a pollutant",
+
+      "4_1":"Climate solutions won’t work, Climate policies (mitigation or adaptation) are harmful",
+      "4_2":"Climate solutions won’t work, Climate policies areineffective/flawed",
+      "4_4":"Climate solutions won’t work, Clean energy technology/biofuels won’t work",
+      "4_5":"Climate solutions won’t work, People need energy (e.g. from fossil fuels/nuclear)",
+
+      "5_1":"Climate movement/science is unreliable, Climate-related science is unreliable/uncertain/unsound (data, methods & models)",
+      "5_2":"Climate movement/science is unreliable, Climate movement is unreliable/alarmist/corrupt"
+    }
+  },
+  "climateEng":{
+    "description": "The task is to categorize each tweet into one of the 5 categories in terms of its topic related to climate change.",
+    "labels": {
+      "0": "General - This category contains tweets that are:\n- References of people discussing and spreading awareness about climate change without aspecific focus like ocean, water.\n- References of climate change affecting suburban lives.",
+      "1": "Politics - This category contains tweets that are related to:\n- Quotes of different world leaders on the topicof climate change.\n- References about actions taken by institutionslike UN to spread awareness about the increasing concerns about climate change.\n- References to policies being put in place likeNewgreendeal, COP25.",
+      "2": "Ocean/Water - This category contains tweets that are:\n- References to the effects of climate change on biodiversity on ocean, seas, and other water bodies.\n- References to water-based activities that accelerate climate change.\n- References to how biodiversity on land adapts to the effects of climate change",
+      "3": "Agriculture/Forestry - This category contains tweets that are: \n- References to the effects of climate change on biodiversity on land, crop yields. \n- References to activities including deforestation and fossil fuel burning accelerating climate change.\n- References to how biodiversity on land isadapting itself to the effects of climate change",
+      "4": "Disaster - This category contains tweets related to various climate-change-influenced natural disasters, including wildfires, floods, hurricanes, and droughts.\nThese references entail:\n- References containing opinions about specific instances of natural disasters.\n- Information regarding specific instances of natural disasters"
+    }
+  },
+  "climateStance": {
+    "description": "The task is to categorize each tweet into one of the three categories in terms of its stance towards climate change prevention. We use the term stance as a broad concept covering sentiment, evaluation, appraisal, or attitude and its associated information that is stance target and further use this to evaluate the stance",
+    "labels": {
+      "0": "Ambiguous - Do not express any clear stance towards climate change. Tweets with sarcastic tones were also marked as ambiguous.",
+      "1": "Favor - Expressions of opinion, action, concern against the climate change phenomenon.",
+      "2": "Against - Expressions of distance, ignorance towards signs of climate change, extreme climates, and the opposition of climate change policies or actions taken by the governing bodies."
+    }
+  },
+  "climateEng_Reddit":{
+    "description": "",
+    "labels": {
+      "": "",
+      "": ""
+    }
+  },
+  "climateStance_Reddit": {
+    "description": "",
+    "labels": {
+      "": "",
+      "": ""
+    }
+  },
+  "netzero_reduction":{
+    "description": "Your task is to classify a provided text whether it contains claims about Reduction or Net Zero targets or none of them.",
+    "labels": {
+      "net-zero": "Net zero targets represent a special case of reduction targets where an institution states to bring its emissions balance down to no additional net emissions by a certain year.",
+      "reduction": "Reduction targets are claims that refer to an absolute or relative reduction of emissions, often accompanied by a baseline year to which the reduction target is compared.",
+      "none": "If both targets appear in the text, the main focus of the text is decisive. For instance, most reduction targets serve as intermediary steps for the final goal of net zero. Thus, the focus lies on net zero."
+    },
+    "__comment__": "The paper contains a prompt, which is different from theses instruction"
+  },
+  "gw_stance_detection": {
+    "description": "we are collecting your judgments of global warming stance for a series of sentences. You have to annotate the opinion as agreeing, disagreeing, or being neutral with respect to the target opinion, “Climate change/global warming is a serious concern.”",
+    "labels": {
+      "agrees": "agrees (the writer probably agrees with the target opinion)\n    This could be for any of reasons shown below:\n        the writer mentions explicit support for the target\n        the writer mentions support for something/someone aligned with the target,\n        the writer mentions opposition to something/someone opposing the target",
+      "disagrees": "disagrees (the writer probably disagrees with the target opinion)\n    This could be for any of the following:\n        the writer mentions explicit opposition to the target\n        the writer mentions opposition to someone/something aligned with the target,\n        the writer mentions support for someone/something opposing the target",
+      "neutral": "disagrees (it is unclear whether or not the writer supports the target opinion)\n    The writer could be either in support of or against the target; the sentence does not reveal the writer's stance."
+    }
+  },
+  "greenscreen":{
+    "description": "",
+    "labels": {
+      "": "",
+      "": ""
+    }
+  },
+  "logicClimate": {
+    "description": "You will be presented with a text that contains a fallacious argument. You must classify the argument in one of the following fallacy type.",
+    "labels": {
+      "faulty generalization": "Faulty Generalization - An informal fallacy wherein a conclusion is drawn about all or many instances of a phenomenon on the basis of one or a few instances of that phenomenon. This is an example of jumping to conclusions.",
+      "false causality": "False Causality - A statement that jumps to a conclusion implying a causal relationship without supporting evidence.",
+      "circular reasoning": "Circular Claim - A fallacy where the end of an argument comes back to the beginning without having proven itself.",
+      "ad populum": "Ad Populum - A fallacious argument which is based on affirming that something is real or better because the majority thinks so.",
+      "ad hominem": "Ad Hominem - An irrelevant attack towards the person or some aspect of the person who is making the argument, instead of addressing the argument or position directly.",
+      "fallacy of logic": "Deductive Fallacy - An error in the logical structure of an argument.",
+      "appeal to emotion": "Appeal to Emotion - Manipulation of the recipient’s emotions in order to win an argument.",
+      "false dilemma": "False Dilemma - A claim presenting only two options or sides when there are many options or sides.",
+      "equivocation": "Equivocation - An argument which uses a key term or phrase in an ambiguous way, with one meaning in one portion of the argument and then another meaning in another portion of the argument.",
+      "fallacy of extension": "Fallacy of Extension - An argument that attacks an exaggerated or caricatured version of your opponent’s position.",
+      "fallacy of relevance": "Fallacy of Relevance - Also known as red herring, this fallacy occurs when the speaker attempts to divert attention from the primary argument by offering a point that does not suffice as counterpoint/supporting evidence (even if it is true).",
+      "fallacy of credibility": "Fallacy of Credibility - An appeal is made to some form of ethics, authority, or credibility.",
+      "intentional": "Intentional Fallacy - A custom category for when an argument has some element that shows intent of a speaker to win an argument without actual supporting evidence."
+    },
+    "__comment__": "The label is not exactly the same as the fallacy name reported in the paper, both are reported in this. Must make the prompt explicit for LLM"
+  }
+
+}

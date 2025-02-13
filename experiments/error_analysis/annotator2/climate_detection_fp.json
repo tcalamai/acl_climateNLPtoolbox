@@ -1,0 +1,79 @@
+[
+    {
+        "label": "no",
+        "text": "Increasing income of the middle classes leads to preference for quality and luxury products as well as differentiated needs including that for personal care items. Meanwhile, urban consumers are demanding greater convenience across their lifestyle choices, better mobility and light smart devices. These funnel into growing demand for specialty chemical products presenting us with exciting opportunities to drive sustainable growth.",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph mentions \"sustainable growth,\" which indicates a focus on sustainability efforts, and discusses the demand for specialty chemical products, suggesting a connection to environmental topics.\n```",
+        "comment": "error: sustainable does not mean necessarly enviroment, it means something that occurs at a steady rithm "
+    },
+    {
+        "label": "no",
+        "text": "With passion and integrity at the heart of everything we do, we aim to build a sustainable business that makes a positive difference for all, now and in the future.",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph mentions the aim to build a sustainable business, which relates to sustainability efforts and indicates a focus on making a positive environmental impact.\n```",
+        "comment": "debatable: there is no sufficient context to know to what definition of sustainable we are refering"
+    },
+    {
+        "label": "no",
+        "text": "We have a long heritage of innovation and strive to provide athletes with the best by creating high- performance and competitive products. In 2020, we continued to serve consumers with innovative technologies and sustainable concepts built into our products",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph mentions \"sustainable concepts\" which indicates a focus on sustainability efforts, linking it to environmental topics.\n```",
+        "comment": "debatable:sustainable concepts is not clear, could be just a reference to long lasting"
+    },
+    {
+        "label": "no",
+        "text": "In addition, certain environmental laws assess liability on current or previous owners or operators of real property for the costs of investigation, removal or remediation of hazardous substances or materials at their properties or at properties which they have disposed of hazardous substances. In addition to cleanup actions brought by governmental authorities, private parties could bring personal injury or other claims due to the presence of, or exposure to, hazardous substances. The ultimate cost of site cleanup and timing of future cash outflows is difficult to predict, given the uncertainties regarding the extent of the required cleanup, the interpretation of applicable laws and regulations, and alternative cleanup methods.",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph discusses environmental laws related to the liability for hazardous substances, which pertains to environmental topics and regulations. It also touches on cleanup actions and the implications of hazardous materials, linking it to environmental concerns.\n```",
+        "comment": "wrong:this seems like an obvious yes"
+    },
+    {
+        "label": "no",
+        "text": "Aimed at 91 general managers and 3,171 relationship managers from 139 business offices, distributed in 77 municipalities in Brazil, the purpose of the training is the building a better service experience through the implementation of a relationship strategy, maintaining the proximity and ties of confidence in a digital environment and targeting at customer satisfaction and maximizing sustainable results.",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph mentions \"maximizing sustainable results,\" which indicates a focus on sustainability efforts, linking it to environmental topics.\n```",
+        "comment": "error: I would say here sustainable is an economic term here"
+    },
+    {
+        "label": "no",
+        "text": "Global Operations delivers upon our company's mission to be the best sports brand in the world. The function creates the best products by establishing state-of-the-art infrastructure, processes, and systems that enable us to focus on innovative and sustainable materials and manufacturing capabilities. Moreover, Global Operations is focused on delivering the best services through flexible and agile distribution capabilities by enabling product availability through an omni-channel approach. Thereby, Global Operations contributes to delivering the best experience to our customers and consumers in a sustainable way.",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph mentions \"innovative and sustainable materials and manufacturing capabilities,\" which indicates a focus on sustainability efforts, a key aspect of climate-related topics. Additionally, the emphasis on delivering services in a \"sustainable way\" further connects the content to environmental considerations.\n```",
+        "comment": "debatable:sustainable materials could be long lasting"
+    },
+    {
+        "label": "no",
+        "text": "CANADIAN UTILITIES: WHAT SETS US APART TRACK RECORD OF DIVIDEND GROWTH We have increased our common share dividend every year for the past 49 years, the longest record of annual dividend increases of any Canadian publicly traded company. On January 14, 2021, we declared a first quarter dividend of 43.98 cents per share or $1.76 per share on an annualized basis. We aim to grow dividends in-line with our sustainable earnings growth, which is linked to growth from our regulated and long-term contracted investments.",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph mentions \"sustainable earnings growth,\" which indicates a focus on sustainability initiatives, linking it to environmental topics and corporate strategies involving sustainability.\n```",
+        "comment": "error:sustainable is an economic term that we can replace with viable, tenable"
+    },
+    {
+        "label": "no",
+        "text": "Financing line for micro and small companies, with or without associated working capital, for investment projects that provide generation or maintenance of employment and income in urban areas to enable sustainable development of micro and small companies aligned with Proger Urbano.",
+        "gpt-4o-mini_label": "yes",
+        "gpt-4o-mini_explanation": "The paragraph mentions sustainable development, which is related to climate policy and environmental topics, particularly in the context of supporting micro and small companies in urban areas.\n```",
+        "comment": "error:sustainable is an economic term that we can replace with viable, tenable"
+    },
+    {
+        "text": "Currently, there are no licenced facilities in Canada for the permanent disposal of used nuclear fuel or L&ILW. The risks to OPG's proposed L&ILW DGR for the safe long-term management of L&ILW are discussed below under the heading, Risks to Achieving Project Excellence - Deep Geologic Repository for Low and Intermediate Level Waste.",
+        "label": "no",
+        "gpt-4o-mini_label_cot": "yes",
+        "gpt-4o-mini_explanation_cot": "The paragraph discusses the management of low and intermediate level waste (L&ILW) and the associated risks, which relates to environmental management and safety in the context of nuclear waste disposal. This topic is indirectly connected to environmental issues, particularly in terms of waste management and its implications for sustainability.\nLabel: yes\n```",
+        "comment": "wrong: here waste disposal is cleary env"
+    },
+    {
+        "text": "Seqirus has continued to support the Partnership for Influenza Vaccine Introduction (PIVI), a key program of the Task Force for Global Health, a not-for-profit, independent, nongovernmental organisation based in the US. An innovative public/private program, PIVI works in partnership with the Centers for Disease Control and Prevention (CDC), Ministries of Health, corporate partners and others to create sustainable, routine, seasonal influenza vaccination programs in low and middle-income countries. In the past year, our financial support to PIVI has focused on the establishment of a global coalition to explore the value of a coordinated stakeholders plan for epidemic and pandemic influenza preparedness.",
+        "label": "no",
+        "gpt-4o-mini_label_cot": "yes",
+        "gpt-4o-mini_explanation_cot": "The paragraph discusses a program aimed at creating sustainable vaccination programs, which relates to public health and sustainability efforts. While it does not explicitly mention climate change, the focus on sustainability and preparedness can be indirectly connected to environmental health and resilience against climate-related health impacts.\nLabel: yes\n```",
+        "comment": "error: clear error, it talks about vaccines"
+    },
+    {
+        "text": "The Board is collectively responsible for delivering sustainable value through oversight of the management of the Group's business. In addition, through its Board Committees, the Board provides guidance and oversight to the Group on the management of risk and internal control as well as governance matters.",
+        "label": "no",
+        "gpt-4o-mini_label_cot": "yes",
+        "gpt-4o-mini_explanation_cot": "The paragraph mentions \"delivering sustainable value,\" which indicates a focus on sustainability efforts, suggesting a connection to environmental topics. However, it does not provide specific details about climate change or environmental issues. Still, the reference to sustainability implies relevance to climate-related discussions.\nLabel: yes\n```",
+        "comment": "error: viable, tenable not related to env"
+    }
+]

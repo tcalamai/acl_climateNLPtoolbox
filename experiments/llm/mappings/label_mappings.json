@@ -1,0 +1,212 @@
+{
+    "esgbert_action500": {
+        "0": 0,
+        "1": 1
+    },
+    "green_claims": {
+        "green_claim": 0,
+        "not_green": 1
+    },
+    "green_claims_3": {
+        "implicit_claim": 0,
+        "explicit_claim": 1,
+        "not_green": 2
+    },
+    "sustainable_signals_review": {
+        "Not relevant": 0,
+        "Relevant": 1
+    },
+    "climate_specificity": {
+        "non-specific": 0,
+        "specific": 1
+    },
+    "climate_sentiment": {
+        "opportunity": 0,
+        "risk": 1,
+        "neutral": 2
+    },
+    "climate_commitments_actions": {
+        "yes": 0,
+        "no": 1
+    },
+    "logicClimate": {
+        "ad hominem": 0,
+        "ad populum": 1,
+        "appeal to emotion": 2,
+        "circular reasoning": 3,
+        "intentional": 4,
+        "faulty generalization": 5,
+        "fallacy of relevance": 6,
+        "false dilemma": 7,
+        "fallacy of credibility": 8,
+        "fallacy of logic": 9,
+        "equivocation": 10,
+        "fallacy of extension": 11,
+        "false causality": 12
+    },
+    "climate_detection": {
+        "yes": 0,
+        "no": 1
+    },
+    "climate_tcfd_recommendations": {
+        "governance": 0,
+        "none": 1,
+        "metrics": 2,
+        "risk": 3,
+        "strategy": 4
+    },
+    "climateFEVER_claim": {
+        "NOT_ENOUGH_INFO": 0,
+        "REFUTES": 1,
+        "DISPUTED": 2,
+        "SUPPORTS": 3
+    },
+    "esgbert_e": {
+        "0": 0,
+        "1": 1
+    },
+    "esgbert_g": {
+        "0": 0,
+        "1": 1
+    },
+    "esgbert_s": {
+        "0": 0,
+        "1": 1
+    },
+    "esgbert_category_nature": {
+        "0": 0,
+        "1": 1
+    },
+    "esgbert_category_water": {
+        "0": 0,
+        "1": 1
+    },
+    "esgbert_category_forest": {
+        "0": 0,
+        "1": 1
+    },
+    "esgbert_category_biodiversity": {
+        "0": 0,
+        "1": 1
+    },
+    "gw_stance_detection": {
+        "agrees": 0,
+        "disagrees": 1,
+        "neutral": 2
+    },
+    "environmental_claims": {
+        "0": 0,
+        "1": 1
+    },
+    "netzero_reduction": {
+        "reduction": 0,
+        "net-zero": 1,
+        "none": 2
+    },
+    "climateStance": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+    },
+    "climateEng": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4
+    },
+    "climateFEVER_evidence": {
+        "NOT_ENOUGH_INFO": 0,
+        "REFUTES": 1,
+        "SUPPORTS": 2
+    },
+    "sciDCC": {
+        "Earthquakes": 0,
+        "Geology": 1,
+        "Agriculture & Food": 2,
+        "Extinction": 3,
+        "Endangered Animals": 4,
+        "Hurricanes Cyclones": 5,
+        "Geography": 6,
+        "Genetically Modified": 7,
+        "Ozone Holes": 8,
+        "New Species": 9,
+        "Biology": 10,
+        "Microbes": 11,
+        "Environment": 12,
+        "Weather": 13,
+        "Global Warming": 14,
+        "Pollution": 15,
+        "Animals": 16,
+        "Zoology": 17,
+        "Climate": 18,
+        "Biotechnology": 19
+    },
+    "ClimaINS_ours": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7
+    },
+    "lobbymap_stance": {
+        "opposing": 0,
+        "strongly_supporting": 1,
+        "no_position_or_mixed_position": 2,
+        "not_supporting": 3,
+        "supporting": 4
+    },
+    "contrarian_claims": {
+        "1_6": 0,
+        "4_1": 1,
+        "4_5": 2,
+        "1_2": 3,
+        "2_1": 4,
+        "1_1": 5,
+        "1_3": 6,
+        "4_2": 7,
+        "3_3": 8,
+        "1_4": 9,
+        "3_2": 10,
+        "5_2": 11,
+        "1_7": 12,
+        "0_0": 13,
+        "5_1": 14,
+        "4_4": 15,
+        "3_1": 16,
+        "2_3": 17
+    },
+    "ClimaTOPIC": {
+        "Opportunities": 0,
+        "Emissions": 1,
+        "Energy": 2,
+        "Transport": 3,
+        "Adaptation": 4,
+        "Waste": 5,
+        "Water": 6,
+        "Governance and Data Management": 7,
+        "Strategy": 8,
+        "Food": 9,
+        "Buildings": 10,
+        "Climate Hazards": 11
+    },
+    "lobbymap_pages": {
+        "0": 0,
+        "1": 1
+    },
+    "climateBUG_data": {
+        "non-climate": 0,
+        "climate": 1
+    },
+    "climatext": {
+        "0": 0,
+        "1": 1
+    },
+    "climaQA": {
+        "0": 0,
+        "1": 1
+    }
+}

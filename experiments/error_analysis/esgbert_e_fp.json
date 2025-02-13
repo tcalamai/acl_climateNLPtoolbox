@@ -1,0 +1,16 @@
+[
+    {
+        "label": "No",
+        "text": "In the Rhenish lignite mining area, water ingress at the Inden opencast mine brought production to a temporary halt.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The text discusses an incident in a mining area that affects production, which relates to environmental topics such as natural resource management and the impact of mining activities on the environment.\n```",
+        "comment": "error,debatable:E as in ESG not as in Environment"
+    },
+    {
+        "label": "No",
+        "text": "Thus, there is a very gradual deceleration towards more sustainable growth rates.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The text refers to sustainable growth rates, which is related to environmental sustainability and the broader context of managing resources in an environmentally friendly manner.\n```",
+        "comment": "error,sustainable:ambiguity with sustainable growth without context"
+    }
+]

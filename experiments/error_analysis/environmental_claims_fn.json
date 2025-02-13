@@ -1,0 +1,30 @@
+[
+    {
+        "label": "Yes",
+        "text": "To strengthen its approach, Kering's SBT for a 1.5degC trajectory was revised and approved by the SBTi in early 2021.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses Kering's SBT (Science-Based Targets) but does not make a clear environmental claim about a product or service being environmentally friendly or less damaging to the environment.\n```",
+        "comment": "ambiguous,strengthen,implicit-describe:SBT is a common indicator that a company has good climate targets, the statement is not explicit and describe something but implictly it sugguest good environmental performances. In particular strengthen suggest the statement is part of a text that make an environmental claim."
+    },
+    {
+        "label": "Yes",
+        "text": "We have developed a Climate Change Strategy Roadmap outlining our climate change governance framework.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence describes a governance framework related to climate change but does not make a specific environmental claim about a product or service being environmentally friendly or less damaging to the environment.\n```",
+        "comment": "error,implicit-describe:they merely describe that they have proposed a climate change strategy roadmap, they do not suggest that it is better, implicitly however, having a roadmap is a good first step toward less emission and therefore a greener company. This can be considered a claim."
+    },
+    {
+        "label": "Yes",
+        "text": "In October 2018, EnBW published its first Green Financing Framework and issued its first green bond (Glossary, p. 153) with a volume of EUR500 million (p. 85 f.).",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence provides specific information about a financial framework and bond issuance but does not make a clear environmental claim or suggest that the product or service is environmentally friendly.\n```",
+        "comment": "error,implicit-describe:here again the statement is about something relate to the climate, but it only describe elements. As the definition state that it should sugguest that the product is good for the environment. This is debatable here or at least explicit."
+    },
+    {
+        "label": "Yes",
+        "text": "We are excited to play our part in supporting the UK government, along with our fellow partners and many others, to deliver a successful COP26 which encourages and inspires ambitious action to tackle climate change in this critical decade.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses support for a government initiative related to climate change but does not make a specific environmental claim about a product or service being environmentally friendly or less damaging.\n```",
+        "comment": "error,assumption:positive but does not explicitly state what they are doing. The statement is not sufficient to understand what they are doing, they could just be participating. Therefore making it guess work"
+    }
+]

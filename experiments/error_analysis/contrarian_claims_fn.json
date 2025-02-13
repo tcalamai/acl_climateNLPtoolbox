@@ -1,0 +1,72 @@
+[
+    {
+        "label": "Global warming is not happening, Ice/permafrost/snow cover isn\u2019t melting",
+        "text": "As Glaciergate was breaking, I believe I was the f irst to call for the Nobel Committee to revoke Al Gores and the UN IPCCs share Nobel Peace Prize , despite the fact that Nobel rules prohibit revocation of the Nobel Peace Prize. I said, Screw it, set a new precedent!",
+        "gpt-4o-mini_label": "0_0: 'No claim, No claim'",
+        "gpt-4o-mini_explanation": "The text does not contain any claims relevant to climate change or contrarian views; it discusses a personal opinion about the Nobel Prize without addressing climate change directly.\n```",
+        "comment": "error:Glaciergate is criticism of one part of the IPCC report, this argument is clearly a contrarian claim. The glaciergate was about a paragraph of the IPCC stating that glacier in himalaya could melt by 2035 which was later removed from the IPCC report."
+    },
+    {
+        "label": "Human greenhouse gases are not causing climate change, It\u2019s natural cycles/variation",
+        "text": "This brings us to the Number of The Week: 86.7% . As TWTW reported last week, Professor Emeritus of Geology Don Easterbrook has given the annual temperature reports in a different frame of reference. Based on his calculations from the GRIP-2 ice cores from Greenland, for 9,100 of the past 10,500 years it was warmer than today. That is, 86.7% of the time during this 10,500 year period it was warmer than today, and 13.3% of the time it was colder (at least in Greenland).",
+        "gpt-4o-mini_label": "1_4: 'Global warming is not happening, Climate hasn't warmed/changed over the last (few) decade(s)'",
+        "gpt-4o-mini_explanation": "The text presents a claim that for a significant portion of the past 10,500 years, temperatures were warmer than today, implying that current warming trends are not unusual and suggesting that the climate has not changed significantly in recent times.\n```",
+        "comment": "error,multi:as a subsubcategory, the original label is closer: Past climate change. However, the label by GPT is not absurd as they imply that is was warmer before and therefore the climate hasn't warm."
+    },
+    {
+        "label": "Global warming is not happening, Extreme weather isn\u2019t increasing/has happened before/isn\u2019t linked to climate change",
+        "text": "Despite warnings from those concerned about global warming, the 2006 hurricane season passed largely without incident. This points out, according to David Ridenour of the National Center for Public Policy Research, the continuing difficulties surrounding climate science. Comments Ridenour: ???The number of hurricanes was 38 percent below the number originally forecast by our government. And the number of hurricanes that qualified as ???major?? fell 50 percent below those forecasts. If we can??t depend on hurricane forecasts made six months ahead of time, how can we expect to depend on predictions about the behavior of hurricanes decades from now. Sadly much of our climate science seems to be more based on politic science.??",
+        "gpt-4o-mini_label": "5_1: 'Climate movement/science is unreliable, Climate-related science is unreliable/uncertain/unsound (data, methods & models)'",
+        "gpt-4o-mini_explanation": "The text questions the reliability of climate science by highlighting discrepancies in hurricane forecasts and suggests that current climate science is influenced by political agendas, indicating a lack of trust in the scientific methods and data used in climate predictions.\n```",
+        "comment": "error,multi:in this cases both could apply as we compare prediction to show that it is unreliable. However, it is more explicitly about weather."
+    },
+    {
+        "label": "Climate movement/science is unreliable, Climate movement is unreliable/alarmist/corrupt",
+        "text": "Im glad its getting old Gavin, very very happy in fact. Yet there is a simple truth, Gavin (who is a scientist) doesnt know which data was used anymore than we do. BECAUSE CRU WONT RELEASE IT! Why doesnt he want to know? His colleagues at CRU (Climategate central headquarters) have recently been shown hiding data from reconstructions, blocking skeptical papers which demonstrate the problems in paleo math, and removing points from temperature curves to hide downtrends. We know that only a single very high warming station is being used in GHCN for the Antarctic. We know that Switzerland and Austrailia have some very unusual warming trends. We know his colleagues blocked in two cases, papers critical of the Siberian data. Even assuming that they didnt succumb to the pressures of fraudulent selection in Russia, how is Gavin so sure his colleagues havent made an honest error.",
+        "gpt-4o-mini_label": "5_1: 'Climate movement/science is unreliable, Climate-related science is unreliable/uncertain/unsound (data, methods & models)'",
+        "gpt-4o-mini_explanation": "The text questions the reliability of climate data and the methods used by scientists, suggesting that there is a lack of transparency and potential errors in the data collection and analysis processes. It implies that the climate science community is not trustworthy due to alleged data manipulation and bias.\n```",
+        "comment": "debatable,multi:while they state that the scientist might be corrupt, the core of the argument is about missing/unreliable data. In this case i would say it is more explicitly about data."
+    },
+    {
+        "label": "No claim, No claim",
+        "text": "While a price on GHG emissions would encourage some helpful kinds of innovation, it will not generate other kinds. Coping with climate change will require major breakthroughs in basic science. Such breakthroughs are often elusive, and seeking them is an inherently high-risk venture. The private sector finds it difficult to capture the economic rewards of funding basic science, and placing a price on GHG emissions will not correct this bias. As a result, the private sector usually does not make large, sustained investments in basic science; yet that kind of investment is the key to achieving the breakthroughs needed in climate policy.",
+        "gpt-4o-mini_label": "4_2: 'Climate solutions won’t work, Climate policies are ineffective/flawed'",
+        "gpt-4o-mini_explanation": "The text argues that placing a price on GHG emissions will not lead to the necessary breakthroughs in basic science and that the private sector is unlikely to invest in such solutions, indicating a belief that current climate policies are ineffective.\n```",
+        "comment": "debatable,out-of-context:Relying on carbon price is definitly a hot topic, but in this case, only relyin on this statement, not knowing propositions or else, we can say that the type: climate policies are flawed fit well."
+    },
+    {
+        "label": "Climate solutions won\u2019t work, Clean energy technology/biofuels won\u2019t work",
+        "text": "I may comment further on these reports in a future post. In the meantime, Iwill simply observe that if Babcock is correct, and U.S. biofuel policies have only a small influence on food prices because ???a large expansion in US ethanol production would have occurred even if the subsidies and mandates had not been in place,?? then U.S. taxpayers get little or no energy-security bang for billions of biofuel bucks.",
+        "gpt-4o-mini_label": "4_2: Climate solutions won’t work, Climate policies are ineffective/flawed'",
+        "gpt-4o-mini_explanation": "The text suggests that U.S. biofuel policies have a minimal impact on food prices and implies that the financial investment in biofuels does not yield significant energy security benefits, indicating a belief that these climate policies are ineffective.\n```",
+        "comment": "error,multi:indeed they focus on biofuel, therefore the orignal label is more correct, but this is also a argument about the policies as they mentions policies"
+    },
+    {
+        "label": "Climate impacts/global warming is beneficial/not bad, Species/plants/reefs aren\u2019t showing climate impacts/are benefiting from climate change",
+        "text": "The ocean acidification story depends only on a chemical hypothesis whereas biological factors can overcome this and create conditions that allow calcification to continue. This is corroborated by the historical record of millions of years of success in much higher CO2 environments.",
+        "gpt-4o-mini_label": "3_3: Climate impacts/global warming is beneficial/not bad, CO2 is beneficial/not a pollutant",
+        "gpt-4o-mini_explanation": "The text suggests that higher CO2 levels do not negatively impact calcification in marine environments and implies that CO2 can be beneficial, referencing historical records of successful calcification in higher CO2 conditions.\n```",
+        "comment": "debatable,multi:this statement focus on the impact of higher CO2 in the ocean.. In the categories, we see that for not a pollutant this include that CO2 is plant food/beneficial, but the statement saying that we don't observe impact on plants/species is linked to this. Both could apply"
+    },
+    {
+        "label": "Global warming is not happening, Ice/permafrost/snow cover isn\u2019t melting",
+        "text": "Well, a year later, we have an interesting opposite scenario with a deep arctic low bringing snow to the arctic and Greenland in late July.",
+        "gpt-4o-mini_label": "1_3: Global warming is not happening, Weather is cold/snowing",
+        "gpt-4o-mini_explanation": "The text refers to an unusual weather event, specifically snow in the Arctic and Greenland during a typically warm month, suggesting that this cold weather contradicts the notion of global warming.\n```",
+        "comment": "multi:both label contains the word snow. Making it ambiguous in this case."
+    },
+    {
+        "label": "Global warming is not happening, Weather is cold/snowing",
+        "text": "Major roads in Beijing and Tianjin, as well as nearby provinces Hebei, Shanxi and Inner Mongolia, were forced to close due to the heavy snow.",
+        "gpt-4o-mini_label": "0_0: No Claim",
+        "gpt-4o-mini_explanation": "The text describes a weather event (heavy snow) and its impact on transportation but does not make any claims related to climate change or contrarian views regarding global warming.\n```",
+        "comment": "debatable,out-of-context:it's indeed just a statement about the weather, all weather statement are not contrarian claims. However, in some context it can be."
+    },
+    {
+        "label": "Climate solutions won\u2019t work, Clean energy technology/biofuels won\u2019t work",
+        "text": "Renewable energy is both more expensive than and as damaging to the environment as energy produced from natural gas or coal, says Jerry Taylor of the Cato Institute. Writing in the Washington Times (Aug. 4), he points out that the usual argument that traditional energy fuels are unfairly subsidized has been judged groundless by the General Accounting Office. The GAO said fossil fuel subsidies are \"too small to have a significant effect on the overall level of energy prices and consumption in the United States.\"",
+        "gpt-4o-mini_label": "4_2: Climate solutions won’t work, Climate policies are ineffective/flawed",
+        "gpt-4o-mini_explanation": "The text argues that renewable energy is more expensive and as damaging as fossil fuels, suggesting that climate policies promoting renewable energy are ineffective. It also references the GAO's judgment that fossil fuel subsidies do not significantly affect energy prices, implying that the usual arguments for transitioning to renewable energy are flawed.\n```",
+        "comment": "error,mutli-faceted:while this statement talk about subsidies, it main focus is to say that renewable pollute as well and is expensive."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "label": "Transport",
+        "text": "Varies: Texas Commission on Environmental Quality, City of Houston, Houston Regional Monitoring",
+        "gpt-4o-mini_label": "Governance and Data Management",
+        "gpt-4o-mini_explanation": "The text references the Texas Commission on Environmental Quality and the City of Houston, indicating a focus on governance structures and data management related to environmental monitoring.\n```",
+        "comment": "out-of-context:maybe the name of the organisation filling the report?"
+    },
+    {
+        "label": "Strategy",
+        "text": "A natural gas power plant is the primary source of electricity consumed in the City. However, there is increasing use of decentralized solar power which is roughly accounted for in the 1% figure.",
+        "gpt-4o-mini_label": "Energy",
+        "gpt-4o-mini_explanation": "The text discusses the sources of electricity consumed in the city, specifically mentioning natural gas and the increasing use of decentralized solar power, which relates to energy production and consumption.\n```",
+        "comment": "honest-mistake:deal with energy and emissions, not hint in the answer"
+    },
+    {
+        "label": "Transport",
+        "text": "Although the government portion of the data is accurate, we could not access reliable city-wide data for this section. We will update our report as soon as we find accurate data.",
+        "gpt-4o-mini_label": "Governance and Data Management",
+        "gpt-4o-mini_explanation": "The text addresses issues related to the accuracy and accessibility of data, which falls under governance structures and data management systems.\n```",
+        "comment": "honest-mistake:the sentence is taken out of context"
+    },
+    {
+        "label": "Emissions",
+        "text": "Two smart bus stops, equipped with seven smart elements, in Persiaran Sultan. The smart elements, which are found on the electronic panel, include informing passengers on the arrival of a bus, free WiFi, button to pick passengers up, close-circuit television cameras (CCTVs), panic or emergency buttons, USB charging ports and an air quality index monitor.The smart bus stop, a project between MBSA and the state government through the Smart Selangor Delivery Unit (SSDU), will provide residents with facilities in line with Selangor's vision to be a smart state. The bus stops are situated in front of Wisma MBSA and another at Plaza Perangsang as there were no bus stops along the Persiaran Sultan stretch prior to this.",
+        "gpt-4o-mini_label": "Transport",
+        "gpt-4o-mini_explanation": "The text describes the implementation of smart bus stops, which are related to transportation infrastructure and services aimed at improving public transport facilities.\n```",
+        "comment": "honest-mistake:deal transportation related topics"
+    },
+    {
+        "label": "Emissions",
+        "text": "The Direct emission from institutionalbuildings occur but we are not able to estimate it on this inventory, due to financial constraints and limited manpower.",
+        "gpt-4o-mini_label": "Buildings",
+        "gpt-4o-mini_explanation": "The text refers to direct emissions from institutional buildings, indicating a focus on the environmental impact of buildings.\n```",
+        "comment": "honest-mistake:deal with buildings"
+    },
+    {
+        "label": "Governance and Data Management",
+        "text": "Decrease electricity consumption by upgrading public lighting, connecting buildings with natural gas grid and installing RES systems, mostly on building roofs",
+        "gpt-4o-mini_label": "Energy",
+        "gpt-4o-mini_explanation": "The text focuses on strategies to decrease electricity consumption through upgrades and the installation of renewable energy systems, which are directly related to energy production and management.\n```",
+        "comment": "honest-mistake:deal with energy and emissions, not hint in the answer"
+    },
+    {
+        "label": "Governance and Data Management",
+        "text": "Boulder County revised and updated the Boulder County Environmental Sustainability Plan in 2018. The Local Food and Agriculture section of the plan includes the goal to ensure a sustainable, local, safe, and healthy food supply that is accessible to all and supported by our community.",
+        "gpt-4o-mini_label": "Food",
+        "gpt-4o-mini_explanation": "The text focuses on the Local Food and Agriculture section of the Boulder County Environmental Sustainability Plan, which aims to ensure a sustainable and healthy food supply.\n```",
+        "comment": "honest-mistake:content focus on food"
+    },
+    {
+        "label": "Buildings",
+        "text": "So as to decrease GHG emissions, under the climate action plan for reducing GHG emissions, the target of the energy upgrade of municipal buildings has been set, tackling energy efficiency.The emission reduction target has been set to 27,804 tnCO2eq annually.",
+        "gpt-4o-mini_label": "Emissions",
+        "gpt-4o-mini_explanation": "The text outlines a climate action plan aimed at reducing greenhouse gas emissions, specifically mentioning a target for annual emission reductions and energy upgrades in municipal buildings to improve energy efficiency.\n```",
+        "comment": "honest-mistake:deal with both emissions and buildings"
+    },
+    {
+        "label": "Adaptation",
+        "text": "June 19, 2019 - County staff co-hosted the OWASA workshop/tabletop exercise which focused primarily on public information capabilities. County Emergency Services and multiple partners have been working with OWASA to enhance the communication process for utility impacts.",
+        "gpt-4o-mini_label": "Governance and Data Management",
+        "gpt-4o-mini_explanation": "The text describes efforts to improve public information capabilities and communication processes related to utility impacts, indicating a focus on governance structures and data management systems.\n```",
+        "comment": "honest-mistake:the content is mostly about governance, maybe to be more adaptable, but still governance"
+    },
+    {
+        "label": "Strategy",
+        "text": "We will be doing our next community-wide inventory in 2019 with Kim Lundgren and Associates, reporting on the 2018 calendar year.",
+        "gpt-4o-mini_label": "Governance and Data Management",
+        "gpt-4o-mini_explanation": "The text refers to conducting a community-wide inventory, which involves data collection and management related to environmental reporting.\n```",
+        "comment": "honest-mistake:can be part of both governance and strategy without more context on the type of questions"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "label": "Water",
+        "text": "FMC is currently in the process of reaching out to stakeholders in an effort to evolve a shared set of principles related to the further advancement of sustainable seaweed farming.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses sustainable seaweed farming but does not specifically address water management, consumption, or pollution issues directly related to water. It is more focused on agricultural practices rather than water issues.\n```",
+        "comment": "error,sea:most likely seaweed farming is related to the sea pollution, but not really water management as it is usually "
+    },
+    {
+        "label": "Water",
+        "text": "As part of our oshore decommissioning activities in Norway, we are removing and recycling oshore platforms to reduce our footprint and restore marine habitat.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence focuses on offshore decommissioning activities and marine habitat restoration, which do not directly address water management, consumption, or pollution issues.\n```",
+        "comment": "error,sea:sea pollution"
+    },
+    {
+        "label": "Water",
+        "text": "In addition, Intel employees responded to these events with great generosity, contributing $1.8 million toward tsunami relief, $1.6 million to help the victims of Hurricane Katrina and $475,000 for those affected by the earthquake in Pakistan.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses charitable contributions made by Intel employees in response to natural disasters but does not specifically address any water management, consumption, or pollution issues.\n```",
+        "comment": "error,sea:natural disaster"
+    },
+    {
+        "label": "Water",
+        "text": "We're one of our region's largest providers of renewable energy, with approximately 1,900 MW of pumped-storage hydro and contracted wind and solar resources.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence focuses on renewable energy production and does not mention any specific issues related to water management, consumption, or pollution.\n```",
+        "comment": "error,indirect:"
+    },
+    {
+        "label": "Water",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations Forward-Looking Statements - (Continued) engaged in real estate, financial services and professional services, and inflationary pressures on medical care costs, construction costs and other economic sectors that increase the severity of claims; conditions in the capital and credit markets, including continuing uncertainty and instability in these markets, as well as the overall economy, and their impact on the returns, types, liquidity and valuation of CNA's investments; conditions in the capital and credit markets that may limit CNA's ability to raise significant amounts of capital on favorable terms; the possibility of changes in CNA's ratings by ratings agencies, including the inability to access certain markets or distribution channels, and the required collateralization of future payment obligations as a result of such changes, and changes in rating agency policies and practices; regulatory limitations, impositions and restrictions upon CNA, including the effects of assessments and other surcharges for guaranty funds and second-injury funds, other mandatory pooling arrangements and future assessments levied on insurance companies; regulatory limitations and restrictions, including limitations upon CNA's ability to receive dividends from its insurance subsidiaries imposed by regulatory authorities, including regulatory capital adequacy standards; weather and other natural physical events, including the severity and frequency of storms, hail, snowfall and other winter conditions, natural disasters such as hurricanes and earthquakes, as well as climate change, including effects on global weather patterns, greenhouse gases, sea, land and air temperatures, sea levels, rain, hail and snow; regulatory requirements imposed by coastal state regulators in the wake of hurricanes or other natural disasters, including limitations on the ability to exit markets or to non-renew, cancel or change terms and conditions in policies, as well as mandatory assessments to fund any shortfalls arising from the inability of quasi-governmental insurers to pay claims; man-made disasters, including the possible occurrence of terrorist attacks and the effect of the absence or insufficiency of applicable terrorism legislation on coverages; the unpredictability of the nature, targets, severity or frequency of potential terrorist events, as well as the uncertainty as to CNA's ability to contain its terrorism exposure effectively; and the occurrence of epidemics.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence primarily discusses financial conditions, regulatory limitations, and the impact of natural disasters on the economy and insurance markets, without specifically addressing water management, consumption, or pollution issues.\n```",
+        "comment": "error,financial consequences:consequences of natural disaster"
+    },
+    {
+        "label": "Water",
+        "text": "In almost all cases, all infrastructure is removed and the seabed is returned to its natural state.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses the removal of infrastructure and returning the seabed to its natural state, but it does not specifically address any issues related to water management, consumption, or pollution.\n```",
+        "comment": "error,sea:"
+    },
+    {
+        "label": "Water",
+        "text": "We believe, given current industry practice and analysis prepared by outside consultants, that our and our tenants' insurance coverage is appropriate to cover reasonably anticipated losses that may be caused by hurricanes, earthquakes, tornadoes, floods, wildfires and other severe weather conditions and natural disasters, including the effects of climate change.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses insurance coverage for various natural disasters and severe weather conditions but does not specifically address issues related to water management, consumption, or pollution.\n```",
+        "comment": "error,financial consequences:consequences of natural disaster"
+    }
+]

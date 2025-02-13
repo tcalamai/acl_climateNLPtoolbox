@@ -1,0 +1,23 @@
+[
+    {
+        "label": "green_claim",
+        "text": "Environmental solutions come in all shapes and sizes.",
+        "gpt-4o-mini_label": "not_green",
+        "gpt-4o-mini_explanation": "The tweet makes a general statement about environmental solutions but does not specify any particular product, process, or feature that relates to ecological or sustainability benefits. It lacks explicit or implicit green claims.\n```",
+        "comment": "out-of-context,statement:the environmental link is explicit, but the link to a product is not. This shows the importance of define well edge cases."
+    },
+    {
+        "label": "green_claim",
+        "text": "Want to prevent #FoodWaste? Adopt a first in-first out organization in your refrigerator: <URL> <URL>",
+        "gpt-4o-mini_label": "not_green",
+        "gpt-4o-mini_explanation": "The tweet discusses a method to prevent food waste but does not explicitly associate any ecological or environmental sustainability benefits with a specific product or the company itself. It focuses on a practical tip rather than promoting green claims.\n```",
+        "comment": "out-of-context,statement: if a statement about the environment by a company is a green claim then this is, otherwise no"
+    },
+    {
+        "label": "green_claim",
+        "text": "\ud83d\udde3\ufe0fTELL US: what do you love the most about #WholeBlends Smoothing with #Coconut Oil and #Cocoa Butter Extracts? #haircare #coconutoil <URL>",
+        "gpt-4o-mini_label": "not_green",
+        "gpt-4o-mini_explanation": "The tweet focuses on a product's features related to haircare and mentions ingredients like coconut oil and cocoa butter, but it does not explicitly associate these ingredients with ecological or environmental sustainability benefits.\n```",
+        "comment": "ambiguous:as it does not convey that it is better for the environment, more a healthy aspect, but it does have a nature evoking element."
+    }
+]

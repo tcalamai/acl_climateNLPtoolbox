@@ -1,0 +1,92 @@
+[
+    {
+        "query": "Provide details of risks identified with the potential to have a substantive financial or strategic impact on your business.",
+        "label": "No",
+        "text": "The execution of two virtual power purchase agreements (VPPAs) in FY19 by the US firm supports the construction of two wind farms that will produce renewable energy credits (RECs). The wind farms are scheduled to be operational mid-2020 and are expected to generate enough zero-carbon electricity to offset the absolute Scopes 1 and 2 GHG emissions of the US firm. Through these agreements, EY US is adding carbon-free energy supply to the grid and helping to power the US with cleaner energy sources. Additionally, support for the wind farms serve as a strategic tool to show the firm's commitment to the environment, enhance the firm's reputation and increase demand for renewable energy in the market. In addition, in FY20, EY Global committed to achieving carbon neutrality for all member firms by the end of 2020 by both reducing and offsetting the firm's total carbon emissions.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The answer discusses the execution of virtual power purchase agreements and their impact on renewable energy, which aligns with the question about risks that could have a financial or strategic impact on the business. The mention of carbon neutrality and commitment to environmental goals further supports the relevance to the question.\n```",
+        "updated_query": "Provide details of risks identified with the potential to have a substantive financial or strategic impact on your business.",
+        "comment": "error,part:part of the answer does indeed answer the question"
+    },
+    {
+        "query": "Provide details of risks identified with the potential to have a substantive financial or strategic impact on your business.",
+        "label": "No",
+        "text": "CRC is the largest producer of natural gas in the State, and one of the largest producers of natural gas liquids, and we could significantly increase production if state regulators choose to expand natural gas use to provide needed energy reliability with lower emissions. Also, as California policy makers seek to address the State's dependency on imported energy from places that do not apply California's world-leading environmental, labor and safety standards, CRC is poised to increase production of in-state resources while applying California's state-of-the-art emission controls. CRC and our royalty owners and business partners would also benefit from increased revenues through increased production. The targeted revenues and costs of our ongoing projects in this category constitute confidential business information.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The answer discusses the potential for increased production of natural gas and its implications for financial and strategic impacts, which aligns with the question about identifying risks that could affect the business.\n```",
+        "updated_query": "Provide details of risks identified with the potential to have a substantive financial or strategic impact on your business.",
+        "comment": "error:i think it's not related, its more about opportunities than risk"
+    },
+    {
+        "query": "Provide details of opportunities identified with the potential to have a substantive financial or strategic impact on your business.",
+        "label": "No",
+        "text": "We support EU member states promptly implementing through national legislation the EU Renewable Energy Directive II in a way that enables corporate purchasing to accelerate renewable investment.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The answer discusses the company's support for legislation that promotes renewable energy, which aligns with the question's focus on identifying opportunities that could have a financial or strategic impact on the business.\n```",
+        "updated_query": "Provide details of opportunities identified with the potential to have a substantive financial or strategic impact on your business.",
+        "comment": "debatable,could-fit:this could be part of the opportunies as they want to invest in renewable."
+    },
+    {
+        "query": "Provide details of your products and/or services that you classify as low-carbon products or that enable a third party to avoid GHG emissions.",
+        "label": "No",
+        "text": "Int-1 - Our energy efficiency target has a clear impact on our GHG emissions through improvements in process yields, reduction in the use of fossil fuel and capturing and utilizing waste energy.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The answer discusses energy efficiency targets and their impact on GHG emissions, which aligns with the question's focus on low-carbon products and services.\n```",
+        "updated_query": "Provide details of your products and/or services that you classify as low-carbon products or that enable a third party to avoid GHG emissions.",
+        "comment": "out-of-context,error:ok this is not but the text is weird, in doubt should not say yes"
+    },
+    {
+        "query": "Provide details of risks identified with the potential to have a substantive financial or strategic impact on your business.",
+        "label": "No",
+        "text": "Cotton represents nearly 70% of our raw material use, so we have a great need and opportunity to invest in sourcing more sustainable cotton. We are taking a portfolio approach to sustainable cotton by procuring and supporting the market growth for a variety of more sustainable cotton sources. As our program continues to evolve, we are continuously addressing the need to move further into our materials supply chain due to the high level of impact at the growing/milling stage. A core component of our global sustainable cotton program is sourcing Better Cotton, which is produced by farmers in a way that is measurably better for the environment and farming communities. PVH joined the Better Cotton Initiative, a program that exists to make global cotton production better for the people who produce it, for the environment it grows in, and for the sector's future. In 2019 PVH set a target for 100% of the cotton we procure to be sustainably sourced by 2025. Additionally, our Tommy Hilfiger brands aims to source 100% of its cotton from sustainable sources by 2020.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The answer discusses the company's approach to sourcing sustainable cotton, which relates to the identification of risks associated with raw material use and its potential financial or strategic impact on the business.\n```",
+        "updated_query": "Provide details of risks identified with the potential to have a substantive financial or strategic impact on your business.",
+        "comment": "error:opportunity not risk"
+    },
+    {
+        "query": "Provide details on the initiatives implemented in the reporting year in the table below.",
+        "label": "No",
+        "text": "Bloomberg has a 20 MW wind installation in Arkwright, NY that began generating energy for Bloomberg in October, 2018. It generated 65,300 MWh of electricity in 2019. The environmental benefits remain with the developer, while the developer provides replacement RECs to Bloomberg. The environmental benefit from the replacement RECs are allocated to our upstate New York data center. We are engaged in 20-year PPA with the owner of the wind installation.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The answer discusses a specific initiative (the 20 MW wind installation) that was implemented and provides relevant details about its operation and benefits, aligning with the request for details on initiatives in the reporting year.\n```",
+        "updated_query": "Provide details on the initiatives implemented in the reporting year in the table below.",
+        "comment": "debatable,out-of-context:this could be details on the table, we are missing the table here."
+    },
+    {
+        "query": "Provide details of risks identified with the potential to have a substantive financial or strategic impact on your business.",
+        "label": "No",
+        "text": "Climate change legislation that aims to set a price on carbon emissions through direct taxation or cap and trade measures presents an opportunity for CP to provide a lower cost service than more greenhouse gas emissions intensive modes of transport including the trucking sector. We consider our inherent carbon intensity advantage over other surface modes such as long-haul truck to be a significant opportunity to increase revenues in particular portions of the business, most notably intermodal services. A significant amount of national greenhouse gas emissions in Canada comes from the transportation sector (roughly 28%), however freight rail only contributes 1% of that sector as a whole, despite moving a large amount of surface freight. According to an independent study by the Federal Railroad Administration, moving freight by rail is on average four times more efficient than transport by highway traffic with approximately 75 percent less greenhouse gas (GHG) emissions. Customers are continually looking at ways to improve on their carbon footprint in their supply chain which provides an advantage to CP through an increased demand for our freight service.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The answer discusses risks related to climate change legislation and its financial implications for the business, which aligns with the question about identifying risks that could impact the company substantively.\n```",
+        "updated_query": "Provide details of risks identified with the potential to have a substantive financial or strategic impact on your business.",
+        "comment": "error:opportunity (should provide the other questions so the model understand that this is not part of the question (maybe with fewshot)"
+    },
+    {
+        "query": "On what issues have you been engaging directly with policy makers?",
+        "label": "No",
+        "text": "Other, please specify: Energy efficiency in Bell Mobility network (Transition HVAC with refrigerants to free cooling, and Implement energy saving software features)",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The answer addresses the question by specifying an issue (energy efficiency) that the company is engaging with policy makers about, which aligns with the intent of the question.\n```",
+        "updated_query": "On what issues have you been engaging directly with policy makers?",
+        "comment": "error,out-of-context:should not say yes if in doubt"
+    },
+    {
+        "query": "Provide details of your climate-related supplier engagement strategy.",
+        "label": "No",
+        "text": "Southern has been constructively engaging in GHG policy and rulemaking (see Section C12) and has anticipated and incorporated GHG risk into its scenario planning and enterprise risk management practices for some time. These practices have allowed Southern to properly evaluate and manage the risk around GHG. Southern has also applied substantial resources to the technology necessary to move toward a low-carbon future committed to providing clean, safe, reliable and affordable energy, with the goal of transitioning to low- to no-carbon operations by 2050. Through our planning process and customer partnerships, Southern Company and its subsidiaries will continue to evaluate and develop program designs to meet customers' renewable energy needs.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The answer discusses Southern's engagement in GHG policy and its efforts to manage GHG risks, which aligns with the topic of a climate-related supplier engagement strategy.\n```",
+        "updated_query": "Provide details of your climate-related supplier engagement strategy.",
+        "comment": "error:really not answering"
+    },
+    {
+        "query": "On what issues have you been engaging directly with policy makers?",
+        "label": "No",
+        "text": "Carbon tax costs are challenging to forecast because, despite numerous efforts, the federal government has not reached policy consensus on the magnitude, timing, or need for a carbon tax. It is difficult to forecast what final form that regulation may take; nonetheless, APS has included in its analysis the potential for carbon pricing in its 2017 Integrated Resource Plan (IRP). The CO2 cost included in the IRP analysis was based on the California market Cap and Trade 2016 CO2 cost of $12.80, escalated at 2.5% beginning in 2023. Prior to 2023, APS's analysis assumed the CO2 cost to be $0. These costs would be recovered by customers via adjusters on their monthly bill.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The answer discusses the challenges and considerations related to carbon tax, which is a relevant issue when engaging with policy makers. It aligns with the question's intent about issues of direct engagement with policy makers.\n```",
+        "updated_query": "On what issues have you been engaging directly with policy makers?",
+        "comment": "debatable:while we understand that the text does not answer the question it could be, particularly when compared to other answers "
+    }
+]

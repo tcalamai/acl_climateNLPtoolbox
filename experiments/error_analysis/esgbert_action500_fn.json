@@ -1,0 +1,65 @@
+[
+    {
+        "label": "Yes",
+        "text": "This is an ambitious commitment which places the Group at the forefront of Irish banks leading the way in supporting the transition to a low carbon economy in Ireland.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The text expresses a commitment and intention to support a transition to a low carbon economy but does not describe any specific actions being taken or performed.\n```",
+        "comment": "debatable:a commitment is an action ? "
+    },
+    {
+        "label": "Yes",
+        "text": "The Group has adopted a code of business ethics that applies to all employees.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The text states that a code of business ethics has been adopted, but it does not describe any specific actions being taken or performed by individuals or the group.\n```",
+        "comment": "error:adopting a code is an action"
+    },
+    {
+        "label": "Yes",
+        "text": "Our purpose is to help our customers create and build sustainable businesses in their communities.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The text expresses a general intention to help customers but does not describe any specific actions being taken or performed.\n```",
+        "comment": "debatable:purpose is not an action"
+    },
+    {
+        "label": "Yes",
+        "text": "For example, the business is looking at more responsible sourcing solutions, including fully renewable electricity, in order to reduce its greenhouse gas emissions.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The text discusses intentions and considerations regarding responsible sourcing and renewable electricity but does not specify any concrete actions being taken.\n```",
+        "comment": "debatable:is looking for an action ?"
+    },
+    {
+        "label": "Yes",
+        "text": "We have also chosen to report emissions per FTE as our intensity measure as we believe this is the best indicator for the Group.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The text expresses a belief about the best indicator for reporting emissions but does not describe any specific actions being taken or performed.\n```",
+        "comment": "debatable:this is a justification, not an action."
+    },
+    {
+        "label": "Yes",
+        "text": "This year we reviewed our responsible investment policy with regard to our ESG positioning.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The text discusses a review of a policy but does not describe any specific actions being taken or performed; it is more about the intention to assess the policy rather than executing an observable action.\n```",
+        "comment": "debatable:reviewing something could be considered an action, but not really either."
+    },
+    {
+        "label": "Yes",
+        "text": "We refreshed our three-year strategy to address, with greater urgency, the trends that COVID-19 is accelerating - digitalisation, sustainability and alternative ways of working.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The text discusses a strategic update and intentions regarding trends but does not specify any concrete actions being taken or performed.\n```",
+        "comment": "error:they refreshed the strategy, this is indeed an action. But here again does the strategy is an action ?"
+    },
+    {
+        "label": "Yes",
+        "text": "How the scope of our We have evaluated the design and tested operating effectiveness of the Group's controls over the audit responded to identification and measurement of the provision and the disclosure of exposures.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The text discusses evaluation and testing processes but does not specify any concrete actions being taken; it focuses on the assessment of controls rather than describing specific, observable actions.\n```",
+        "comment": "error:evaluating is an action, and tested is an action"
+    },
+    {
+        "label": "Yes",
+        "text": "Enhanced Board focus on culture continues as part of the 2019 Board work programme.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The text discusses a focus on culture as part of a work programme but does not specify any tangible actions being taken or performed.\n```",
+        "comment": "debatable:board focus is not really an action"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "label": "explicit_claim",
+        "text": "CBD has become one of the buzziest trends in #beauty for its calming & nourishing effects. Have you tried Green Goddess Facial Oil, our very first facial oil formulated with 100mg of CBD from domestically grown hemp? <URL>",
+        "gpt-4o-mini_label": "implicit_claim",
+        "gpt-4o-mini_explanation": "The tweet references \"Green Goddess Facial Oil\" and mentions calming and nourishing effects associated with CBD, which evokes a nature-friendly image, but does not explicitly state any environmental benefits related to the product or its manufacturing process.\n```",
+        "comment": "multi:domestically grown is explicit and related to a green claim, green from goddess could be implicit, so I think it is both"
+    },
+    {
+        "label": "not_green",
+        "text": "Learn how to garden in even the tiniest of spaces >> <URL> @sunset #smallspaceliving",
+        "gpt-4o-mini_label": "implicit_claim",
+        "gpt-4o-mini_explanation": "The tweet encourages gardening in small spaces, which evokes a nature-friendly lifestyle and promotes the idea of sustainability, even though it does not explicitly mention any green claims about products or processes.\n```",
+        "comment": "error:I would say that this is pub about a gardening tool? so no implict reference"
+    },
+    {
+        "label": "not_green",
+        "text": "Experience 24-karat magic with #SupremeSkin ✨ Our NEW Revitalizing Supreme+ SPF15 creme features an exclusive #Moringa Extract to help skin optimize its natural renewal and cellular potential: <URL> #UnlocktheBeautyofNow <URL>",
+        "gpt-4o-mini_label": "implicit_claim",
+        "gpt-4o-mini_explanation": "The tweet uses the term \"natural renewal\" and \"cellular potential,\" which evoke a sense of nature and sustainability, influencing the consumer's impression of the product without making a direct environmental claim.\n```",
+        "comment": "debatable:the use of the word natural and moringa, but not so much env"
+    },
+    {
+        "label": "not_green",
+        "text": "Have you tried our NEW #WholeBlends Illuminating haircare with #Chamomile Flower & Honey Extracts balances? Exclusively available @Walmart. <URL>",
+        "gpt-4o-mini_label": "implicit_claim",
+        "gpt-4o-mini_explanation": "The tweet references natural ingredients like chamomile flower and honey extracts, which evoke a sense of nature and sustainability, influencing the consumer's impression of the product as being more eco-friendly, even though it does not explicitly state any environmental benefits.\n```",
+        "comment": "debatable:plants mentioned, but no environment"
+    },
+    {
+        "label": "explicit_claim",
+        "text": "Double-team dehydrated skin with an inner-outer approach. The Arbonne®️ Bio-Hydria™️ Inside-Out Hydration Set includes the dewy skincare collection and Herbal Tea. It also comes with a FREE Digestion Plus for extra love. Photo by IC and DM, Lauren Higgs. <URL> <URL>",
+        "gpt-4o-mini_label": "not_green",
+        "gpt-4o-mini_explanation": "The tweet focuses on promoting a skincare set and its benefits without making any explicit or implicit claims related to ecological or environmental sustainability.\n```",
+        "comment": "debatable: it has herbal tea, would say it is implicit, but not explicit"
+    },
+    {
+        "label": "not_green",
+        "text": "Irish Spring is green in more ways than one... <URL>",
+        "gpt-4o-mini_label": "implicit_claim",
+        "gpt-4o-mini_explanation": "The tweet uses the phrase \"green in more ways than one,\" which evokes a connection to environmental themes without explicitly stating any specific ecological benefits or features of the product.\n```",
+        "comment": "debatable: Irish Spring is a product, hence  could be a green claim here"
+    },
+    {
+        "label": "not_green",
+        "text": "We've got the cutting-hedge of technology for your garden: 🍃 <URL> <URL>",
+        "gpt-4o-mini_label": "implicit_claim",
+        "gpt-4o-mini_explanation": "The tweet uses the phrase \"cutting-hedge of technology\" along with a leaf emoji, which evokes nature and gardening, creating a positive impression about the company's products without making a direct environmental claim.\n```",
+        "comment": "error:if it is product for gardening, no green claim"
+    },
+    {
+        "label": "not_green",
+        "text": "Give your skin a mid-day refresh with the Yes To Grapefruit Unicorn Brightening Mist! It's naturally packed with vitamin C to help give your skin a boost of GLOW! ✨ Thanks, @POPSUGAR 😘💖 <URL>",
+        "gpt-4o-mini_label": "implicit_claim",
+        "gpt-4o-mini_explanation": "The tweet uses the phrase \"naturally packed with vitamin C\" and \"boost of GLOW,\" which evoke a sense of natural and healthy benefits, suggesting a positive impression about the product's environmental friendliness without making an explicit claim.\n```",
+        "comment": "debatable:again the mention of plants could constitute a green claim?"
+    },
+    {
+        "label": "not_green",
+        "text": "Don't pop those pesky pimples! Say Yes to the Detoxifying Charcoal Peel-Off Mask to lift impurities and help those breakouts go away...naturally! Thanks, @byrdiebeauty! <URL>",
+        "gpt-4o-mini_label": "implicit_claim",
+        "gpt-4o-mini_explanation": "The tweet uses the term \"naturally\" in relation to the Detoxifying Charcoal Peel-Off Mask, which evokes a sense of environmental friendliness and health, suggesting a positive impression about the product without making a direct ecological claim.\n```",
+        "comment": "debatable:again the mention of plants could constitute a green claim?"
+    },
+    {
+        "label": "not_green",
+        "text": "Let your curls speak for themselves. 🗣️ 👏 Use #PanteneGoldSeries to keep them to their naturally gold standard. ✨ <URL>",
+        "gpt-4o-mini_label": "implicit_claim",
+        "gpt-4o-mini_explanation": "The tweet uses the phrase \"naturally gold standard,\" which evokes a sense of natural beauty and quality, suggesting an environmentally friendly aspect without making a direct claim about sustainability.\n```",
+        "comment": "error:here the link is a bit far"
+    },
+    {
+        "label": "implicit_claim",
+        "text": "A healthy lifestyle becomes ever more important for many of us - also within our beauty routine. Stay tuned for our new permanent hair color featuring natural ingredients such as soy protein, oat milk and argan oil! Available from February. #headsup #WhatsComingNext #ProductNews <URL>",
+        "gpt-4o-mini_label": "explicit_claim",
+        "gpt-4o-mini_explanation": "The tweet highlights the use of natural ingredients like soy protein, oat milk, and argan oil in the new hair color product, explicitly associating these eco-friendly components with the product's benefits.\nLabel: [explicit_claim]\n```",
+        "comment": "wrong:seems more implicit"
+    },
+    {
+        "label": "not_green",
+        "text": "Our featured @ENERGYSTAR Certified Product of the Month for January is <URL> <URL>",
+        "gpt-4o-mini_label": "explicit_claim",
+        "gpt-4o-mini_explanation": "The tweet highlights a product that is certified by ENERGY STAR, which is a program that signifies energy efficiency and environmental benefits. This directly associates the product with ecological advantages.\nLabel: [explicit_claim]\n```",
+        "comment": "wrong:clearly explicit"
+    }
+]

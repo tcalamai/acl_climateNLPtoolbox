@@ -1,0 +1,65 @@
+[
+    {
+        "label": "Forest",
+        "text": "While gross loss reserve estimates for the 2018 California wildfires were also reduced, this was largely offset by a reduction in reinsurance recoverables resulting in very little change to estimated net losses from those wildfires.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses financial estimates related to wildfires but does not directly address forests, timberland, or related ecosystems. It focuses on economic impacts rather than forest-related topics.\n```",
+        "comment": "error,economical consequences:this is consequences of forest fire, not dealing with forests itself"
+    },
+    {
+        "label": "Forest",
+        "text": "In addition to possibly sustaining uninsured damage to its own properties, if there is a major earthquake, flood, drought, fire or other natural disaster, the Company faces the risk that many of its borrowers may experience uninsured property losses, or sustained job interruption and/or loss which may materially impair their ability to meet the terms of their loan obligations.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses the risks associated with natural disasters and their impact on borrowers, but it does not mention forests, timberland, or any related ecosystems.\n```",
+        "comment": "error,economical consequences:this is consequences of forest fire, not dealing with forests itself"
+    },
+    {
+        "label": "Forest",
+        "text": "In addition to attracting and supporting abundant wildlife, the plants also absorb rainwater and greatly reduces chlorides from the lime waste from entering groundwater or nearby surface water.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses the benefits of plants in relation to wildlife and water absorption, but it does not specifically mention forests, trees, or any direct or indirect link to forestry-related topics.\n```",
+        "comment": "error,implicit:indeed it does not explicitly mention forest, but plants are definitly part of forests"
+    },
+    {
+        "label": "Forest",
+        "text": "Because fuel is not required to cure burley tobacco in this fashion, wood usage is mostly related to barn construction.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence mentions wood usage in the context of barn construction, but it does not directly relate to forests or forestry practices. It focuses on a specific application of wood rather than the broader implications or effects on forest ecosystems.\n```",
+        "comment": "error,indirect:use of wood therefore related to forestry"
+    },
+    {
+        "label": "Forest",
+        "text": "Both of these trees have adapted to survive floods most of the year.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses the adaptation of trees to floods, but it does not provide any direct or indirect information related to forests, timberland management, or wood consumption.\n```",
+        "comment": "error,implicit:talking about trees therefore forest."
+    },
+    {
+        "label": "Forest",
+        "text": "14 15 \"From Florida to Montana, we've revitalized fire and drought- damaged national park and wilderness areas.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence refers to revitalizing national park and wilderness areas but does not specifically mention forests, timberland, or related ecosystems. It discusses environmental restoration in a broader context without a direct link to forest-related topics.\n```",
+        "comment": "error:error maybe due to the formatting of the statement ?"
+    },
+    {
+        "label": "Forest",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations 77 driven by lower estimated losses for the 2017 and 2018 California wildfires, including a $260 subrogation benefit from PG&E, as well as a reduction in losses for various 2017, 2018 and 2019 wind and hail events.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses financial conditions and losses related to wildfires and weather events but does not directly or indirectly address forests, timberland, or related ecosystems.\n```",
+        "comment": "error,economical consequences:this is consequences of forest fire, not dealing with forests itself"
+    },
+    {
+        "label": "Forest",
+        "text": "Twenty percent of our global palm oil use supports sustainable growing.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses palm oil use and sustainability, which does not directly or indirectly relate to forests or forestry practices.\n```",
+        "comment": "error,indirect:palm oil is directly linked to deforestation"
+    },
+    {
+        "label": "Forest",
+        "text": "Precipitation patterns across the U.S. are projected to change, which if realized, may increase risks of flash floods and wildfires.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses changes in precipitation patterns and their potential impact on flash floods and wildfires, but it does not directly or indirectly reference forests, timberland, or related ecosystems.\n```",
+        "comment": "error,not main focus:this definitly will impact forests."
+    }
+]

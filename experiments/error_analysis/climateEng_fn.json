@@ -1,0 +1,72 @@
+[
+    {
+        "label": "Disaster",
+        "text": "More #ClimateChange information #VeniceUnderWater <URL>",
+        "gpt-4o-mini_label": "2",
+        "gpt-4o-mini_explanation": "The tweet references the impact of climate change on Venice, which is related to rising water levels and flooding, indicating a focus on water-related issues.\n```",
+        "comment": "error,specific labels:could also fit in water topic but water topic does not include this, its only biodiversity of water"
+    },
+    {
+        "label": "Agriculture/Forestry",
+        "text": "Contracts awarded for Scottish offshore wind farm <URL> #energy #sustainability #climatechange",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The tweet discusses contracts related to an offshore wind farm, which is a general reference to renewable energy efforts in the context of climate change without focusing on specific political actions, ocean impacts, or disasters.\n```",
+        "comment": "wrong:offshore wind farm are not related to agriculture"
+    },
+    {
+        "label": "General",
+        "text": "On December 11, 2019, the Intergenerational Dialogue was successfully held with the participation of Youth Delegation and a series of climate experts. The aim of the dialogue is to exchange personal experience and guide the delegates to the most fertile areas of climate change. <URL>",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The tweet references an event involving climate experts and youth delegates, which aligns with institutional efforts to engage and spread awareness about climate change, indicative of political action and dialogue.\n```",
+        "comment": "debatable:not explicitly mentioning politics but might"
+    },
+    {
+        "label": "General",
+        "text": "Scientists fear that a change in ocean circulation could profoundly alter climate patterns. <URL>",
+        "gpt-4o-mini_label": "2",
+        "gpt-4o-mini_explanation": "The tweet discusses the potential impact of changes in ocean circulation on climate patterns, which directly relates to the effects of climate change on oceans and water bodies.\n```",
+        "comment": "error,specific labels:mentioning impact of climat change on ocean, but the label is only about biodiversity"
+    },
+    {
+        "label": "General",
+        "text": "@CBSNews Climate change fix! Ground passenger aircraft that dump tons of hydro carbons directly into the high altitude air. No internal combustion engines in cars, trains, or trucks, electric only. Begin a massive construction of clean burning Nukes",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The tweet discusses proposals for addressing climate change, including grounding aircraft and transitioning to electric vehicles, which relates to policy discussions and actions that can be taken to combat climate change.\n```",
+        "comment": "error,specific labels:opinion instead of politics"
+    },
+    {
+        "label": "Politics",
+        "text": "U.S. students excel in global warming awareness, social justice activism, racial angst, and gender sensitivity while China's teens waste their time gaining proficiency in reading, math and science, according to global education study. <URL>",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The tweet discusses U.S. students' awareness of global warming and social issues without focusing on specific climate change impacts or policies, making it a general reference to climate change awareness.\n```",
+        "comment": "error,specific labels:fit the definition of the label"
+    },
+    {
+        "label": "General",
+        "text": "Here we are...another COP, another hopes, and let's wish no more fail this time #COP25 #climatechange #no_plant_B",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The tweet references COP25, which is a significant international conference related to climate change, indicating a focus on political actions and discussions surrounding climate change policies.\n```",
+        "comment": "wrong:COP is a political event label: References to policies being put in place like Newgreendeal, COP25."
+    },
+    {
+        "label": "Ocean/Water",
+        "text": "@havghtnicole never snowed here apart from that one time last year in like one suburb in sydney which was v bad cos it's not meant to snow here aha climate change cute",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The tweet discusses the unusual occurrence of snow in a suburb of Sydney, linking it to climate change without focusing on specific policies, disasters, or other categories.\n```",
+        "comment": "debatable,specific labels:the consequences on biodiversity is not mentioned (or implicit)"
+    },
+    {
+        "label": "General",
+        "text": "Climate protesters block DC streets, demand World Bank lead fossil fuel divestiture: Climate change protesters blocked streets near the World Bank in downtown Washington during rush hour Friday morning to... <URL> #25thAmendmentNow #ImpeachTrump #TheResistance <URL>",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The tweet discusses climate protesters demanding action from the World Bank regarding fossil fuel divestiture, which relates to institutional actions and policies concerning climate change.\n```",
+        "comment": "error,specific labels:political activism is politics but not in their definitions"
+    },
+    {
+        "label": "General",
+        "text": "You need to watch this to the end.\n#COP25 #ClimateChange <URL>",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The tweet references COP25, which is a significant international conference related to climate change policy and action.\n```",
+        "comment": "wrong:COP is a political event label: References to policies being put in place like Newgreendeal, COP25."
+    }
+]

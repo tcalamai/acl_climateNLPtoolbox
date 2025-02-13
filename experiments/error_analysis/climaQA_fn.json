@@ -1,0 +1,92 @@
+[
+    {
+        "query": "Which of the following risk types are considered in your organization's climate-related risk assessments?",
+        "label": "Yes",
+        "text": "We are investing in new products and technologies, including electrified powertrains, for planned introduction into certain existing and new markets. Given the early stages of development of some of these new products and technologies, there can be no guarantee of the future market acceptance and investment returns with respect to these planned products. The increased adoption of electrified powertrains in some market segments could result in lower demand for current diesel or natural gasengines and components and, over time, reduce the demand for related parts and service revenues from diesel or natural gas powertrains. Furthermore, it is possible that we may not be successful in developing segment-leading electrified powertrains and some of our existing customers could choose to develop their own electrified or alternate fuel powertrains, or source from other manufacturers, and any of these factors could materially adversely impact our results of operations, financial condition and cash flows.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The answer does not address the specific risk types considered in the organization's climate-related risk assessments, instead focusing on product development and market dynamics related to electrified powertrains.\n```",
+        "updated_query": "Which of the following risk types are considered in your organization's climate-related risk assessments? (Current regulation, Market , Acute physical , Upstream , Emerging regulation, Technology , Legal , Reputation , Downstream , Chronic physical )",
+        "comment": "error,list:this is a market risk most likely, but this kind of question are quite hard"
+    },
+    {
+        "query": "Account for your organization\u00e2\u20ac\u2122s gross global Scope 3 emissions, disclosing and explaining any exclusions.",
+        "label": "Yes",
+        "text": "In some countries, certain IBM employees are provided vehicles through a lease program. These vehicles may be used for business purposes as well as for personal use. Reported mileage is apportioned 25% to business use (reported under our Scope 1 emissions), and 75% to work related commute and personal use. The emissions reported here represent the 75% of the emissions from personal use and commuting. IBM continues its effort to move to more fuel-efficient lease vehicles by setting guidelines for smaller engines with lower emissions for vehicles that are offered to employees under this program.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The answer discusses the use of leased vehicles and their emissions but does not address the broader topic of gross global Scope 3 emissions or the specific categories mentioned in the question. It focuses on a specific aspect of emissions related to employee commuting and vehicle use, which does not encompass the full scope of the question.\n```",
+        "updated_query": "Account for your organization's gross global Scope 3 emissions, disclosing and explaining any exclusions. (Upstream transportation and distribution, Waste generated in operations, Upstream leased assets, Processing of sold products, End of life treatment of sold products, Downstream leased assets, Investments, Capital goods, Fuel-and-energy-related activities (not included in Scope 1 or 2), Employee commuting, Use of sold products, Purchased goods and services, Downstream transportation and distribution, Franchises, Other (upstream), Other (downstream), Business travel)",
+        "comment": "error,list:i think the model did not understand that this question is specific."
+    },
+    {
+        "query": "Which of the following risk types are considered in your organization's climate-related risk assessments?",
+        "label": "Yes",
+        "text": "Many scientific academies throughout the world have concluded it is very likely that human activities are contributing to global warming. At this point, it is difficult to predict and assess the probability of potential risks related to a global warming trend on Dow specifically. Concerns have been raised that climate change may result in sea level rise or average temperature rise. Dow has operations and supply chains in coastal areas that potentially could be affected by these. To mitigate risks associated with severe weather, Dow has engineered the facilities to better withstand climate related events.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The answer does not directly address the specific risk types listed in the question. Instead, it discusses general concerns about climate change and Dow's operations, which does not align with the request for specific risk types considered in climate-related risk assessments.\n```",
+        "updated_query": "Which of the following risk types are considered in your organization's climate-related risk assessments? (Current regulation, Market , Acute physical , Upstream , Emerging regulation, Technology , Legal , Reputation , Downstream , Chronic physical )",
+        "comment": "error,implicit,list:the answer is implicit, but it is abour physical risk (a explnation of the physical risk)"
+    },
+    {
+        "query": "Which risk types are considered in your organization's climate-related risk assessments?",
+        "label": "Yes",
+        "text": "Climate-related events, such as floods, washouts, or extreme weather events that could lead to derailments or delays, have the potential to negatively impact CN's reputation with shareholders and stakeholders. Therefore, we include the potential impact of climate-related events and the associated disclosure and communication process in the risk assessment and mitigation process. We also recognize that with increasing public and investor concerns over climate change, a lack of disclosure on how we identify and manage climate change risks could expose us to potential reputational risk. For example, over the past few years, there has been an increase in investor interest on environmental, social and governance factors, which includes responding to and mitigating climate risks. As a result, we have been strengthening the transparency and credibility of the information we publish publicly on climate-related issues, including concerning governance, risks, opportunities and performance. In 2019, climate-related disclosures were included in our 2019 Annual Report, Sustainability Report, Investor Fact Book and on our website.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The answer discusses the impact of climate-related events on reputation and the company's disclosure practices, but it does not specifically identify the risk types considered in the organization's climate-related risk assessments as requested by the question.\n```",
+        "updated_query": "Which risk types are considered in your organization's climate-related risk assessments? (Technology , Acute physical , Chronic physical , Emerging regulation, Legal , Market , Reputation , Current regulation)",
+        "comment": "list,error:again this is because this question is diveded in subquestion, but still an error."
+    },
+    {
+        "query": "Provide details of your products and/or services that you classify as low-carbon products or that enable a third party to avoid GHG emissions.",
+        "label": "Yes",
+        "text": "The % revenue figure reflects the percentage of United's scheduled capacity within the United States' contiguous 48 states and Canada in 2017.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The answer does not address the question regarding low-carbon products or services, instead providing unrelated information about revenue figures and scheduled capacity.\n```",
+        "updated_query": "Provide details of your products and/or services that you classify as low-carbon products or that enable a third party to avoid GHG emissions.",
+        "comment": "debatable,out-of-context:impossible to answer. We lack context"
+    },
+    {
+        "query": "State how much fuel in MWh your organization has consumed (excluding feedstocks) by fuel type.",
+        "label": "Yes",
+        "text": "Natural gas is primarily used for heating and cooking food in our facilities",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The answer does not provide the requested information about fuel consumption in MWh by fuel type; instead, it only mentions the use of natural gas for heating and cooking, which does not directly address the question.\n```",
+        "updated_query": "State how much fuel in MWh your organization has consumed (excluding feedstocks) by fuel type.",
+        "comment": "debatable,justification:this is a justification, it does not answer the question"
+    },
+    {
+        "query": "Which of the following risk types are considered in your organization's climate-related risk assessments?",
+        "label": "Yes",
+        "text": "As an airline, weather can readily impact operations. For example, weather perturbation events could affect ground facilities and airports and potentially increase costs associated with weather related flight delays and cancellations. Air Canada has a weather group under flight operations which monitors weather disruptions. Additionally, Air Canada monitors weather disruptions that could affect airport infrastructure at our destinations.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The answer discusses the impact of weather on operations but does not specifically address the types of climate-related risk assessments considered by the organization, as requested in the question.\n```",
+        "updated_query": "Which of the following risk types are considered in your organization's climate-related risk assessments? (Current regulation, Market , Acute physical , Upstream , Emerging regulation, Technology , Legal , Reputation , Downstream , Chronic physical )",
+        "comment": "error,list:as before"
+    },
+    {
+        "query": "Provide details of other key climate-related targets not already reported in question C4.1/a/b.",
+        "label": "Yes",
+        "text": "We are targeting a 65% waste diversion rate by 2022 associated in our real estate portfolio",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The answer discusses a waste diversion target, which is not directly related to climate-related targets as requested in the question. The focus on waste management does not align with the intent of the question regarding climate-related targets.\n```",
+        "updated_query": "Provide details of other key climate-related targets not already reported in question C4.1/a/b.",
+        "comment": "debatable,off-topic:while this might be slightly relevant to climate change, this is primarly waste management and recycling. So kind of off-topic."
+    },
+    {
+        "query": "Which of the following risk types are considered in your organization's climate-related risk assessments?",
+        "label": "Yes",
+        "text": "The Science and Technology Committee of the Board of Directors makes recommendations regarding research and development objectives; reviews new developments and technologies; and oversees matters of scientific and medical integrity and risk management. There is increased interest in companies' sustainability performance and their action to mitigate environmental impacts. We have scientists working to discover new medicines that will help solve our world's greatest health challenges. This is particularly important as the impacts of climate change are threatening to affect the global spread and occurrence of infectious diseases. Lilly reinvests nearly a quarter of our revenue into research and development (R and D), one of the highest rates across all industries. These investments have allowed us to launch 10 new medicines in the last five years - including one in 2018 - and have up to 10 additional potential launches by 2023. We translated our R and D progress into strong business results in 2018. Lilly's revenue rose 7%, driven by our recently launched products. We explore innovations that can lessen the total negative environmental outputs which can result from production of a medicine. We support these through implementing green chemistry principles in R and D and end-product engineering, and by reducing the carbon footprint of our value chain and operations through our Product Stewardship Standard and Global Engineering Requirements. Some of our efforts include evaluating and incorporating alternative energy sources, new technologies, and best practices for energy use and GHG emission reductions; and implementing new manufacturing technologies which minimize environmental impact, such as continuous flow processes, which we have advanced in the pharmaceutical industry. For instance, we identified promoting cogeneration as an opportunity to reduce GHG emissions in our operations. This uses combustion to generate electricity on-site while also recovering usable heat. In 2018, we progressed the design and construction for a 9 megawatt combined heat and power system at our Puerto Rico facility (expected 2020 completion) resulting in anticipated energy savings of $6 to $7 million annually and approximately 15% reduction in site GHG emissions. We also operate combined heat and power systems in Ireland, Italy, England and Indiana.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The answer does not directly address the specific risk types considered in the organization's climate-related risk assessments. Instead, it focuses on the company's research and development efforts and sustainability initiatives without mentioning the specific risk types listed in the question.\n```",
+        "updated_query": "Which of the following risk types are considered in your organization's climate-related risk assessments? (Current regulation, Market , Acute physical , Upstream , Emerging regulation, Technology , Legal , Reputation , Downstream , Chronic physical )",
+        "comment": "error,list,implicit:could be regulation, could be impact of energy, but it is not explicitly told"
+    },
+    {
+        "query": "Account for your organization\u00e2\u20ac\u2122s Scope 3 emissions, disclosing and explaining any exclusions.",
+        "label": "Yes",
+        "text": "Calculations based on global new truck deliveries in 2017 of 158,900 vehicles with an estimated average freight efficiency of 155 ton-mpg, 65,000 pound vehicle weight, and 435,000 miles useful life less 21.93% emissions reductions for vehicles sold in the US and Canada.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The answer does not address the question regarding Scope 3 emissions and exclusions; instead, it provides specific calculations related to truck deliveries and emissions reductions, which are not relevant to the requested information about Scope 3 emissions categories.\n```",
+        "updated_query": "Account for your organization's Scope 3 emissions, disclosing and explaining any exclusions. (Franchises, Investments, Other (upstream), Capital goods, Employee commuting, Other (downstream), Purchased goods and services, Business travel, Fuel-and-energy-related activities (not included in Scope 1 or 2), Upstream leased assets, Downstream transportation and distribution, Processing of sold products, Use of sold products, Downstream leased assets, Upstream transportation and distribution, Waste generated in operations, End of life treatment of sold products)",
+        "comment": "list,justification:this is a justification for the value."
+    }
+]

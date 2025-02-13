@@ -1,0 +1,72 @@
+[
+    {
+        "label": "agrees",
+        "text": "There is a danger that we can get used to global warming.",
+        "gpt-4o-mini_label": "neutral",
+        "gpt-4o-mini_explanation": "The sentence suggests a concern about becoming desensitized to global warming, which implies an acknowledgment of its seriousness. However, it does not explicitly state agreement or disagreement with the target opinion.\nLabel: [neutral]\n```",
+        "comment": "error,implicit:gpt understood the link, but did not consider it becasue it is not explicit"
+    },
+    {
+        "label": "agrees",
+        "text": "Global temperatures in 2014 shattered earlier records, making 2014 the hottest year since record-keeping began in 1880.",
+        "gpt-4o-mini_label": "neutral",
+        "gpt-4o-mini_explanation": "The sentence presents a factual statement about global temperatures and does not express a clear opinion or stance regarding climate change as a serious concern. It merely reports a record without indicating agreement or disagreement with the target opinion.\nLabel: [neutral]\n```",
+        "comment": "error,implicit:maybe we could add the fact that implicit works as well."
+    },
+    {
+        "label": "disagrees",
+        "text": "But the erosion of science reaches well beyond the environment and climate.",
+        "gpt-4o-mini_label": "neutral",
+        "gpt-4o-mini_explanation": "The sentence discusses the erosion of science but does not explicitly mention climate change or global warming, nor does it indicate support or opposition to the target opinion. Therefore, the writer's stance is unclear.\nLabel: [neutral]\n```",
+        "comment": "error,implicit:not explicitly telling that climate change is not concerning enough."
+    },
+    {
+        "label": "agrees",
+        "text": "Worldwide levels of the chief greenhouse gas that causes global warming have hit a milestone, reaching an amount never before encountered by humans.",
+        "gpt-4o-mini_label": "neutral",
+        "gpt-4o-mini_explanation": "The sentence presents a factual statement about the increase in greenhouse gas levels, which is a significant aspect of climate change. However, it does not explicitly express agreement or disagreement with the opinion that climate change is a serious concern.\nLabel: [neutral]\n```",
+        "comment": "error,implicit:no opinion, but we can infer it"
+    },
+    {
+        "label": "agrees",
+        "text": "On the warmest day this month, half the ice sheet's surface is melting, double the norm for this time of year.",
+        "gpt-4o-mini_label": "neutral",
+        "gpt-4o-mini_explanation": "The sentence describes a concerning phenomenon related to climate change, specifically the melting of ice sheets, which implies a recognition of the seriousness of global warming. However, it does not explicitly state agreement or disagreement with the target opinion.\nLabel: [neutral]\n```",
+        "comment": "error,implicit:no opinion, but we can infer it"
+    },
+    {
+        "label": "agrees",
+        "text": "Climate change will continue to affect all types of weather phenomena and subsequently impact increasingly urbanized areas.",
+        "gpt-4o-mini_label": "neutral",
+        "gpt-4o-mini_explanation": "The sentence discusses the effects of climate change on weather phenomena and urban areas, indicating an acknowledgment of the seriousness of climate change without explicitly stating agreement or disagreement. Therefore, the writer's stance is unclear.\nLabel: [neutral]\n```",
+        "comment": "error,implicit:no opinion, but we can infer it"
+    },
+    {
+        "label": "agrees",
+        "text": "When liberals talk about the dire threat of global warming, liberals're actually seizing opportunistically on the issue.",
+        "gpt-4o-mini_label": "disagrees",
+        "gpt-4o-mini_explanation": "The sentence suggests that liberals are using the issue of global warming for their own advantage, which implies skepticism about the seriousness of the concern. This indicates a disagreement with the target opinion.\nLabel: [disagrees]\n```",
+        "comment": "wrong:the sentence sugguest that talking about climate change is opportunitistic."
+    },
+    {
+        "label": "neutral",
+        "text": "Mr. Colson had been converting to electric heat to fulfill his commitment to migrating the planet away from fossil fuels.",
+        "gpt-4o-mini_label": "agrees",
+        "gpt-4o-mini_explanation": "The sentence indicates that Mr. Colson is taking action to reduce reliance on fossil fuels, which suggests a commitment to addressing climate change, aligning with the target opinion.\nLabel: [agrees]\n```",
+        "comment": "debatable,implicit:This is a simple statement, but it sugguest that there is commitment toward reducing emission. "
+    },
+    {
+        "label": "neutral",
+        "text": "The stark truth is that severe weather events alone will not cause global warming to pop to the top of the national agenda.",
+        "gpt-4o-mini_label": "disagrees",
+        "gpt-4o-mini_explanation": "The sentence suggests that severe weather events are not sufficient to elevate global warming as a priority issue, which implies a lack of urgency or concern regarding climate change. This indicates a disagreement with the notion that climate change/global warming is a serious concern.\nLabel: [disagrees]\n```",
+        "comment": "error,wrong:intersting misunderstanding"
+    },
+    {
+        "label": "agrees",
+        "text": "Lindzen's scientific case against the man-made global warming scare is essentially this.",
+        "gpt-4o-mini_label": "disagrees",
+        "gpt-4o-mini_explanation": "The sentence indicates that Lindzen is presenting a scientific argument against the concept of man-made global warming, which suggests opposition to the target opinion that climate change/global warming is a serious concern.\nLabel: [disagrees]\n```",
+        "comment": "error,out-of-context:in this case the writer seems to be talking about a contrarian argument, but not supporting it. However, the statement is ambiguous and ooc"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "label": "No",
+        "text": "Environmental risk is mitigated by requiring assessments performed by qualified inspectors whenever the current or previous uses of the property or any adjacent properties are likely to have resulted in contamination of the property financed.",
+        "gpt-4o-mini_label": "1",
+        "gpt-4o-mini_explanation": "The text describes the specific action of requiring assessments to be performed by qualified inspectors to mitigate environmental risk.\n```",
+        "comment": "wrong:this is an action - require assessments"
+    }
+]

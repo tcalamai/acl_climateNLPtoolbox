@@ -1,0 +1,72 @@
+[
+    {
+        "label": "neutral",
+        "text": "Our ambition is to significantly reduce our emissions in the future and this year we achieved carbon neutrality by working with ClimateCare, which has over 22 years of experience in project development, carbon asset development, and the delivery of corporate carbon- offsetting programmes. Over the next three years, we will offset those emission we can't yet avoid through projects that cut carbon emissions whilst also delivering tangible benefits to local communities and environments in three countries. Three such projects include:",
+        "gpt-4o-mini_label": "opportunity",
+        "gpt-4o-mini_explanation": "The paragraph highlights the company's ambition to reduce emissions and achieve carbon neutrality, emphasizing the positive impact of their carbon-offsetting projects on local communities and environments, which indicates a beneficial opportunity arising from their climate initiatives.\n```",
+        "comment": "debatable,ambition:not overly positive, however, this can be identified as an opportunity"
+    },
+    {
+        "label": "neutral",
+        "text": "TD recently launched a bold and ambitious climate action plan to address the challenges of climate change. This includes a target to achieve net-zero greenhouse gas emissions in our operations and financing activities by 2050. We backed this commitment with the creation of a new Sustainable Finance and Corporate Transitions Group to support clients around the world, and an Environmental, Social and Governance (ESG) Centre of Expertise to participate in the global efforts required to deliver on this long-term target.",
+        "gpt-4o-mini_label": "opportunity",
+        "gpt-4o-mini_explanation": "The paragraph highlights TD's proactive climate action plan aimed at achieving net-zero emissions, which presents a positive opportunity for the company to lead in sustainability and support global efforts, indicating beneficial impacts on both the business and the environment.\n```",
+        "comment": "debatable,ambition:positive tone but not descriptive of goals and targets"
+    },
+    {
+        "label": "neutral",
+        "text": "To exclude the least energy efficient hydrocarbons and those that pose the greatest threat to the environment, because these are incompatible with the goal of combating climate change and they represent an economic risk for investors. This means turning down projects and companies that do the majority of their business in: o Oil sands production, o Oil extracted from the Arctic region (off-shore and on-shore production), o Shale gas or oil production involving excessive flaring or venting, o Infrastructure projects mainly intended for schemes covered by the exclusion criteria set out above, Credit Agricole S.A. is committed to offsetting the Group's entire direct carbon footprint until 2040 via the",
+        "gpt-4o-mini_label": "risk",
+        "gpt-4o-mini_explanation": "The paragraph discusses the exclusion of energy inefficient hydrocarbons due to their environmental threat and the economic risks they pose for investors, indicating a negative impact on business and investment decisions.\n```",
+        "comment": "wrong:explicitly talk about the risk toward the environement"
+    },
+    {
+        "label": "risk",
+        "text": "* Customers' changing preference for environmental friendly product * Shareholders' inclination to invest in companies with sustainable commitment * Reallocation of capitals to cleaner and greener investments by financial institutions. * Significant investment into technologies and infrastructure to address climate change and to look beyond own operations * Increase in operational costs to meet regulatory requirements for GHG emissions and climate change",
+        "gpt-4o-mini_label": "opportunity",
+        "gpt-4o-mini_explanation": "The paragraph highlights several positive trends, such as customers preferring environmentally friendly products and shareholders investing in sustainable companies, indicating potential business opportunities arising from climate change initiatives.\n```",
+        "comment": "multi:the statement talks about risks but also opportunities to invest into greener products and attrack investment"
+    },
+    {
+        "label": "neutral",
+        "text": "Inherent Limitations of the Sustainability Report LG Chem's sustainability report is prepared to meet the common needs of a broad range of users and may not, therefore, include every aspect of the sustainability reporting that each individual user may consider important in its own particular environment. Due to inherent limitation of internal controls, controls at the Company may not prevent, or detect and correct, all errors or omissions in processing or reporting transactions related to the sustainability report. Also, the projection of any conclusion on a sustainability report to future periods is subject to the risk that controls at the company may become inadequate or fail.",
+        "gpt-4o-mini_label": "risk",
+        "gpt-4o-mini_explanation": "The paragraph highlights the inherent limitations and potential failures in the sustainability reporting process of LG Chem, indicating risks associated with errors or omissions that could negatively impact the company's ability to report accurately on sustainability efforts.\n```",
+        "comment": "debatable,hedge:definitly a risk related text, but it's more a juridic statement, it's not really risk by the company"
+    },
+    {
+        "label": "risk",
+        "text": "Sustainability aspects and climate-related risks and opportunities are integrated into the Group-wide risk management process at Daimler. They are understood to be conditions, events, or develop- ments involving environmental, social or governance factors (ESG), the occurrence of which may have an actual or potential impact on the Daimler Group's profitability, cash flows and financial position, as well as on its reputation. ESG-related risks and opportunities that are very likely to have a serious negative impact on non-financial aspects in accordance with the CSR Directive Implementation Act (CSR-RUG) can be found in the respective categories of the Risk and Opportunity Report according to their cause. Furthermore, Daimler follows the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD) with regard to climate-related risks and opportunities.",
+        "gpt-4o-mini_label": "neutral",
+        "gpt-4o-mini_explanation": "The paragraph provides a factual overview of how Daimler integrates sustainability aspects and climate-related risks and opportunities into its risk management process without expressing a positive or negative sentiment towards these developments.\n```",
+        "comment": "debatable,description,multi:describe a process, contains both risk and opportunities. Overall tone ?"
+    },
+    {
+        "label": "neutral",
+        "text": "In responding to Resolution 6.1 we have: z approved and published an Energy Policy consisting of financing of fossil-fuel-related activities, encompassing thermal coal, upstream oil and upstream gas, fossil-fuelled power generation, and renewable and embedded energy solutions.",
+        "gpt-4o-mini_label": "risk",
+        "gpt-4o-mini_explanation": "The paragraph discusses the financing of fossil-fuel-related activities, which are associated with negative environmental impacts and potential business downside risks due to climate change regulations and societal push for sustainability.\n```",
+        "comment": "error:GPT-4o looked for indirect links"
+    },
+    {
+        "label": "neutral",
+        "text": "To advance our voting activities on climate change, we created our first climate-change voting policy, which will commence this year. We will look to vote against the re-election of chairs of heavy emitting companies' boards that have inadequate climate-change disclosures, management and emissions performance. This will include the consideration of how risks and opportunities presented by the low-carbon transition are managed, as well as a company's own Scope 1 and 2 emissions.",
+        "gpt-4o-mini_label": "risk",
+        "gpt-4o-mini_explanation": "The paragraph primarily discusses the potential negative implications of inadequate climate-change disclosures and management by heavy emitting companies, indicating a focus on risks associated with their emissions performance and the low-carbon transition.\n```",
+        "comment": "multi,error,description:overall this statement describe something which can have impact in both risk and opportunities."
+    },
+    {
+        "label": "opportunity",
+        "text": "Grid & Infrastructure and Retail - today represent the energy world of tomorrow. We rank among Europe's market leaders in the grid and retail business and have leading positions in renewables. We intend to spend a total of between EUR6.5 billion and EUR7.0 billion in capital throughout the Group from 2017 to 2019.",
+        "gpt-4o-mini_label": "neutral",
+        "gpt-4o-mini_explanation": "The paragraph provides factual information about the company's position in the energy market and its planned capital expenditure without expressing any positive or negative sentiment regarding risks or opportunities related to climate change.\n```",
+        "comment": "error:definitly an opportunity for the company"
+    },
+    {
+        "label": "neutral",
+        "text": "We also look at the way banks facilitate financing by others, for example by arranging the issue of green bonds. For each of these categories we look at the bank's current lending, historical trends and lending targets. There are also 'no go projects'. We won't invest in any bank which lends to an Adani Carmichael coal mine. Internationally we won't invest in any bank which lends to a Keystone XL pipeline transporting oil from the tar sands of Canada.",
+        "gpt-4o-mini_label": "risk",
+        "gpt-4o-mini_explanation": "The paragraph highlights the bank's refusal to invest in projects associated with fossil fuels, indicating a negative stance towards financing activities that could harm the environment. This reflects a risk management approach to avoid potential reputational and financial losses linked to environmentally detrimental projects.\n```",
+        "comment": "debatable:they highlight the strategy for risk management"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "label": "Yes",
+        "text": "WRAP -- PPL Electric's Winter Relief Assistance Program -- helps customers with limited incomes reduce their home energy use and lower their electric bills.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence describes a program aimed at helping customers reduce energy use and lower bills, but it does not explicitly claim any positive environmental impact or suggest that the program is environmentally friendly.\n```",
+        "comment": "implicit-describe:this sentence only describe something, they do not mention explicitly that they do something for the environment, and do not sugguest that they do."
+    },
+    {
+        "label": "Yes",
+        "text": "To strengthen its approach, Kering's SBT for a 1.5degC trajectory was revised and approved by the SBTi in early 2021.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses Kering's SBT (Science-Based Targets) approval but does not make any specific environmental claims about a product or service being environmentally friendly or less damaging to the environment.\n```",
+        "comment": "ambiguous,strengthen,implicit-describe:SBT is a common indicator that a company has good climate targets, the statement is not explicit and describe something but implictly it sugguest good environmental performances. In particular strengthen suggest the statement is part of a text that make an environmental claim. "
+    },
+    {
+        "label": "Yes",
+        "text": "In October 2018, EnBW published its first Green Financing Framework and issued its first green bond (Glossary, p. 153) with a volume of EUR500 million (p. 85 f.).",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence provides factual information about a company's financial activities but does not make any claims regarding the environmental impact or benefits of the green bond or financing framework.\n```",
+        "comment": "error,implicit-describe:here again the statement is about something relate to the climate, but it only describe elements. As the definition state that it should sugguest that the product is good for the environment. This is debatable here or at least explicit."
+    }
+]

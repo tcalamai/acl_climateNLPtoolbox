@@ -1,0 +1,58 @@
+[
+    {
+        "label": "net-zero",
+        "text": "\"South Sudan, through this second NDC, reiterates its commitment to the Paris Agreement goal of limiting global temperature rise to well below 2 degrees Celsius above pre-industrial levels, while making efforts to limit the increase to 1.5 degrees celsius. It details how South Sudan has significantly increases its climate ambition of reducing emissions across its sectors by 109.87 million tonnes of carbon dioxide equivalent while sequestering an additional 45.06 million tonnes by 2030\"\n\"South Sudan will continue to focus on increasing the share of renewable energy in the total energy mix. By increasing the share of solar, wind, hydro and biomass, South Sudan aims at achieving cumulative emission reduction of 69 percent by 2030 compared to the baseline. South Sudan will also promote the use of energy-efficient technologies and decentralized renewable energy grids, which can be both time- and cost-effective, to increase electricity access in rural areas\"\nAlong with the negative impacts of long-term conflicts, the adverse effects of changing climate are also being faced by the inhabitants of South Sudan. The country is experiencing an increasingly warm and dry climate with erratic rainfall. This is resulting in degradation of ecosystems and decreased agricultural productivity that is negatively impacting the livelihoods of a majority of the population. Political and economic instability, including limited access to capital, markets, infrastructure and technology, along with changing climate, are hindering the growth of the country.\nRecognizing this, and to achieve sustainable economic development, South Sudan aims to transition from a least developed country to a middle-income country by 2030, supported by inclusive, stable and sustainable economic growth, while alleviating poverty. Promoting environmental sustainability, climate-resilient communities and appropriate land use has been identified as a critical enabler that will complement the eight strategic priorities of the National Development Strategy (NDS) 2018-2021 (South Sudan Ministry of Finance and Planning 2018)",
+        "gpt-4o-mini_label": "reduction",
+        "gpt-4o-mini_explanation": "The text outlines South Sudan's commitment to reducing emissions by a specific percentage (69 percent) compared to a baseline by 2030, which qualifies it as a reduction target. Although there are mentions of broader climate goals, the primary focus is on the specific emission reduction target.",
+        "comment": "multi:reduction -69% 2030, Paris Agreement goal is netzero 2050"
+    },
+    {
+        "label": "reduction",
+        "text": "Achieving carbon neutral growth by 2020\nReducing CO2 emissions by 50% by 2050 relative to 2005",
+        "gpt-4o-mini_label": "net-zero",
+        "gpt-4o-mini_explanation": "The text mentions both a net zero goal (carbon neutral growth) and a specific reduction target (50% reduction by 2050 relative to 2005). However, the primary focus is on achieving carbon neutrality, which aligns more closely with net zero targets.\n```",
+        "comment": "error:carbon neutral growth is not carbon neutrality. The model did not understand"
+    },
+    {
+        "label": "reduction",
+        "text": "Reduce GHG emissions (Scopes 1+2) (on a market basis*1) by 55% by FY2030 and to zero by FY2050 (compared to FY2017).",
+        "gpt-4o-mini_label": "net-zero",
+        "gpt-4o-mini_explanation": "The text outlines a reduction target of 55% by FY2030 and specifies a goal to bring emissions to zero by FY2050, indicating a commitment to achieving net zero emissions by that year.\n```",
+        "comment": "multi:both"
+    },
+    {
+        "label": "none",
+        "text": "For the purposes of our Active Ownership Strategy, we focus on the following aspects relating to the environment in order to select initiatives:\nEnergy revolution\nReduction of CO2 emissions\nBiodiversity",
+        "gpt-4o-mini_label": "reduction",
+        "gpt-4o-mini_explanation": "The text mentions the \"Reduction of CO2 emissions,\" which indicates a commitment to reducing emissions, but it does not specify a net zero target or a specific year for achieving such a target. Therefore, it is classified as a reduction target.",
+        "comment": "error:the target should be explicitly set."
+    },
+    {
+        "label": "net-zero",
+        "text": "The energy sector is the highest contributor of GHG in Liberia emanating mainly from the use of traditional fuels such as firewood, charcoal and palm oil and the use of fossil fuels,\nespecially petroleum products. To reduce the reliance on traditional fuel and increase the use of modern and renewable energy sources, the National Energy Policy (2009) was\ndeveloped with a set of goals targeted at maximizing efficiency, minimizing costs and adverse environmental impacts as principle of extending energy access to all Liberians.\nMost recently, Liberia's Initial National Communication (2013) reinforces the National Energy Policy with additional long-term targets and related activities, which includes:\n* Reducing GHGs by at least 10% by 2030\n* Improving energy efficiency by at least 20% by 2030\n* Raising share of renewable energy to at least 30% of electricity production and\n10% of overall energy consumption by 2030\n* Replacing cooking stoves with low thermal efficiency (5-10%) with the higherefficiency (40%) stoves.\nThe long-term strategy of Liberia is to achieve carbon neutrality by 2050. The strategic\noptions for mitigation considered under the INDC are the energy sector (electricity,\ntransport) and the waste sector. The Waste Sector focuses on solid waste disposal on land.\nIn 2000, the waste sector accounted for about 0.60% of Liberia's national total CO2 eq\nemissions. A significant subcategory is CH4 emissions from solid waste disposal sites\n(SWDS) on land, which contributed 91.7%. CH4 mitigation targets will include landfill\nrecovery, waste incineration with energy recovery, composting of organic waste,\ncontrolled wastewater treatment, and recycling and waste minimization.",
+        "gpt-4o-mini_label": "reduction",
+        "gpt-4o-mini_explanation": "The text outlines specific reduction targets for GHG emissions and energy efficiency improvements by 2030, as well as a long-term goal of achieving carbon neutrality by 2050. While it mentions the aim for carbon neutrality, the primary focus is on the specific reduction targets set for 2030, which are clearly defined and measurable.",
+        "comment": "multi:both reduction and net zero targets"
+    },
+    {
+        "label": "net-zero",
+        "text": "Amsterdam aims for a 95% emmissions reduction by 2050 (reference year 1990). Unclear how this becomes climate neutrality though.",
+        "gpt-4o-mini_label": "reduction",
+        "gpt-4o-mini_explanation": "The text specifies a target of 95% emissions reduction by 2050 compared to a reference year of 1990, which qualifies it as a reduction target. The mention of climate neutrality is secondary and does not indicate a net zero target.\n```",
+        "comment": "debatable:is 95% carbon neutral ? part of the statement."
+    },
+    {
+        "label": "net-zero",
+        "text": "Based on our track record and plans up to 2030 we are confident that we are well-placed to make significant progress beyond 2030 and up to 2050. (Pg. 27)",
+        "gpt-4o-mini_label": "none",
+        "gpt-4o-mini_explanation": "The text discusses progress towards future goals without specifying any concrete reduction or net zero targets, making it unclear whether it refers to reduction or net zero targets specifically.\n```",
+        "comment": "wrong:there is not target here, they just say that they are confident in achieving them."
+    },
+    {
+        "label": "reduction",
+        "text": "Our net zero journey continues with a focus on reducing our value chain emissions 50% by 2030 and 90%+ by 2040, relative to a 2018 baseline. See:",
+        "gpt-4o-mini_label": "net-zero",
+        "gpt-4o-mini_explanation": "The text discusses both a net zero journey and specific reduction targets for emissions by 2030 and 2040, but the primary focus is on achieving net zero emissions, which is the ultimate goal. Therefore, it qualifies as a net-zero target.",
+        "comment": "error,multi:same as above, 90% is net zero ? In this case it is harder to argue. But the net zero is mentioned at the begining"
+    }
+]

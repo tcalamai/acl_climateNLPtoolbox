@@ -1,0 +1,73 @@
+[
+    {
+        "label": "Yes",
+        "text": "The red-bellied newt is brown on the upper body with a red underbelly, has grainy skin, and grows to between 5.5 and 7.5 in.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence describes the physical characteristics of the red-bellied newt, which does not have a direct or indirect connection to climate change or related topics.\n```",
+        "comment": "debatable,indirect:wikipedia page of taricha probably an endangered animal, which might be argued to be related to climate, but not explcitly"
+    },
+    {
+        "label": "Yes",
+        "text": "Di Natali attributed this rise in membership as \"clearly a response to the election\", continuing that, \"For a lot of people the way to respond to what was for many of them a devastating result, was to actually take some action...",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses a rise in membership in response to an election, which does not indicate any connection to climate change or related topics. It appears to be focused on political reactions rather than environmental issues.\n```",
+        "comment": "out-of-context: we could not find the original source difficult to say"
+    },
+    {
+        "label": "Yes",
+        "text": "Eagles, butterflies, bats and certain monkeys inhabit this layer.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence describes the habitat of various animal species without any reference to climate change or related topics. It does not connect to environmental issues or scientific fields that intersect with climate change.\n```",
+        "comment": "error,indirect: from the rainforest page, the rainforest is really related to climate change. The model did not understand that he has to find pages related to pages related to climate change which include rainforest"
+    },
+    {
+        "label": "Yes",
+        "text": "There are two types of lithosphere:",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses the lithosphere, which is a geological term and does not have a direct or indirect link to climate change or related topics.\n```",
+        "comment": "indirect: lithosphere this is indirect as it deals with geology but that is not related to climate change"
+    },
+    {
+        "label": "Yes",
+        "text": "The Senate vote throughout the states was between 10 and 20 percent.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses a Senate vote and percentages, which does not indicate any connection to climate change or related topics. It appears to be unrelated to environmental issues or climate policy.\n```",
+        "comment": "out-of-context: could come from any page related to politics maybe related to climate change but it need more context"
+    },
+    {
+        "label": "Yes",
+        "text": "Their common name is Pacific newts, sometimes also western newts or roughskin newts.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence provides information about the common names of a species of newts, which does not have a direct or indirect connection to climate change or related topics.\n```",
+        "comment": "debatable,indirect:wikipedia page of taricha probably an endangered animal, which might be argued to be related to climate, but not explcitly"
+    },
+    {
+        "label": "Yes",
+        "text": "It was concerned with advancing the party's position on LGBTIQ rights.",
+        "gpt-4o-mini_label": "0",
+        "gpt-4o-mini_explanation": "The sentence discusses a political party's stance on LGBTIQ rights, which does not have a direct or indirect connection to climate change or related topics.\n```",
+        "comment": "out-of-context: could come from any page related to politics maybe related to climate change but it need more context"
+    },
+    {
+        "label":"Yes",
+        "text":"At the 2010 federal election, the party advocated for an increase in the company tax rate to 33% and an increase in the Gillard Government's Mineral Resource Rent Tax; a new top marginal tax rate of 50%; the reintroduction of estate duties; a \"Tobin tax\" on foreign currency transactions; that family trusts be taxed as \"companies\"; the introduction of road congestion charges; and elimination of fringe benefit tax concessions for cars.",
+        "gpt-4o-mini_label":"0",
+        "gpt-4o-mini_explanation":"The sentence discusses tax policies and economic measures that do not have a direct or indirect connection to climate change or related topics. It does not mention any environmental issues, climate policies, or organizations associated with climate change.\nLabel: [No]\n```",
+        "comment": "indirect:mineral tax might be related and overall tax, but far fetch"
+    },
+    {
+        "label":"Yes",
+        "text":"According to the competitive exclusion principle, species less suited to compete for resources should either adapt or die out, although competitive exclusion is rarely found in natural ecosystems.",
+        "gpt-4o-mini_label":"0",
+        "gpt-4o-mini_explanation":"The sentence discusses the competitive exclusion principle, which is a concept in ecology. While it does not explicitly mention climate change, ecological principles are often relevant to discussions about biodiversity and environmental changes, which are closely linked to climate change topics. However, this specific sentence does not directly connect to climate change or its impacts.\nLabel: [No]\n```",
+        "comment": "error,indirect:almost, the model identified a link, but no"
+    },
+    {
+        "label":"Yes",
+        "text":"where \"P\", \"P\" are the vapor pressures at temperatures \"T\", \"T\" respectively, D\"H\" is the enthalpy of vaporization, and \"R\" is the universal gas constant.",
+        "gpt-4o-mini_label":"0",
+        "gpt-4o-mini_explanation":"The sentence discusses vapor pressures and enthalpy of vaporization, which are concepts relevant to thermodynamics and can be related to climate science, particularly in the context of atmospheric science and the behavior of gases in relation to temperature changes. However, it does not explicitly connect to climate change or related topics.\nLabel: [No]\n```",
+        "comment": "out-of-context:this could be linked, but this is out of context."
+    }
+
+]
