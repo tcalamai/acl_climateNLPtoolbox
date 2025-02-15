@@ -1,0 +1,122 @@
+[
+    {
+        "claim_id": 2584,
+        "claim": "Once the atmosphere reaches a saturation point, additional input of CO2 will not really have any major impact.",
+        "claim_label": "NOT_ENOUGH_INFO",
+        "evidences": "{'article': 'Atmosphere of Earth', 'entropy': 0.0, 'evidence': 'Both exceed 100% because their CO2 values were increased to 345\\xa0ppmv, without changing their other constituents to compensate.', 'evidence_id': 'Atmosphere of Earth:239', 'evidence_label': 'NOT_ENOUGH_INFO', 'votes': array(['NOT_ENOUGH_INFO', 'NOT_ENOUGH_INFO', None, None, None],\n      dtype=object)}",
+        "label": "NOT_ENOUGH_INFO",
+        "query": "Once the atmosphere reaches a saturation point, additional input of CO2 will not really have any major impact.",
+        "text": "Both exceed 100% because their CO2 values were increased to 345 ppmv, without changing their other constituents to compensate.",
+        "gpt-4o-mini_label": "REFUTES",
+        "gpt-4o-mini_explanation": "The evidence discusses an increase in CO2 values and suggests that this increase does not compensate for other constituents, implying that the saturation point is being exceeded. This contradicts the claim that additional CO2 input will not have a major impact once saturation is reached.\nLabel: REFUTES\n```",
+        "comment": "error: unclear evidence, seems to relate to something else"
+    },
+    {
+        "claim_id": 2333,
+        "claim": "\"While major green house gas  H2O substantially warms the Earth, minor green house gases such as CO2  have little effect....",
+        "claim_label": "NOT_ENOUGH_INFO",
+        "evidences": "{'article': 'Global warming', 'entropy': 0.636514168294812, 'evidence': 'She found moist air warmed more than dry air, and CO 2 warmed most, so she concluded higher levels of this in the past would have increased temperatures: Huddleston 2019.', 'evidence_id': 'Global warming:815', 'evidence_label': 'NOT_ENOUGH_INFO', 'votes': array(['NOT_ENOUGH_INFO', 'NOT_ENOUGH_INFO', 'REFUTES', None, None],\n      dtype=object)}",
+        "label": "NOT_ENOUGH_INFO",
+        "query": "\"While major green house gas  H2O substantially warms the Earth, minor green house gases such as CO2  have little effect....",
+        "text": "She found moist air warmed more than dry air, and CO 2 warmed most, so she concluded higher levels of this in the past would have increased temperatures: Huddleston 2019.",
+        "gpt-4o-mini_label": "REFUTES",
+        "gpt-4o-mini_explanation": "The evidence discusses how CO2 contributes to warming, which contradicts the claim that CO2 has little effect on warming compared to major greenhouse gases like H2O. Therefore, the evidence refutes the claim.\nLabel: REFUTES\n```",
+        "comment": "disputable:the evidence does not seem strong enough, she concluded"
+    },
+    {
+        "claim_id": 1576,
+        "claim": "Solar cycles cause global warming.",
+        "claim_label": "NOT_ENOUGH_INFO",
+        "evidences": "{'article': 'Global warming', 'entropy': 0.6931471805599451, 'evidence': 'In the scientific literature, there is an overwhelming consensus that global surface temperatures have increased in recent decades and that the trend is caused mainly by human-induced emissions of greenhouse gases.', 'evidence_id': 'Global warming:276', 'evidence_label': 'NOT_ENOUGH_INFO', 'votes': array(['REFUTES', 'NOT_ENOUGH_INFO', None, None, None], dtype=object)}",
+        "label": "NOT_ENOUGH_INFO",
+        "query": "Solar cycles cause global warming.",
+        "text": "In the scientific literature, there is an overwhelming consensus that global surface temperatures have increased in recent decades and that the trend is caused mainly by human-induced emissions of greenhouse gases.",
+        "gpt-4o-mini_label": "REFUTES",
+        "gpt-4o-mini_explanation": "The evidence discusses the consensus on global surface temperature increases being primarily due to human-induced emissions, which contradicts the claim that solar cycles are the cause of global warming.\nLabel: REFUTES\n```",
+        "comment": "wrong:here indeed the evidence constradicts the claim"
+    },
+    {
+        "claim_id": 1383,
+        "claim": "a new study by a leading climate economist, Richard Tol of the University of Sussex, concludes that warming may well bring gains, because carbon dioxide causes crops and wild ecosystems to grow greener and more drought-resistant.",
+        "claim_label": "NOT_ENOUGH_INFO",
+        "evidences": "{'article': 'Politics of global warming', 'entropy': 0.0, 'evidence': \"It is the first comprehensive contribution to the global warming debate by an economist and its conclusions lead to the promise of urgent action by the UK government to further curb Europe's CO 2 emissions and engage other countries to do so.\", 'evidence_id': 'Politics of global warming:128', 'evidence_label': 'NOT_ENOUGH_INFO', 'votes': array(['NOT_ENOUGH_INFO', 'NOT_ENOUGH_INFO', None, None, None],\n      dtype=object)}",
+        "label": "NOT_ENOUGH_INFO",
+        "query": "a new study by a leading climate economist, Richard Tol of the University of Sussex, concludes that warming may well bring gains, because carbon dioxide causes crops and wild ecosystems to grow greener and more drought-resistant.",
+        "text": "It is the first comprehensive contribution to the global warming debate by an economist and its conclusions lead to the promise of urgent action by the UK government to further curb Europe's CO 2 emissions and engage other countries to do so.",
+        "gpt-4o-mini_label": "REFUTES",
+        "gpt-4o-mini_explanation": "The evidence discusses a comprehensive contribution to the global warming debate by an economist, but it emphasizes the need for urgent action to curb CO2 emissions, which contradicts the claim that warming may bring gains due to increased carbon dioxide. Therefore, the evidence refutes the claim.\nLabel: REFUTES\n```",
+        "comment": "debatable:it does not directly contradicts the claim, more indirectly"
+    },
+    {
+        "claim_id": 2557,
+        "claim": "Poorly understood aspects of climate change do not change the fact that a great deal of climate science is well understood.",
+        "claim_label": "SUPPORTS",
+        "evidences": "{'article': 'Intergovernmental Panel on Climate Change', 'entropy': 0.636514168294812, 'evidence': 'In principle, this means that any significant new evidence or events that change our understanding of climate science between this deadline and publication of an IPCC report cannot be included.', 'evidence_id': 'Intergovernmental Panel on Climate Change:319', 'evidence_label': 'NOT_ENOUGH_INFO', 'votes': array(['NOT_ENOUGH_INFO', 'SUPPORTS', 'NOT_ENOUGH_INFO', None, None],\n      dtype=object)}",
+        "label": "NOT_ENOUGH_INFO",
+        "query": "Poorly understood aspects of climate change do not change the fact that a great deal of climate science is well understood.",
+        "text": "In principle, this means that any significant new evidence or events that change our understanding of climate science between this deadline and publication of an IPCC report cannot be included.",
+        "gpt-4o-mini_label": "SUPPORTS",
+        "gpt-4o-mini_explanation": "The evidence discusses the limitations on including new evidence in IPCC reports, which implies that existing well-understood climate science remains unchanged despite new findings. This aligns with the claim that a significant amount of climate science is well understood, regardless of poorly understood aspects.\nLabel: SUPPORTS\n```",
+        "comment": "error:I think here significant new evidence is not the same as poorly understood"
+    },
+    {
+        "claim_id": 821,
+        "claim": "Societies do fall apart from war, disease or chaos.",
+        "claim_label": "SUPPORTS",
+        "evidences": "{'article': 'American Civil War', 'entropy': 0.6931471805599451, 'evidence': 'It proved to be the death struggle of a society, which went down in ruins.', 'evidence_id': 'American Civil War:119', 'evidence_label': 'NOT_ENOUGH_INFO', 'votes': array(['SUPPORTS', 'NOT_ENOUGH_INFO', None, None, None], dtype=object)}",
+        "label": "NOT_ENOUGH_INFO",
+        "query": "Societies do fall apart from war, disease or chaos.",
+        "text": "It proved to be the death struggle of a society, which went down in ruins.",
+        "gpt-4o-mini_label": "SUPPORTS",
+        "gpt-4o-mini_explanation": "The evidence describes a society that ultimately failed, which aligns with the claim that societies can collapse due to various factors such as war, disease, or chaos.\nLabel: SUPPORTS\n```",
+        "comment": "error:unclear evidence"
+    },
+    {
+        "claim_id": 2738,
+        "claim": "When you read Phil Jones' actual words, you see he's saying there is a warming trend",
+        "claim_label": "SUPPORTS",
+        "evidences": "{'article': 'Hockey stick controversy', 'entropy': 0.636514168294812, 'evidence': 'From this, he concluded that \"The post-1980 global warming trend from surface thermometers is not credible.', 'evidence_id': 'Hockey stick controversy:177', 'evidence_label': 'NOT_ENOUGH_INFO', 'votes': array(['NOT_ENOUGH_INFO', 'REFUTES', 'NOT_ENOUGH_INFO', None, None],\n      dtype=object)}",
+        "label": "NOT_ENOUGH_INFO",
+        "query": "When you read Phil Jones' actual words, you see he's saying there is a warming trend",
+        "text": "From this, he concluded that \"The post-1980 global warming trend from surface thermometers is not credible.",
+        "gpt-4o-mini_label": "REFUTES",
+        "gpt-4o-mini_explanation": "The evidence indicates that Phil Jones concluded the post-1980 global warming trend from surface thermometers is not credible, which contradicts the claim that he is saying there is a warming trend. \nLabel: REFUTES\n```",
+        "comment": "error:here we do not know for sure who is he"
+    },
+    {
+        "claim_id": 1342,
+        "claim": "The worsening of tidal flooding in American coastal communities is largely a consequence of greenhouse gases from human activity, and the problem will grow far worse in coming decades, scientists reported Monday.",
+        "claim_label": "NOT_ENOUGH_INFO",
+        "evidences": "{'article': 'Effects of global warming', 'entropy': 0.0, 'evidence': 'The effects of global warming or climate damage include far-reaching and long-lasting changes to the natural environment, to ecosystems and human societies caused directly or indirectly by human emissions of greenhouse gases.', 'evidence_id': 'Effects of global warming:0', 'evidence_label': 'NOT_ENOUGH_INFO', 'votes': array(['NOT_ENOUGH_INFO', 'NOT_ENOUGH_INFO', None, None, None],\n      dtype=object)}",
+        "label": "NOT_ENOUGH_INFO",
+        "query": "The worsening of tidal flooding in American coastal communities is largely a consequence of greenhouse gases from human activity, and the problem will grow far worse in coming decades, scientists reported Monday.",
+        "text": "The effects of global warming or climate damage include far-reaching and long-lasting changes to the natural environment, to ecosystems and human societies caused directly or indirectly by human emissions of greenhouse gases.",
+        "gpt-4o-mini_label": "SUPPORTS",
+        "gpt-4o-mini_explanation": "The evidence discusses the effects of global warming and climate damage, which includes changes to the natural environment caused by human emissions of greenhouse gases. This aligns with the claim that links greenhouse gases to worsening tidal flooding in coastal communities, suggesting a supportive relationship.\nLabel: SUPPORTS\n```",
+        "comment": "wrong:it is pretty supporting"
+    },
+    {
+        "claim_id": 2738,
+        "claim": "When you read Phil Jones' actual words, you see he's saying there is a warming trend",
+        "claim_label": "SUPPORTS",
+        "evidences": "{'article': 'Hockey stick controversy', 'entropy': 0.636514168294812, 'evidence': 'He said there had probably been no global warming since the 1940s, and \"Satellite data show no appreciable warming of the global atmosphere since 1979.', 'evidence_id': 'Hockey stick controversy:175', 'evidence_label': 'NOT_ENOUGH_INFO', 'votes': array(['NOT_ENOUGH_INFO', 'REFUTES', 'NOT_ENOUGH_INFO', None, None],\n      dtype=object)}",
+        "label": "NOT_ENOUGH_INFO",
+        "query": "When you read Phil Jones' actual words, you see he's saying there is a warming trend",
+        "text": "He said there had probably been no global warming since the 1940s, and \"Satellite data show no appreciable warming of the global atmosphere since 1979.",
+        "gpt-4o-mini_label": "REFUTES",
+        "gpt-4o-mini_explanation": "The evidence presented indicates that Phil Jones claims there has been no significant warming since the 1940s and supports this with satellite data, which contradicts the claim that he acknowledges a warming trend. \nLabel: REFUTES\n```",
+        "comment": "debatable:again, we do not know who he is"
+    },
+    {
+        "claim_id": 2557,
+        "claim": "Poorly understood aspects of climate change do not change the fact that a great deal of climate science is well understood.",
+        "claim_label": "SUPPORTS",
+        "evidences": "{'article': 'Scientific consensus on climate change', 'entropy': 0.636514168294812, 'evidence': 'To inform decisions on adaptation and mitigation, it is critical that we improve our understanding of the global climate system and our ability to project future climate through continued and improved monitoring and research.', 'evidence_id': 'Scientific consensus on climate change:192', 'evidence_label': 'NOT_ENOUGH_INFO', 'votes': array(['NOT_ENOUGH_INFO', 'SUPPORTS', 'NOT_ENOUGH_INFO', None, None],\n      dtype=object)}",
+        "label": "NOT_ENOUGH_INFO",
+        "query": "Poorly understood aspects of climate change do not change the fact that a great deal of climate science is well understood.",
+        "text": "To inform decisions on adaptation and mitigation, it is critical that we improve our understanding of the global climate system and our ability to project future climate through continued and improved monitoring and research.",
+        "gpt-4o-mini_label": "REFUTES",
+        "gpt-4o-mini_explanation": "The evidence discusses the importance of improving understanding of the climate system, which implies that there are aspects of climate change that are not well understood. This directly contradicts the claim that a great deal of climate science is well understood, suggesting that the claim is not entirely accurate.\nLabel: REFUTES\n```",
+        "comment": "error:it does not really refute the claim"
+    }
+]
