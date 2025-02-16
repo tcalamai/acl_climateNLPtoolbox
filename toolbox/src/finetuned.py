@@ -46,6 +46,8 @@ DATASETS = [
     'sustainable_signals_review'
 ]
 
+HF_REPO = "anonymous"
+
 def load_model(dataset_name: str, device=0, multilabel=False):
     """
     Load a finetuned model given its name.
@@ -63,7 +65,7 @@ def load_model(dataset_name: str, device=0, multilabel=False):
     if dataset_name not in DATASETS:
         raise ValueError(f"Unknown model '{dataset_name}'. Available keys: {list(DATASETS)}")
 
-    model_path = f"tcalamai/{dataset_name}_42_distilRoBERTa"
+    model_path = f"{HF_REPO}/{dataset_name}_42_distilRoBERTa"
     if multilabel:
         pipe = pipeline("text-classification", model=model_path, device=device, token=os.environ["HUGGINGFACE_TOKEN"], top_k=None)
         
