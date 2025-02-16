@@ -18,28 +18,28 @@
         "text": "A natural rainforest emits and absorbs vast quantities of carbon dioxide.",
         "gpt-4o-mini_label": "0",
         "gpt-4o-mini_explanation": "The sentence mentions the carbon dioxide emissions and absorption by a rainforest, which relates to the carbon cycle and its implications for climate change. However, it does not explicitly connect these processes to climate change mechanisms or effects, making it insufficient to classify it as discussing climate change directly.\nLabel: 0\n```",
-        "comment": "error,prompt: this is definitly linked to cc, almost debatable but it looks a lot like the example - Methane increases temperature."
+        "comment": "debatable,prompt: looks like - Methane increases temperature but does not directly mentions cc"
     },
     {
         "label": 1,
         "text": "Some primarily scatter sunlight and thereby cool the planet, while others absorb sunlight and warm the atmosphere.",
         "gpt-4o-mini_label": "0",
         "gpt-4o-mini_explanation": "The sentence describes the effects of different substances on the planet's temperature, which relates to climate mechanisms. However, it does not explicitly connect to climate change or its broader implications.\nLabel: 0\n```",
-        "comment": "error,prompt: same as before - Methane increases temperature."
+        "comment": "error,prompt: same as before - Methane increases temperature or Methane is CH4"
     },
     {
         "label": 1,
         "text": "The Barbados Programme of Action was produced in 1994 to assist the SIDS in their sustainable development efforts.",
         "gpt-4o-mini_label": "0",
         "gpt-4o-mini_explanation": "The sentence mentions the Barbados Programme of Action and its focus on sustainable development for Small Island Developing States (SIDS), but it does not explicitly connect to climate change mechanisms, causes, or effects. It lacks context related to climate change.\nLabel: 0\n```",
-        "comment": "debatable:it's arguable that sustainable development is sufficient to say it's linked to cc but it could also fit into the example: EPA has adopted new regulations"
+        "comment": "error,debatable:it's arguable that sustainable development is sufficient to say it's linked to cc but it could also fit into the example: EPA has adopted new regulations"
     },
     {
         "label": 1,
         "text": "It was sometimes offered in opposition to the Heidelberg Appeal--also signed by numerous scientists and Nobel laureates earlier in 1992--which begins by criticizing \"an irrational ideology which is opposed to scientific and industrial progress, and impedes economic and social development.",
         "gpt-4o-mini_label": "0",
         "gpt-4o-mini_explanation": "The sentence does not discuss climate change directly; it references a critique of an ideology related to scientific and industrial progress without connecting it to climate change mechanisms, causes, or effects.\nLabel: 0\n```",
-        "comment": "debatable,out-of-context:this statement is purely ooc, in the guidelines this is supposed to be classified as negatives in doubt which the model did, however, the user can access internet to search for info/context. The iheidelberg appeal is a text directly linked to ecology."
+        "comment": "error,knowledge, debatable: The iheidelberg appeal is a text directly linked to ecology. The model does not seem to know this. Could also be considered debatable as the guidelines say in doubt to say that it is not related to cc"
     },
     {
         "label": 1,
@@ -53,14 +53,14 @@
         "text": "As of 2012, France generated over 90% of its electricity from zero carbon sources, including nuclear, hydroelectric, and wind.",
         "gpt-4o-mini_label": "0",
         "gpt-4o-mini_explanation": "The sentence provides information about France's electricity generation from zero carbon sources, which relates to efforts to reduce greenhouse gas emissions and combat climate change. However, it does not explicitly discuss climate change mechanisms, causes, or effects, nor does it connect to significant climate-related topics over a meaningful time period.\nLabel: 0\n```",
-        "comment": "energy,debatable:the same issue as often is talking about energy necessarly cc related. In the guidelines it is stated that Just mentioning clean energy, emissions, fossil fuels, etc. is not sufficient"
+        "comment": "energy,error:the same issue as often is talking about energy necessarly cc related. In the guidelines it is stated that Just mentioning clean energy, emissions, fossil fuels, etc. is not sufficient"
     },
     {
         "label": 1,
         "text": "Prior to the event a special initiative on water was presided by Charafat Afailal, Morocco's Minister in Charge of Water and Aziz Mekouar, COP 22 Ambassador for Multilateral Negotiations.",
         "gpt-4o-mini_label": "0",
         "gpt-4o-mini_explanation": "The sentence mentions a special initiative on water led by officials in Morocco, but it does not explicitly connect to climate change mechanisms, causes, or effects. It lacks context that ties it directly to climate change discussions.\nLabel: 0\n```",
-        "comment": "debatable,out-of-context:while this might be linked to cc, it need more context to say. More importantly they do not mention mechnaism/effect of cc. Could even be considered wrong imo"
+        "comment": "error,out-of-context,indirect:while this might be linked to cc, it need more context to say. More importantly they do not mention mechnaism/effect of cc. Could even be considered wrong imo"
     },
     {
         "label": 1,

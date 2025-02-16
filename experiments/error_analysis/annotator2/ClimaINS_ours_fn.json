@@ -4,76 +4,76 @@
         "label": "ENGAGE: Discuss steps, if any, the company has taken to engage key constituencies on the topic of climate change.",
         "gpt-4o-mini_label": "RISK PLAN: Does the company have a climate change policy with respect to risk management and investment management? If yes, please summarize. If no, how do you account for climate change in your risk management?",
         "gpt-4o-mini_explanation": "The text indicates that the company's Enterprise Risk Management (ERM) program, which includes considerations for weather-related events, is shared with the Board of Directors quarterly. This suggests that the company has a climate change policy in place regarding risk management, as it regularly reviews financial results and operations in relation to these risks.\n```",
-        "comment": "cropped-small:this statement is weird. ERM=entreprise risk management. So to indeed to engage with the stakeholder they share their risk report + financial results. But it is not specific to climate-change. The only part is about weather. I mean this could also fit into the risk management."
+        "comment": "multi:both seem valid"
     },
     {
         "text": "This forward view considers expert judgment on the changing frequency of Atlantic hurricane events",
         "label": "MANAGE: Describe actions the company is taking to manage the risks climate change poses to your business, including, in general terms, the use of computer modeling. If Yes - Please summarize what actions the company is taking and in general terms the use if any of computer modeling.",
         "gpt-4o-mini_label": "RISKS: Summarize the current or anticipated risks that climate change poses to your company. Explain the ways that these risks could affect your business. Include identification of the geographical areas affected by these risks",
         "gpt-4o-mini_explanation": "The text discusses the changing frequency of Atlantic hurricane events, indicating an awareness of the risks posed by climate change to the company, particularly in relation to extreme weather events.\n```",
-        "comment": "cropped-small:the statement is out-of-context and really short, seems like the company did not put a lot of effort into filling this making it diffcult to classify."
+        "comment": "multi:both seem valid"
     },
     {
         "text": "We do not feel this is a critical business neeed given the nature of our business",
         "label": "MITIGATE: Summarize steps the company has taken to encourage policyholders to reduce the losses caused by climate change-influenced events.",
         "gpt-4o-mini_label": "RISK PLAN: Does the company have a climate change policy with respect to risk management and investment management? If yes, please summarize. If no, how do you account for climate change in your risk management?",
         "gpt-4o-mini_explanation": "The text indicates that the company does not consider climate change a critical business need, suggesting a lack of a formal climate change policy regarding risk management and investment management.\n```",
-        "comment": "cropped-small:without more context this is hard to say."
+        "comment": "multi:both seem valid"
     },
     {
         "text": "The Company utilizes hurricane modeling tools (AIR & RMS) in our reinsurance program as a form of risk management, but no formal policy is in place The Company uses the services of an investment advisor to help manage the risks associated with our portfolio Climate change impact on investments has not been assessed Our Company has a disaster recovery plan in place that includes the ability to process off-site if our facility is not functional Disaster mitigation includes locating servers and other critical IT systems on the upper levels of our building",
         "label": "RISK PLAN: Does the company have a climate change policy with respect to risk management and investment management? If yes, please summarize. If no, how do you account for climate change in your risk management?",
         "gpt-4o-mini_label": "MANAGE: Describe actions the company is taking to manage the risks climate change poses to your business, including, in general terms, the use of computer modeling. If Yes - Please summarize what actions the company is taking and in general terms the use if any of computer modeling.",
         "gpt-4o-mini_explanation": "The text describes the use of hurricane modeling tools as part of the company's risk management strategy, indicating actions taken to manage climate-related risks. It also mentions a disaster recovery plan, which further supports the management of risks posed by climate change.\n```",
-        "comment": "off-topic,multi: locating servers and other critical IT systems on the upper levels of our building i believe this is not part of the risk plan. The question kind of overlap."
+        "comment": "multi:both seem valid"
     },
     {
         "text": "The company relies on MVP's ERM program to identify, assess, and manage the impact of climate change, as applicable",
         "label": "MANAGE:  Describe actions the company is taking to manage the risks climate change poses to your business, including, in general terms, the use of computer modeling. If Yes - Please summarize what actions the company is taking and in general terms the use if any of computer modeling.",
         "gpt-4o-mini_label": "ASSESS: Describe your company's process for identifying climate change-related risks and assessing the degree that they could affect your business, including financial implications.",
         "gpt-4o-mini_explanation": "The text indicates that the company uses MVP's Enterprise Risk Management (ERM) program to identify and assess the impact of climate change, which aligns with the process of assessing climate change-related risks.\n```",
-        "comment": "cropped-small,multi:assess and manage"
+        "comment": "multi:both seem valid"
     },
     {
         "text": "0549, \"SLF\") until August 2, 2013 Even though it wrote more than $100,000,000 of direct premium during 2013, most of that premium relates to either business written while it was part of SLF or business that was retained by SLF by way of reinsurance, services, and renewal rights agreements If the SLF business were removed, the Company's direct premiums for 2013 would have been below $100,000,000 (~ $40,000,000) The company does not currently market any new products, and the expectation is that the total direct premiums reported for 2014 will be well below $100,000,000\nIt is our understanding that SLF has filed survey responses for its group Because such a significant portion of the Company's business fell under SLF's policies and procedures in 2013, and the Company's adjusted direct premium is under $100,000,000 when the SLF relationship is factored in, we ask that you please see SLF's survey responses for information related to the Company's 2013 climate risk activities",
         "label": "EMISSIONS: Does the company have a plan to assess, reduce or mitigate its emissions in its operations or organizations? If yes, please summarize.",
         "gpt-4o-mini_label": "ASSESS",
         "gpt-4o-mini_explanation": "The text indicates that the company is referencing the climate risk activities of SLF, suggesting that there is an understanding of climate-related risks and their implications for the business, although it does not provide specific details about the company's own assessment process.\n```",
-        "comment": "main-branch:this answer is a copied answer to not answer the actual content, they refer to the main branch."
+        "comment": "debatable:no idea what this is about"
     },
     {
         "text": "With respect to both areas, Amerisure accounts for climate change indirectly as a cause, contributor, or influence affecting one or more other potential risks For example, the potential affects of climate change on weather patterns are considered as part of catastrophe modeling or loss control Amerisure has not yet identified climate change itself as a discreet risk susceptible of effective detection or management",
         "label": "RISK PLAN: Does the company have a climate change policy with respect to risk management and investment management? If yes, please summarize. If no, how do you account for climate change in your risk management?",
         "gpt-4o-mini_label": "ASSESS:Describe your company's process for identifying climate change-related risks and assessing the degree that they could affect your business, including financial implications.",
         "gpt-4o-mini_explanation": "The text describes Amerisure's process of accounting for climate change as an indirect factor influencing other risks, particularly in the context of catastrophe modeling and loss control, indicating an assessment of climate-related risks.\n```",
-        "comment": "multi:both could fit"
+        "comment": "debatable:could be both"
     },
     {
         "text": "We insure people and their healthcare We are primarily a medicare supplement insurer and although climate change could conceivably impact our insured risks, there is less of a direct correlation than that of other lines of business",
         "label": "ASSESS:Describe your company's process for identifying climate change-related risks and assessing the degree that they could affect your business, including financial implications.",
         "gpt-4o-mini_label": "RISKS: Summarize the current or anticipated risks that climate change poses to your company. Explain the ways that these risks could affect your business. Include identification of the geographical areas affected by these risks",
         "gpt-4o-mini_explanation": "The text mentions that climate change could impact insured risks, indicating an awareness of potential risks, but it also notes that the correlation is less direct compared to other lines of business, suggesting a limited assessment of specific climate-related risks.\n```",
-        "comment": "cropped-small,multi:could fit both"
+        "comment": "multi:these two categories are very close"
     },
     {
         "text": "NBIC does advise its customers how to mitigate losses from the impact of storms both before and after a major event",
         "label": "ENGAGE: Discuss steps, if any, the company has taken to engage key constituencies on the topic of climate change.",
         "gpt-4o-mini_label": "MITIGATE: Summarize steps the company has taken to encourage policyholders to reduce the losses caused by climate change-influenced events.",
         "gpt-4o-mini_explanation": "The text indicates that NBIC provides advice to its customers on how to reduce losses caused by storms, which are influenced by climate change, both prior to and following such events.\n```",
-        "comment": "cropped-small,multi:could definitly fit both"
+        "comment": "error:seems more like engage"
     },
     {
         "text": "Stress testing is an important risk management tool that tests the resiliency of Sun Life under extreme scenarios Dynamic Capital Adequacy Testing (DCAT) is an important example of Sun Life's stress testing programs The objective is to identify possible threats to Sun Life's financial position and to identify actions to mitigate the impact if they were to occur One scenario, for example, includes an evaluation of our risk exposure to climate change, which advances our understanding of some of the economic risks, as well as potential responses, mitigating actions, and future scenarios",
         "label": "MANAGE",
         "gpt-4o-mini_label": "ASSESS",
         "gpt-4o-mini_explanation": "The text describes Sun Life's process of identifying climate change-related risks through stress testing and Dynamic Capital Adequacy Testing (DCAT), which helps evaluate their risk exposure and understand potential economic impacts.\n```",
-        "comment": "off-topic,multi:here they describe how to assess but nothing about how to react/manage the risk. What to do once they stress test, they adapt the portfolio, they include the stress test as a criteria/constrain ?"
+        "comment": "multi:both seem correct"
     },
     {
-        "text":"However, Lincoln Financial has adopted electronic document delivery and document delivery suppression initiatives to reduce paper and energy usage",
-        "label":"MITIGATE: Summarize steps the company has taken to encourage policyholders to reduce the losses caused by climate change-influenced events.",
-        "gpt-4o-mini_label":"EMISSIONS: ",
-        "gpt-4o-mini_explanation":"The text indicates that Lincoln Financial has implemented initiatives aimed at reducing paper and energy usage, which suggests a plan to assess and mitigate its emissions in operations.\n```",
-        "comment": "off-topic:the company misunderstood the question"
+        "text": "However, Lincoln Financial has adopted electronic document delivery and document delivery suppression initiatives to reduce paper and energy usage",
+        "label": "MITIGATE: Summarize steps the company has taken to encourage policyholders to reduce the losses caused by climate change-influenced events.",
+        "gpt-4o-mini_label": "EMISSIONS: ",
+        "gpt-4o-mini_explanation": "The text indicates that Lincoln Financial has implemented initiatives aimed at reducing paper and energy usage, which suggests a plan to assess and mitigate its emissions in operations.\n```",
+        "comment": "multi:both valid"
     }
 ]
