@@ -1,9 +1,9 @@
 # Benchmarking the Benchmarks: Reproducing Climate-Related NLP Tasks
 
-## Introduction
-
 This repository supports our paper: **"Benchmarking the Benchmarks: Reproducing Climate-Related NLP Tasks"**.  
 We systematically evaluate 29 datasets spanning various climate-related NLP tasks, from topic detection to stance detection and fallacy detection.
+
+[link to the paper](https://hal.science/hal-05115308)
 
 ## Results and Contribution
 
