@@ -5,7 +5,7 @@
 This repository supports our paper: **"Benchmarking the Benchmarks: Reproducing Climate-Related NLP Tasks"**.  
 We systematically evaluate 29 datasets spanning various climate-related NLP tasks, from topic detection to stance detection and fallacy detection.
 
-# Results and Contribution
+## Results and Contribution
 
 In this study, we find that simple TF-IDF baselines perform surprisingly well, indicating that many of the evaluated tasks and datasets rely heavily on superficial linguistic cues such as term frequency. Furthermore, while fine-tuned transformer models tend to outperform large language models (LLMs) in terms of raw performance metrics, our error analysis suggests that this advantage might stem from overfitting to annotation noise rather than genuine improvements.
 
